@@ -1,0 +1,219 @@
+#u14488
+{
+	border-color: #000000;
+	background-color: #FFFFFF;
+	position: fixed;
+}
+
+#u14463
+{
+	-pie-box-shadow: none;
+	box-shadow: 6px 6px 8px rgba(0,0,0,0.22);
+	border-color: #000000;
+	opacity: 0.32;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=32)";
+	filter: alpha(opacity=32);
+	position: fixed;
+	background: #4B4642 url("../images/screen%20shot%202015-01-14%20at%20115009%20am.jpg") repeat center center;
+}
+
+#u14486
+{
+	background-color: transparent;
+	position: fixed;
+}
+
+#menuu14464
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: fixed;
+}
+
+#u14472,#u14473
+{
+	background-color: transparent;
+	position: relative;
+}
+
+#u14474-4
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	color: #000000;
+	text-align: center;
+	letter-spacing: 2px;
+	font-family: lato, sans-serif;
+	font-weight: 900;
+	position: relative;
+}
+
+#u14473:hover #u14474-4 p
+{
+	color: #CAB25C;
+	visibility: inherit;
+}
+
+#u14479,#u14480
+{
+	background-color: transparent;
+	position: relative;
+}
+
+#u14483-4
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	color: #000000;
+	text-align: center;
+	letter-spacing: 2px;
+	font-family: lato, sans-serif;
+	font-weight: 900;
+	position: relative;
+}
+
+#u14480:hover #u14483-4 p
+{
+	color: #CAB25C;
+	visibility: inherit;
+}
+
+#u14465,#u14466
+{
+	background-color: transparent;
+	position: relative;
+}
+
+#u14469-5
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	color: #000000;
+	text-align: center;
+	font-size: 14px;
+	letter-spacing: 2px;
+	font-family: lato, sans-serif;
+	font-weight: 900;
+	position: relative;
+}
+
+#u14466:hover #u14469-5 p,#u14466:hover #u14469-5 span
+{
+	color: #CAB25C;
+	visibility: inherit;
+}
+
+#u14473.MuseMenuActive #u14474-4 p,#u14480.MuseMenuActive #u14483-4 p,#u14466.MuseMenuActive #u14469-5 p,#u14466.MuseMenuActive #u14469-5 span
+{
+	color: #000000;
+	visibility: inherit;
+}
+
+#u14469-3
+{
+	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
+}
+
+#u14469
+{
+	line-height: 17px;
+}
+
+#u14469-2
+{
+	font-size: 12px;
+	line-height: 14px;
+}
+
+.MenuItem /* unifiedNavBar */
+{
+	cursor: pointer;
+}
+
+#u14557
+{
+	-pie-box-shadow: 8px 0px 8px #C6C6C6;
+	box-shadow: 8px 0px 8px rgba(0,0,0,0.22);
+	border-style: solid;
+	border-color: #ADADAD;
+	background-color: #FFFFFF;
+	border-width: 3px 0px 0px;
+}
+
+#u16422,#u16424,#u16420
+{
+	background-color: transparent;
+	position: relative;
+}
+
+#u16419-4,#u16418-4,#u16417-4
+{
+	background-color: transparent;
+	color: #212121;
+	line-height: 20px;
+	text-align: center;
+	text-transform: uppercase;
+	font-size: 15px;
+	font-family: league-gothic, sans-serif;
+	font-weight: 400;
+	position: relative;
+}
+
+#u14558
+{
+	border-color: #000000;
+	background-color: #000000;
+}
+
+#u14557_align_to_page,#u14558_align_to_page
+{
+	position: relative;
+}
+
+#u19698-6
+{
+	background-color: transparent;
+	color: #FFFFFF;
+	line-height: 12px;
+	text-align: center;
+	letter-spacing: 2px;
+	font-size: 10px;
+	font-family: lato, sans-serif;
+	font-weight: 400;
+	position: relative;
+}
+
+#u19698-2
+{
+	text-transform: lowercase;
+}
+
+#u14629-7
+{
+	background-color: transparent;
+	color: #FFFFFF;
+	line-height: 16px;
+	text-align: right;
+	text-transform: uppercase;
+	font-size: 12px;
+	font-family: lato, sans-serif;
+	font-weight: 300;
+	position: relative;
+}
+
+#u14629-3
+{
+	font-family: hammersmith-one, sans-serif;
+	font-weight: 400;
+}
+
+#u14629-4
+{
+	font-family: josefin-slab, serif;
+	font-weight: 300;
+}
+
