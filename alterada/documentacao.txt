@@ -6,12 +6,45 @@
 6-comentar o alert de falta de dependencias do muse (rodape)
 
 
+//forms - willians
+index
+form-u14051.php - Página Home - Menu envio
+form-u15350.php - Home Form - footer envio
 
+desportiva
+u15689-footer   - AP Desportiva - footer envio
+u12713-interior - AP Desportiva - Interior pagina envio
+u15608-menu     - AP Desportiva - menu envio
 
+modalidades
+u15305
+u15396
 
+parabens
+nao tem
 
-//feitos
+profissional
+u15789
+u15973
+u15909
+
+qualidade
+u15520
+u15480
+u15442
+
+sistema
+u15608
+u16173
+u15689
+
+sobre
+u15305
+u15396
+
+//refactors js - desktop feitos
 index - willians
+modalidades - willians
 desportiva - willians
 parabens - fabiano
 profissional - willians
@@ -22,3 +55,6 @@ sobre o metodo - fabiano
 
 //perguntas
 porque modalidades tinha redirect?
+tinham assuntos trocados - corrigi
+arquivos diferentes estavam chamando o mesmo php - corrigi
+
