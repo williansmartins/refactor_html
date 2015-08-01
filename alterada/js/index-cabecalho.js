@@ -1,4 +1,0 @@
-//
-if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required":["jquery-1.8.3.min.js", "museutils.js", "webpro.js", "musewpslideshow.js", "jquery.museoverlay.js", "touchswipe.js", "jquery.watch.js", "jquery.musemenu.js", "jquery.musepolyfill.bgsize.js", "jquery.scrolleffects.js", "museredirect.js", "index.css"], "outOfDate":[]};
-//
-document.write('\x3Cscript src="' + (document.location.protocol == 'https:' ? 'https:' : 'http:') + '//webfonts.creativecloud.com/lato:n9,n4,n3,n7:all;open-sans:n8,n6:all;league-gothic:n4:all;amatic-sc:n7:all;hammersmith-one:n4:all;josefin-slab:n3:all;yellowtail:n4:all.js" type="text/javascript">\x3C/script>');

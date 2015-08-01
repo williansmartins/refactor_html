@@ -1,0 +1,17 @@
+1-add o geral como link
+2-add o jquery como link
+3-verificar se nao precisa ter chamada de fontes novas no geral
+4-remover chamadas de scripts
+5-add chamada para o rodapé (específico) no final dos js's
+6-comentar o alert de falta de dependencias do muse (rodape)
+
+
+
+
+
+
+
+
+
+//perguntas
+porque modalidades tinha redirect?
