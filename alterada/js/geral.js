@@ -18,6 +18,11 @@ document
 				+ (document.location.protocol == 'https:' ? 'https:' : 'http:')
 				+ '//webfonts.creativecloud.com/open-sans:n8,n6:all;lato:n4,n7,n9,n3:all;paytone-one:n4:all;league-gothic:n4:all;hammersmith-one:n4:all;black-ops-one:n4:all;josefin-slab:n3:all.js" type="text/javascript">\x3C/script>');
 
+document
+		.write('\x3Cscript src="'
+				+ (document.location.protocol == 'https:' ? 'https:' : 'http:')
+				+ '//webfonts.creativecloud.com/lato:n9,n3,n4,n7,i4:all;open-sans:n8,n6:all;dosis:n5:all;league-gothic:n4:all;source-sans-pro:n3,n4:all;hammersmith-one:n4:all;josefin-slab:n3:all;yellowtail:n4:all.js" type="text/javascript">\x3C/script>');
+
 // dependencias do muse com 11 itens
 window.Muse = {};
 window.Muse.assets = {
