@@ -25,6 +25,10 @@ porque modalidades tinha redirect?
 porque parabens tinha redirect?
 porque sobre-o-metodo tinha redirect?
 
+porque o alta-performance-desportiva.html do tablet tinha redirect?
+
+
+
 pra que o muse_manifest.xml?
 pra que o sitemap.xml?
 
