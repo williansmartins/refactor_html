@@ -15,3 +15,4 @@
 
 //perguntas
 porque modalidades tinha redirect?
+porque parabens tinha redirect?
