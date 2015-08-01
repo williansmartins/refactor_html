@@ -16,3 +16,16 @@
 //perguntas
 porque modalidades tinha redirect?
 porque parabens tinha redirect?
+
+
+//porque está usando Adobe Air como use agent?
+<!--HTML Widget code-->
+<!-- <script type="text/javascript">
+	if( navigator.userAgent.indexOf("AdobeAIR") >= 0)
+		$("#u10085_iframe").replaceWith('<img width="774" height="499" style="background-color:#EEE;" src="http://www.youtube.com/yt/brand/media/image/YouTube-logo-full_color.png"/>')
+</script>
+
+<script type="text/javascript">
+	if( navigator.userAgent.indexOf("AdobeAIR") >= 0)
+		$("#u10099_iframe").replaceWith('<img width="774" height="499" style="background-color:#EEE;" src="http://www.youtube.com/yt/brand/media/image/YouTube-logo-full_color.png"/>')
+</script> -->
