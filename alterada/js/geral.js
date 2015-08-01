@@ -1,6 +1,7 @@
 //chamada para as fontes
 document.write('\x3Cscript src="' + (document.location.protocol == 'https:' ? 'https:' : 'http:') + '//webfonts.creativecloud.com/josefin-slab:n4,n3:all;hammersmith-one:n4:all;open-sans:n8,n6:all;black-ops-one:n4:all;lato:n7,n4,n3,i4:all;league-gothic:n4:all.js" type="text/javascript">\x3C/script>');
 document.write('\x3Cscript src="' + (document.location.protocol == 'https:' ? 'https:' : 'http:') + '//webfonts.creativecloud.com/league-gothic:n4:all;josefin-slab:n3:all;lato:n9,n3,n4,n7,i3:all;hammersmith-one:n4:all;open-sans:n8,n6:all;yellowtail:n4:all.js" type="text/javascript">\x3C/script>');
+document.write('\x3Cscript src="' + (document.location.protocol == 'https:' ? 'https:' : 'http:') + '//webfonts.creativecloud.com/league-gothic:n4:all;josefin-slab:n3:all;lato:n7,n4,n9,n3:all;hammersmith-one:n4:all;open-sans:n8,n6:all;yellowtail:n4:all.js" type="text/javascript">\x3C/script>');
 document.write('\x3Cscript src="' + (document.location.protocol == 'https:' ? 'https:' : 'http:') + '//webfonts.creativecloud.com/lato:n4,n7,n3:all;open-sans:n8,n6:all;dosis:n5:all;cardo:n4,i4:all;league-gothic:n4:all;josefin-slab:n3:all;hammersmith-one:n4:all;bebas-neue:n4:all;goudy-bookletter-1911:n4:all;sorts-mill-goudy:i5:all.js" type="text/javascript">\x3C/script>');
 
 //dependencias do muse com 11 itens
