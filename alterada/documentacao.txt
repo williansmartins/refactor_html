@@ -7,9 +7,10 @@
 
 
 //forms - willians
+// desktop
 index
-form-u14051.php - Página Home - Menu envio
-form-u15350.php - Home Form - footer envio
+form-u14051.php - Página Home - Menu enviou u14051/
+form-u15350.php - Home Form - footer enviou 
 
 desportiva
 u15689-footer   - AP Desportiva - footer envio
@@ -41,6 +42,45 @@ u15689
 sobre
 u15305
 u15396
+
+// phone
+index
+u18723
+u19292
+u18779
+
+desportiva
+form-u18685.php
+form-u17263.php
+form-u17974.php
+
+modalidades - X
+form-u18685.php
+form-u17974.php
+
+parabens
+form-u18685.php
+form-u17974.php
+
+profissional
+form-u18685.php
+form-u17835.php
+form-u17974.php
+
+qualidade
+form-u18685.php
+form-u18833.php
+form-u17974.php
+
+sistema
+form-u18685.php
+form-u19138.php
+form-u17974.php
+
+sobre
+form-u18685.php
+form-u17974.php
+
 
 //refactors js - desktop feitos
 index - willians
