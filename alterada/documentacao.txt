@@ -27,6 +27,7 @@ porque sobre-o-metodo tinha redirect?
 
 porque o alta-performance-desportiva.html do tablet tinha redirect?
 porque o alta-performance-profissional.html do tablet tinha redirect?
+porque o boa-forma.html do tablet tinha redirect?
 
 
 
