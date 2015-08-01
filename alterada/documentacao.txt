@@ -102,6 +102,7 @@ porque o alta-performance-profissional.html do tablet tinha redirect?
 porque o boa-forma.html do tablet tinha redirect?
 porque o estilo-de-vida.html do tablet tinha redirect?
 porque o index.html do tablet tinha redirect?
+porque o modalidades.html do tablet tinha redirect?
 
 pra que o muse_manifest.xml?
 pra que o sitemap.xml?
