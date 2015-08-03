@@ -1,3 +1,15 @@
+//itens combinados com os clientes
+2:00 - Análise
+3:50 - Internacionalizar o html somente(440 frases/palavras)
+2:00 - Unir arquivos php
+0:30 - Unificar formulários
+4:00 - Externalizar conteúdo JS
+6:30 - AJAX (Remover menu rodapé + chamadas dinâmicas)
+4:00 - Testes
+
+22:20 = R$ 1.330
+
+//etapas para resolver os js's
 1-add o geral como link
 2-add o jquery como link
 3-verificar se nao precisa ter chamada de fontes novas no geral
