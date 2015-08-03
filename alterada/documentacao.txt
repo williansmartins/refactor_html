@@ -1,9 +1,9 @@
-//itens combinados com os clientes
-2:00 - Análise
+//itens combinados com o cliente
+2:00 - Análise (willians e fabiano)
 3:50 - Internacionalizar o html somente(440 frases/palavras)
-2:00 - Unir arquivos php
+2:00 - Unir arquivos php (willians)
 0:30 - Unificar formulários
-4:00 - Externalizar conteúdo JS
+4:00 - Externalizar conteúdo JS (willians(15%) e fabiano(85%))
 6:30 - AJAX (Remover menu rodapé + chamadas dinâmicas)
 4:00 - Testes
 
