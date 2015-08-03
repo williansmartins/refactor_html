@@ -1,6 +1,3 @@
-# Repositorio: refactor_html
-
-
 //itens combinados com o cliente
 2:00 - Análise (willians e fabiano)
 3:50 - Internacionalizar o html somente(440 frases/palavras)
@@ -9,7 +6,6 @@
 4:00 - Externalizar conteúdo JS (willians(15%) e fabiano(85%))
 6:30 - AJAX (Remover menu rodapé + chamadas dinâmicas)
 4:00 - Testes
-
 22:20
 
 //etapas para resolver os js's
@@ -95,6 +91,42 @@ sobre
 form-u18685.php
 form-u17974.php
 
+//tablet
+index
+form-u22943.php
+form-u23005.php
+
+desportiva
+form-u23142.php
+form-u22079.php
+form-u23073.php
+
+modalidades
+form-u23142.php
+form-u23073.php
+
+parabens
+form-u23142.php
+form-u23073.php
+
+profissional
+form-u23142.php
+form-u21910.php
+form-u23073.php
+
+qualidade
+form-u23142.php
+form-u22593.php
+form-u23073.php
+
+sistema
+form-u23142.php
+form-u23378.php
+form-u23073.php
+
+sobre
+form-u23142.php
+form-u23073.php
 
 //refactors js - desktop feitos
 index - willians
@@ -152,3 +184,4 @@ arquivos diferentes estavam chamando o mesmo php - corrigi
 	if( navigator.userAgent.indexOf("AdobeAIR") >= 0)
 		$("#u2722_iframe").replaceWith('<img width="774" height="507" style="background-color:#EEE;" src="http://www.youtube.com/yt/brand/media/image/YouTube-logo-full_color.png"/>')
 </script>
+
