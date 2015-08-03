@@ -7,7 +7,7 @@
 6:30 - AJAX (Remover menu rodapé + chamadas dinâmicas)
 4:00 - Testes
 
-22:20 = R$ 1.330
+22:20
 
 //etapas para resolver os js's
 1-add o geral como link
