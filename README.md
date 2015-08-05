@@ -156,6 +156,8 @@ pra que o sitemap.xml?
 tinham assuntos trocados - corrigi
 arquivos diferentes estavam chamando o mesmo php - corrigi
 
+os placeholders nao estavam legal, não eram place holders, eu corrigi
+
 //porque está usando Adobe Air como use agent?
 <!--HTML Widget code-->
 <!-- <script type="text/javascript">
@@ -184,4 +186,17 @@ arquivos diferentes estavam chamando o mesmo php - corrigi
 	if( navigator.userAgent.indexOf("AdobeAIR") >= 0)
 		$("#u2722_iframe").replaceWith('<img width="774" height="507" style="background-color:#EEE;" src="http://www.youtube.com/yt/brand/media/image/YouTube-logo-full_color.png"/>')
 </script>
+
+
+//alteracao do formulario de contato
+1-remover o form do início
+2-add o geral-pos no html
+3-comentar o init widget
+4-add o id="agende_uma_visita"
+5-add novos estilos
+	<link rel="stylesheet" type="text/css" href="css/master_home.css?4191303428"/>
+	<link rel="stylesheet" type="text/css" href="css/index.css?4243157305" id="pagesheet"/>
+6-
+
+obs.: levei 4 horas para descobrir como resolver isso(falta aplicar as 23 outras), tinha estimado em 0:30
 

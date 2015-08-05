@@ -1,4 +1,4 @@
-document.write('\x3Cscript src="' + (document.location.protocol == 'https:' ? 'https:' : 'http:') + '//webfonts.creativecloud.com/lato:n9,n4,n3,n7:all;open-sans:n8,n6:all;league-gothic:n4:all;amatic-sc:n7:all;hammersmith-one:n4:all;josefin-slab:n3:all;yellowtail:n4:all.js" type="text/javascript">\x3C/script>');
+// document.write('\x3Cscript src="' + (document.location.protocol == 'https:' ? 'https:' : 'http:') + '//webfonts.creativecloud.com/lato:n9,n4,n3,n7:all;open-sans:n8,n6:all;league-gothic:n4:all;amatic-sc:n7:all;hammersmith-one:n4:all;josefin-slab:n3:all;yellowtail:n4:all.js" type="text/javascript">\x3C/script>');
 
 $(document).ready(function() { 
 	try {
@@ -10,7 +10,7 @@ $(document).ready(function() {
 		Muse.Utils.prepHyperlinks(true);/* body */
 		$('#u14014').registerBackgroundPositionScrollEffect([{"in":[-Infinity,1000.8],"speed":[0,0.4]},{"in":[1000.8,Infinity],"speed":[0,0.5]}]);/* scroll effect */
 		Muse.Utils.initWidget('.MenuBar', function(elem) { return $(elem).museMenu(); });/* unifiedNavBar */
-		Muse.Utils.initWidget('#widgetu14051', function(elem) { new WebPro.Widget.Form(elem, {validationEvent:'submit',errorStateSensitivity:'high',fieldWrapperClass:'fld-grp',formSubmittedClass:'frm-sub-st',formErrorClass:'frm-subm-err-st',formDeliveredClass:'frm-subm-ok-st',notEmptyClass:'non-empty-st',focusClass:'focus-st',invalidClass:'fld-err-st',requiredClass:'fld-err-st',ajaxSubmit:true}); });/* #widgetu14051 */
+		// Muse.Utils.initWidget('#widgetu14051', function(elem) { new WebPro.Widget.Form(elem, {validationEvent:'submit',errorStateSensitivity:'high',fieldWrapperClass:'fld-grp',formSubmittedClass:'frm-sub-st',formErrorClass:'frm-subm-err-st',formDeliveredClass:'frm-subm-ok-st',notEmptyClass:'non-empty-st',focusClass:'focus-st',invalidClass:'fld-err-st',requiredClass:'fld-err-st',ajaxSubmit:true}); });/* #widgetu14051 */
 		Muse.Utils.initWidget('#pamphletu14037', function(elem) { new WebPro.Widget.ContentSlideShow(elem, {contentLayout_runtime:'loose',event:'mouseover',deactivationEvent:'mouseout_both',autoPlay:false,displayInterval:3000,transitionStyle:'fading',transitionDuration:500,hideAllContentsFirst:true,shuffle:false,enableSwipe:true,resumeAutoplay:false,resumeAutoplayInterval:3000,playOnce:false,autoActivate_runtime:false}); });/* #pamphletu14037 */
 		Muse.Utils.initWidget('#slideshowu18451', function(elem) { $(elem).data('widget', new WebPro.Widget.ContentSlideShow(elem, {heroFitting:'fillFrameProportionally',autoPlay:true,displayInterval:4500,slideLinkStopsSlideShow:false,transitionStyle:'fading',lightboxEnabled_runtime:false,shuffle:false,transitionDuration:900,enableSwipe:true,elastic:'fullWidth',resumeAutoplay:false,resumeAutoplayInterval:3000,playOnce:false,autoActivate_runtime:false})); });/* #slideshowu18451 */
 		$('#u18663').registerBackgroundPositionScrollEffect([{"in":[-Infinity,608.8],"speed":[0,0]},{"in":[608.8,Infinity],"speed":[0,0]}]);/* scroll effect */
@@ -25,4 +25,5 @@ $(document).ready(function() {
 		Muse.Utils.showWidgetsWhenReady();/* body */
 		Muse.Utils.transformMarkupToFixBrowserProblems();/* body */
 	} catch(e) { if (e && 'function' == typeof e.notify) e.notify(); else Muse.Assert.fail('Error calling selector function:' + e); }
+	
 });
