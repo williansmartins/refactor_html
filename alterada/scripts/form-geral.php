@@ -27,8 +27,8 @@ $form = array(
 		'unknown_method' => 'Método de solicitação de servidor desconhecido'
 	),
 	'email' => array(
-		'from' => 'comite.marketing@metododerose.org',
-		'to' => 'comite.marketing@metododerose.org'
+		'from' => 'professorwillians@gmail.com',
+		'to' => 'professorwillians@gmail.com'
 	),
 	'fields' => array(
 		'custom_nome' => array(
@@ -58,13 +58,13 @@ $form = array(
 			'errors' => array(
 			)
 		),
-		'custom_celular' => array(
+		'custom_telefone' => array(
 			'order' => 3,
 			'type' => 'string',
-			'label' => 'Celular',
+			'label' => 'Telefone',
 			'required' => true,
 			'errors' => array(
-				'required' => 'O campo \"Celular\" é obrigatório.'
+				'required' => 'O campo \"Telefone\" é obrigatório.'
 			)
 		),
 		'custom_bairro' => array(
@@ -80,5 +80,4 @@ $form = array(
 );
 
 process_form($form);
-echo "FIM";
 ?>

@@ -105,7 +105,7 @@ function email_form_submission($form) {
 	if(!defined('PHP_EOL'))
 		define('PHP_EOL', '\r\n');
 
-	$form_email = ((array_key_exists('Email', $_REQUEST) && !empty($_REQUEST['Email'])) ? cleanup_email($_REQUEST['Email']) : '');
+	$form_email = ((array_key_exists('custom_email', $_REQUEST) && !empty($_REQUEST['custom_email'])) ? cleanup_email($_REQUEST['custom_email']) : '');
 
 	$to = $form['email']['to'];
 	$subject = $form['subject'];
