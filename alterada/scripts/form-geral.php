@@ -31,16 +31,16 @@ $form = array(
 		'to' => 'comite.marketing@metododerose.org'
 	),
 	'fields' => array(
-		'custom_U12722' => array(
+		'custom_nome' => array(
 			'order' => 1,
 			'type' => 'string',
 			'label' => 'Name',
 			'required' => true,
 			'errors' => array(
-				'required' => 'O campo \"Name\" é obrigatório.'
+				'required' => 'O campo \"Nome\" é obrigatório.'
 			)
 		),
-		'Email' => array(
+		'custom_email' => array(
 			'order' => 2,
 			'type' => 'email',
 			'label' => 'Email',
@@ -50,30 +50,30 @@ $form = array(
 				'format' => 'O campo \"Email\" possui um email inválido.'
 			)
 		),
-		'custom_U12727' => array(
+		'custom_cidade' => array(
 			'order' => 4,
 			'type' => 'string',
-			'label' => 'Message',
+			'label' => 'Cidade',
 			'required' => false,
 			'errors' => array(
 			)
 		),
-		'custom_U12714' => array(
+		'custom_celular' => array(
 			'order' => 3,
 			'type' => 'string',
-			'label' => 'Cell Phone',
+			'label' => 'Celular',
 			'required' => true,
 			'errors' => array(
-				'required' => 'O campo \"Cell Phone\" é obrigatório.'
+				'required' => 'O campo \"Celular\" é obrigatório.'
 			)
 		),
-		'custom_U12718' => array(
+		'custom_bairro' => array(
 			'order' => 5,
 			'type' => 'string',
-			'label' => 'Message',
+			'label' => 'Bairro',
 			'required' => true,
 			'errors' => array(
-				'required' => 'O campo \"Message\" é obrigatório.'
+				'required' => 'O campo \"Bairro\" é obrigatório.'
 			)
 		)
 	)
