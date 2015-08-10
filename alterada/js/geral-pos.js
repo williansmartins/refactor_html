@@ -11,6 +11,7 @@ $(document).ready(function() {
 			var $alvo = $('.aqui');
 			$alvo.html("");
 			$alvo.append( form );
+			$alvo.children().hide();
 
 			//aplica a validação dos campos, via muse
 			Muse.Utils.initWidget('#widgetu14051', function(elem) { new WebPro.Widget.Form(elem, {validationEvent:'submit',errorStateSensitivity:'high',fieldWrapperClass:'fld-grp',formSubmittedClass:'frm-sub-st',formErrorClass:'frm-subm-err-st',formDeliveredClass:'frm-subm-ok-st',notEmptyClass:'non-empty-st',focusClass:'focus-st',invalidClass:'fld-err-st',requiredClass:'fld-err-st',ajaxSubmit:true}); });/* #widgetu14051 */
@@ -22,19 +23,70 @@ $(document).ready(function() {
 	    error: function() {
 	        alert("erro ao buscar");
 	    },
-	})
+	});
+
+   //acao do menu, agendar uma visita
+   $("#agende_uma_visita").mouseenter(function(){
+       //definir elementos
+       var $container = $('.aqui').find(".Container");
+       var $containerGroup = $('.aqui').find(".ContainerGroup");
+
+       //apresenta o form
+       $container.css('visibility', 'initial');
+       $containerGroup.show();
+       
+       //aplica o leave para fechar o form
+       $('.aqui').children().children().mouseleave(function(){
+           $(this).css('visibility', 'hidden');
+           $containerGroup.hide();
+       });
+
+   });
+
+	//busca do formulario externo - footer
+	$.ajax({
+	    url: "footer-form.html",
+	    type: "POST",
+	    success: function(result) {
+	        //guardar o conteudo do html
+	        var form = result;
+			//carrega menu-form.html dentro de aqui
+			var $alvo = $('.aqui_footer');
+			$alvo.html("");
+			$alvo.append( form );
+			$alvo.children().hide();
+
+			//aplica a validação dos campos, via muse
+			Muse.Utils.initWidget('#widgetu15350', function(elem) { new WebPro.Widget.Form(elem, {validationEvent:'submit',errorStateSensitivity:'high',fieldWrapperClass:'fld-grp',formSubmittedClass:'frm-sub-st',formErrorClass:'frm-subm-err-st',formDeliveredClass:'frm-subm-ok-st',notEmptyClass:'non-empty-st',focusClass:'focus-st',invalidClass:'fld-err-st',requiredClass:'fld-err-st',ajaxSubmit:true}); });/* #widgetu14051 */
+
+			//aplicar o assunto no form
+			var assunto = $("title").html();
+			$("#assunto").val(assunto + " - menu");
+
+			//add mouseover no botao fechar
+			$alvo.find('.fechar').css('cursos', 'pointer');
+			$alvo.find('.fechar').css("background-image", 'images/fechar.png');
+	    },
+	    error: function() {
+	        alert("erro ao buscar");
+	    },
+	});
 
 	//acao do menu, agendar uma visita
-	$("#agende_uma_visita").mouseenter(function(){
+	$("#u15342").click(function(){
 		//definir elementos
-		var $container = $('.aqui').find(".Container");
+		var $container = $('.aqui_footer').find(".Container");
+		var $containerGroup = $('.aqui_footer').find(".ContainerGroup");
 
 		//apresenta o form
 		$container.css('visibility', 'initial');
+		$containerGroup.show();
 	    
 	    //aplica o leave para fechar o form
-	    $('.aqui').children().children().mouseleave(function(){
-			$(this).css('visibility', 'hidden');
+	    $container.find('.fechar').click(function(){
+			$containerGroup.css('visibility', 'hidden');
+			$containerGroup.hide();
+			// console.log($containerGroup.id);
 		});
 
 	});

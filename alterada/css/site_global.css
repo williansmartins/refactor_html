@@ -641,3 +641,18 @@ p,h1,h2,h3,h4,h5,h6,ol,ul,span.actAsPara /* disable Android font boosting */
 	touch-action: none;
 }
 
+.fechar{
+	color: red;
+	width: 100px;
+	height: 100px;
+	/*outline: solid 1px red;*/
+	display: block;
+	position: absolute;
+	z-index: 351;
+	top: -29px;
+	left: -29px;
+	background-image: url("../images/fechar.png");
+	background-repeat: no-repeat;
+	text-indent: -99999px;
+	cursor: pointer;
+}
