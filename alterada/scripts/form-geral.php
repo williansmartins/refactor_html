@@ -27,7 +27,7 @@ $form = array(
 		'unknown_method' => 'Método de solicitação de servidor desconhecido'
 	),
 	'email' => array(
-		'from' => 'professorwillians@gmail.com',
+		'from' => 'comite.marketing@metododelrose.org',
 		'to' => 'professorwillians@gmail.com'
 	),
 	'fields' => array(

@@ -196,7 +196,12 @@ os placeholders nao estavam legal, não eram place holders, eu corrigi
 5-add novos estilos
 	<link rel="stylesheet" type="text/css" href="css/master_home.css?4191303428"/>
 	<link rel="stylesheet" type="text/css" href="css/index.css?4243157305" id="pagesheet"/>
-6-
+
 
 obs.: levei 4 horas para descobrir como resolver isso(falta aplicar as 23 outras), tinha estimado em 0:30
+
+//replicacao form do footer
+1-remover o html antigo
+2-add o class ".clique" no elemento "popup_element"
+3-add o class ".aqui_footer" no elemento popup
 
