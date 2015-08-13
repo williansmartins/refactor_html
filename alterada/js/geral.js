@@ -5,4 +5,3 @@ window.Muse.assets = {"required" : [ "jquery-1.8.3.min.js", "museutils.js", "web
 // sei la o que é isso
 document.documentElement.className += ' js';
 var __adobewebfontsappname__ = "muse";
-

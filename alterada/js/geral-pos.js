@@ -1,5 +1,7 @@
 $(document).ready(function() { 
 
+	//Muse.Redirect.redirect('desktop', 'tablet/index.html', 'phone/index.html');
+
 	//busca do formulario externo
 	$.ajax({
 	    url: "menu-form.html",
@@ -24,7 +26,7 @@ $(document).ready(function() {
 			$(".wrapped-input").css('text-transform', 'uppercase');
 	    },
 	    error: function() {
-	        alert("erro ao buscar");
+	        alert("erro ao buscar " + "menu-form.html");
 	    },
 	});
 
@@ -74,7 +76,8 @@ $(document).ready(function() {
 			$(".wrapped-input").css('text-transform', 'uppercase');
 	    },
 	    error: function() {
-	        alert("erro ao buscar");
+	        alert("erro ao buscar " + "footer-form.html");
+	        debugger;
 	    },
 	});
 
