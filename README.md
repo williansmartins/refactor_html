@@ -1,11 +1,12 @@
 //itens combinados com o cliente
 2:00 - Análise (willians e fabiano)
-3:50 - Internacionalizar o html somente(440 frases/palavras)
 2:00 - Unir arquivos php (willians)
-0:30 - Unificar formulários
 4:00 - Externalizar conteúdo JS (willians(15%) e fabiano(85%))
-6:30 - AJAX (Remover menu rodapé + chamadas dinâmicas)
 4:00 - Testes
+
+3:50 - Internacionalizar o html somente(440 frases/palavras)
+0:30 - Unificar formulários (desktop ok, phone index, tablet nao sera feito)
+6:30 - AJAX (Remover menu rodapé + chamadas dinâmicas)
 22:20
 
 //etapas para resolver os js's
@@ -15,6 +16,45 @@
 4-remover chamadas de scripts
 5-add chamada para o rodapé (específico) no final dos js's
 6-comentar o alert de falta de dependencias do muse (rodape)
+
+//etapas para alteracao do formulario de contato do menu (desktop)
+1-remover o form do início
+2-add o geral-pos.js no html
+3-comentar o init widget
+4-add o id="agende_uma_visita"
+5-add novos estilos
+	<link rel="stylesheet" type="text/css" href="css/master_home.css?4191303428"/>
+	<link rel="stylesheet" type="text/css" href="css/index.css?4243157305" id="pagesheet"/>
+
+//etapas para replicacao form do footer (desktop)
+1-remover o html antigo
+2-add o class ".clique" no elemento "popup_element"
+3-add o class ".aqui_footer" no elemento popup
+
+//etapas para replicacao dos forms (phone)
+1-remover o html's antigos (filhos de ContainerGroup)
+2-add o class ".aqui" no elemento "ContainerGroup"
+3-add o class ".botao" nos id=pamphletu18716	
+4-add o class ".x" nos elementos ">X<"
+5-comentar os pamfletus, no js do modulo
+6-fazer a chamada para o alterada/phone/js/geral-pos-phone.js
+	<script src="js/geral-pos-phone.js" type="text/javascript"></script>
+7-add estilos
+	<link rel="stylesheet" type="text/css" href="css/master_index-master.css?4252405239"/>
+  	<link rel="stylesheet" type="text/css" href="css/index.css?4175413306" id="pagesheet"/>	
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 //forms - willians
 // desktop
@@ -187,21 +227,7 @@ os placeholders nao estavam legal, não eram place holders, eu corrigi
 		$("#u2722_iframe").replaceWith('<img width="774" height="507" style="background-color:#EEE;" src="http://www.youtube.com/yt/brand/media/image/YouTube-logo-full_color.png"/>')
 </script>
 
-
-//alteracao do formulario de contato
-1-remover o form do início
-2-add o geral-pos no html
-3-comentar o init widget
-4-add o id="agende_uma_visita"
-5-add novos estilos
-	<link rel="stylesheet" type="text/css" href="css/master_home.css?4191303428"/>
-	<link rel="stylesheet" type="text/css" href="css/index.css?4243157305" id="pagesheet"/>
-
-
 obs.: levei 4 horas para descobrir como resolver isso(falta aplicar as 23 outras), tinha estimado em 0:30
 
-//replicacao form do footer
-1-remover o html antigo
-2-add o class ".clique" no elemento "popup_element"
-3-add o class ".aqui_footer" no elemento popup
+
 
