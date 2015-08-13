@@ -230,4 +230,10 @@ os placeholders nao estavam legal, não eram place holders, eu corrigi
 obs.: levei 4 horas para descobrir como resolver isso(falta aplicar as 23 outras), tinha estimado em 0:30
 
 
-
+obs.: fabiano, 
+1- apontamentos de js de phone nao estao ok
+2- http://tutida-refactor.dev/tablet/index.html - nao estava ok
+3- http://tutida-refactor.dev/phone/alta-performance-desportiva.html bugada
+4- alterou arquivos da pasta original
+5-<<<<<<< HEAD na alta performance esportiva em phone
+6- sugeira no fim do arquivo performance >>>>>>> e02f603cb415ba9af8938cb5460214660ad779c3
