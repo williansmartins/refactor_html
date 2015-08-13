@@ -237,3 +237,4 @@ obs.: fabiano,
 4- alterou arquivos da pasta original
 5-<<<<<<< HEAD na alta performance esportiva em phone
 6- sugeira no fim do arquivo performance >>>>>>> e02f603cb415ba9af8938cb5460214660ad779c3
+
