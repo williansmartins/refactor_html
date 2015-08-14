@@ -488,32 +488,44 @@
        </div>
       </div>
       <div class="clearfix colelem" id="u17833"><!-- column -->
-       <form class="form-grp clearfix colelem" id="widgetu17835" method="post" enctype="multipart/form-data" action="../scripts/form-geral.php"><!-- none box -->
+       <form class="form-grp clearfix colelem profissional" id="widgetu17835" method="post" enctype="multipart/form-data" action="../scripts/form-geral.php"><!-- none box -->
         <input type="hidden" value="Phone profissional - interior envio" name="assunto">
         <div class="fld-grp clearfix grpelem" id="widgetu17851" data-required="true"><!-- none box -->
-         <span class="fld-input NoWrap actAsDiv clearfix grpelem" id="u17853-4"><!-- content --><input class="wrapped-input" type="text" spellcheck="false" id="widgetu17851_input" name="custom_U17851" tabindex="7"/><label class="wrapped-input fld-prompt" id="widgetu17851_prompt" for="widgetu17851_input"><span class="actAsPara">Nome/SOBRENOME</span></label></span>
+         <span class="fld-input NoWrap actAsDiv clearfix grpelem" id="u17853-4"><!-- content --><input class="wrapped-input" type="text" spellcheck="false" id="widgetu17851_input" name="custom_nome" tabindex="7"/><label class="wrapped-input fld-prompt" id="widgetu17851_prompt" for="widgetu17851_input"><span class="actAsPara">Nome/SOBRENOME</span></label></span>
         </div>
         <div class="fld-grp clearfix grpelem" id="widgetu17842" data-required="true" data-type="email"><!-- none box -->
-         <span class="fld-input NoWrap actAsDiv clearfix grpelem" id="u17844-4"><!-- content --><input class="wrapped-input" type="text" spellcheck="false" id="widgetu17842_input" name="Email" tabindex="8"/><label class="wrapped-input fld-prompt" id="widgetu17842_prompt" for="widgetu17842_input"><span class="actAsPara">Email</span></label></span>
+         <span class="fld-input NoWrap actAsDiv clearfix grpelem" id="u17844-4"><!-- content --><input class="wrapped-input" type="text" spellcheck="false" id="widgetu17842_input" name="custom_email" tabindex="8"/><label class="wrapped-input fld-prompt" id="widgetu17842_prompt" for="widgetu17842_input"><span class="actAsPara">Email</span></label></span>
         </div>
-        <div class="clearfix grpelem" id="u17855-4"><!-- content -->
-         <p>Submitting Form...</p>
+        <div class="clearfix grpelem msg-erro" id="u17855-4"><!-- content -->
+         <p>Enviando Formulário...</p>
         </div>
-        <div class="clearfix grpelem" id="u17841-4"><!-- content -->
-         <p>The server encountered an error.</p>
+        <div class="clearfix grpelem msg-erro" id="u17841-4"><!-- content -->
+         <p>Observe se não há erros de preenchimento...</p>
         </div>
-        <div class="clearfix grpelem" id="u17846-4"><!-- content -->
-         <p>Form received.</p>
+        <div class="clearfix grpelem msg-erro" id="u17846-4"><!-- content -->
+         <p>Formulário recebido.</p>
         </div>
         <input class="submit-btn NoWrap grpelem" id="u17840-17" type="submit" value="" tabindex="12"/><!-- state-based BG images -->
         <div class="fld-grp clearfix grpelem" id="widgetu17836" data-required="false"><!-- none box -->
-         <span class="fld-textarea actAsDiv clearfix grpelem" id="u17838-4"><!-- content --><textarea class="wrapped-input" id="widgetu17836_input" name="custom_U17836" tabindex="10"></textarea><label class="wrapped-input fld-prompt" id="widgetu17836_prompt" for="widgetu17836_input"><span class="actAsPara">CIDADE</span></label></span>
+         <span class="fld-textarea actAsDiv clearfix grpelem" id="u17838-4"><!-- content --><textarea class="wrapped-input" id="widgetu17836_input" name="custom_cidade" tabindex="10"></textarea><label class="wrapped-input fld-prompt" id="widgetu17836_prompt" for="widgetu17836_input"><span class="actAsPara">CIDADE</span></label></span>
         </div>
         <div class="fld-grp clearfix grpelem" id="widgetu17847" data-required="true"><!-- none box -->
-         <span class="fld-input NoWrap actAsDiv clearfix grpelem" id="u17850-4"><!-- content --><input class="wrapped-input" type="text" spellcheck="false" id="widgetu17847_input" name="custom_U17847" tabindex="9"/><label class="wrapped-input fld-prompt" id="widgetu17847_prompt" for="widgetu17847_input"><span class="actAsPara">telefone</span></label></span>
+         <span class="fld-input NoWrap actAsDiv clearfix grpelem" id="u17850-4"><!-- content --><input class="wrapped-input" type="text" spellcheck="false" id="widgetu17847_input" name="custom_telefone" tabindex="9"/><label class="wrapped-input fld-prompt" id="widgetu17847_prompt" for="widgetu17847_input"><span class="actAsPara">telefone</span></label></span>
         </div>
         <div class="fld-grp clearfix grpelem" id="widgetu17856" data-required="true"><!-- none box -->
-         <span class="fld-textarea actAsDiv clearfix grpelem" id="u17859-4"><!-- content --><textarea class="wrapped-input" id="widgetu17856_input" name="custom_U17856" tabindex="11"></textarea><label class="wrapped-input fld-prompt" id="widgetu17856_prompt" for="widgetu17856_input"><span class="actAsPara">bairro</span></label></span>
+         <span class="fld-textarea actAsDiv clearfix grpelem" id="u17859-4"><!-- content --><textarea class="wrapped-input" id="widgetu17856_input" name="custom_bairro" tabindex="11"></textarea><label class="wrapped-input fld-prompt" id="widgetu17856_prompt" for="widgetu17856_input"><span class="actAsPara">bairro</span></label></span>
+        </div>
+        <div class="captcha phone">
+          <div class="">
+              <label class="dica" for="captcha">*Digite as letras abaixo.</label>
+              <div id="captcha-wrap">
+                  <img src="/img/refresh.jpg" alt="refresh captcha" id="refresh-captcha" /> 
+                  <img src="/php/newCaptcha.php" alt="" id="captcha" />
+              </div>
+              <span class="fld-input NoWrap actAsDiv clearfix grpelem" id="u18747-4"><!-- content -->
+                <input class="wrapped-input code" type="text" spellcheck="false" id="captcha" name="captcha" placeholde="Digite aqui" tabindex="6">
+              </span>
+          </div>
         </div>
        </form>
        <div class="clearfix colelem" id="u17860-4"><!-- content -->

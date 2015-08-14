@@ -44,7 +44,11 @@
   	<link rel="stylesheet" type="text/css" href="css/index.css?4175413306" id="pagesheet"/>	
 
 
-
+//etapas para replicar solucao de capcha interno
+1-add captcha
+2-trocar mensagens ingles>portugues
+3-trocar names dos inputs
+4-trocar estilo do captcha
 
 
 
