@@ -48,7 +48,8 @@
 1-add captcha
 2-trocar mensagens ingles>portugues
 3-trocar names dos inputs
-4-trocar estilo do captcha
+4-add class de erro
+5-trocar estilo do captcha (se necessário)
 
 
 
