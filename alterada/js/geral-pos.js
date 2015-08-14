@@ -23,7 +23,17 @@ $(document).ready(function() {
 			$("#assunto").val(assunto + " - menu");
 
 			//aplicar o UPPER CASE
-			$(".wrapped-input").css('text-transform', 'uppercase');
+			$(".wrapped-input, .captcha input").css('text-transform', 'uppercase');
+
+			//melhorando estilos
+			$(".captcha input").parent().css('text-indent', '0px');
+
+			//definir valores para apoio em desenvolvimento
+			// $("input[name = 'custom_nome']").val("Willians martins");
+			// $("input[name = 'custom_email']").val("meu@email.com");
+			// $("input[name = 'custom_telefone']").val("4141-9988");
+			// $("textarea[name = 'custom_cidade']").val("Jandira");
+			// $("textarea[name = 'custom_bairro']").val("Sagrado");
 	    },
 	    error: function() {
 	        alert("erro ao buscar " + "menu-form.html");
