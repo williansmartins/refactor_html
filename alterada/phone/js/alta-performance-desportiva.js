@@ -8,10 +8,10 @@ $(document).ready(function() {
 		/* body */
 		Muse.Utils.transformMarkupToFixBrowserProblemsPreInit();/* body */
 		Muse.Utils.prepHyperlinks(true);/* body */
-		// $('#u19469').registerBackgroundPositionScrollEffect([{"in":[-Infinity,-66],"speed":[0,0.5]},{"in":[-66,Infinity],"speed":[0,0.5]}]);/* scroll effect */
+		$('#u19469').registerBackgroundPositionScrollEffect([{"in":[-Infinity,-66],"speed":[0,0.5]},{"in":[-66,Infinity],"speed":[0,0.5]}]);/* scroll effect */
 		Muse.Utils.resizeHeight()/* resize height */
 		Muse.Utils.initWidget('.MenuBar', function(elem) { return $(elem).museMenu(); });/* unifiedNavBar */
-		// $('#u10685').registerBackgroundPositionScrollEffect([{"in":[-Infinity,840],"speed":[0,0.5]},{"in":[840,Infinity],"speed":[0,0.5]}]);/* scroll effect */
+		$('#u10685').registerBackgroundPositionScrollEffect([{"in":[-Infinity,840],"speed":[0,0.5]},{"in":[840,Infinity],"speed":[0,0.5]}]);/* scroll effect */
 		Muse.Utils.initWidget('#widgetu18685', function(elem) { new WebPro.Widget.Form(elem, {validationEvent:'submit',errorStateSensitivity:'high',fieldWrapperClass:'fld-grp',formSubmittedClass:'frm-sub-st',formErrorClass:'frm-subm-err-st',formDeliveredClass:'frm-subm-ok-st',notEmptyClass:'non-empty-st',focusClass:'focus-st',invalidClass:'fld-err-st',requiredClass:'fld-err-st',ajaxSubmit:true}); });/* #widgetu18685 */
 		Muse.Utils.initWidget('#pamphletu19336', function(elem) { new WebPro.Widget.ContentSlideShow(elem, {contentLayout_runtime:'lightbox',event:'click',deactivationEvent:'none',autoPlay:false,displayInterval:3000,transitionStyle:'fading',transitionDuration:500,hideAllContentsFirst:false,shuffle:false,enableSwipe:true,resumeAutoplay:true,resumeAutoplayInterval:3000,playOnce:false,autoActivate_runtime:false}); });/* #pamphletu19336 */
 		Muse.Utils.initWidget('#pamphletu10691', function(elem) { new WebPro.Widget.ContentSlideShow(elem, {contentLayout_runtime:'lightbox',event:'click',deactivationEvent:'none',autoPlay:false,displayInterval:3000,transitionStyle:'fading',transitionDuration:500,hideAllContentsFirst:false,shuffle:false,enableSwipe:true,resumeAutoplay:false,resumeAutoplayInterval:3000,playOnce:false,autoActivate_runtime:false}); });/* #pamphletu10691 */
