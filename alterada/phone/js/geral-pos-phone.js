@@ -31,11 +31,11 @@ $(document).ready(function() {
 			$(".wrapped-input").css('text-transform', 'uppercase');
 
 			//definir valores para apoio em desenvolvimento
-			$("input[name = 'custom_nome']").val("Willians martins");
-			$("input[name = 'custom_email']").val("meu@email.com");
-			$("input[name = 'custom_telefone']").val("4141-9988");
-			$("textarea[name = 'custom_cidade']").val("Jandira");
-			$("textarea[name = 'custom_bairro']").val("Sagrado");
+			// $("input[name = 'custom_nome']").val("Willians martins");
+			// $("input[name = 'custom_email']").val("meu@email.com");
+			// $("input[name = 'custom_telefone']").val("4141-9988");
+			// $("textarea[name = 'custom_cidade']").val("Jandira");
+			// $("textarea[name = 'custom_bairro']").val("Sagrado");
 	    },
 	    error: function() {
 	        alert("erro ao buscar: " + url);
