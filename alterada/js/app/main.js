@@ -40,7 +40,7 @@ define([
                 //generate new captcha
                 WEBAPP.cache.$refreshCaptcha.on('click', function(e)
                 {
-                    WEBAPP.cache.$captchaImg.attr("src","/php/newCaptcha.php?rnd=" + Math.random());
+                    WEBAPP.cache.$captchaImg.attr("src","php/newCaptcha.php?rnd=" + Math.random());
                 });
             },
 
