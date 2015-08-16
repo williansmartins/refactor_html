@@ -58,3 +58,11 @@
 }    
 
 /* FIM DO BLOCO DE ESTILO DE CAPTCHA INTERNO*/
+
+
+/* BLOCO DE ESTILO DE CAPTCHA INTERNO - DESKTOP - INDEX*/
+.index .clearfix.grpelem.msg-erro{
+    margin-top: 271px!important;
+    margin-left: 30px!important;
+}
+/* FIM DO BLOCO DE ESTILO DE CAPTCHA INTERNO*/
