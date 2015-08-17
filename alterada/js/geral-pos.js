@@ -1,5 +1,7 @@
 $(document).ready(function() { 
 
+	//Muse.Redirect.redirect('desktop', 'tablet/index.html', 'phone/index.html');
+
 	//busca do formulario externo
 	$.ajax({
 	    url: "menu-form.html",
@@ -19,9 +21,22 @@ $(document).ready(function() {
 			//aplicar o assunto no form
 			var assunto = $("title").html();
 			$("#assunto").val(assunto + " - menu");
+
+			//aplicar o UPPER CASE
+			$(".wrapped-input, .captcha input").css('text-transform', 'uppercase');
+
+			//melhorando estilos
+			$(".captcha input").parent().css('text-indent', '0px');
+
+			//definir valores para apoio em desenvolvimento
+			// $("input[name = 'custom_nome']").val("Willians martins");
+			// $("input[name = 'custom_email']").val("meu@email.com");
+			// $("input[name = 'custom_telefone']").val("4141-9988");
+			// $("textarea[name = 'custom_cidade']").val("Jandira");
+			// $("textarea[name = 'custom_bairro']").val("Sagrado");
 	    },
 	    error: function() {
-	        alert("erro ao buscar");
+	        alert("erro ao buscar " + "menu-form.html");
 	    },
 	});
 
@@ -66,14 +81,18 @@ $(document).ready(function() {
 			//add mouseover no botao fechar
 			$alvo.find('.fechar').css('cursos', 'pointer');
 			$alvo.find('.fechar').css("background-image", 'images/fechar.png');
+
+			//aplicar o UPPER CASE
+			$(".wrapped-input").css('text-transform', 'uppercase');
 	    },
 	    error: function() {
-	        alert("erro ao buscar");
+	        alert("erro ao buscar " + "footer-form.html");
+	        debugger;
 	    },
 	});
 
 	//acao do menu, agendar uma visita
-	$("#u15342").click(function(){
+	$(".clique").click(function(){
 		//definir elementos
 		var $container = $('.aqui_footer').find(".Container");
 		var $containerGroup = $('.aqui_footer').find(".ContainerGroup");

@@ -12,9 +12,12 @@ function process_form($form) {
 	if ($_SERVER['REQUEST_METHOD'] != 'POST')
 		die(get_form_error_response($form['resources']['unknown_method']));
 
-	if (formthrottle_too_many_submissions($_SERVER['REMOTE_ADDR']))
-		die(get_form_error_response($form['resources']['too_many_submissions']));
+	// if (formthrottle_too_many_submissions($_SERVER['REMOTE_ADDR']))
+	// 	die(get_form_error_response($form['resources']['too_many_submissions']));
 	
+	//verifica se o captcha está ok
+	check_captcha($form);
+
 	// will die() if there are any errors
 	check_required_fields($form);
 	
@@ -34,6 +37,24 @@ function get_form_response($success, $data) {
 	$status[$success ? 'FormResponse' : 'MusePHPFormResponse'] = array_merge(array('success' => $success), $data);
 	
 	return json_serialize($status);
+}
+
+function check_captcha($form) {
+	session_start();
+
+
+    if(isset($form['captcha']) && $form['captcha'] != "")
+    {
+    	$bate = json_encode(strtolower($form['captcha']) == strtolower($_SESSION['captcha']));
+
+        if($bate == "false"){
+			die(get_form_error_response($form['resources']['captcha_errado']));
+        }
+    }
+    else
+    {
+    	die(get_form_error_response($form['resources']['captcha_errado']));
+    }
 }
 
 function check_required_fields($form) {

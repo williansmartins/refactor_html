@@ -1,0 +1,60 @@
+
+.captcha{
+	/*outline: solid 1px red;*/
+    width: 229px;
+    position: absolute;
+    top: 258px;
+    left: 0px;
+}
+
+.captcha.phone{
+	/*outline: solid 1px red;*/
+    width: 229px;
+    position: absolute;
+    top: 266px;
+    left: 0px;
+}  
+
+
+
+.captcha .code{
+    color: white;
+    padding: 9px 6px 6px;
+    text-indent: 15px;
+    /*outline: solid 1px red;*/
+    width: 223px;
+}
+.captcha .dica{
+    color: white;
+    top: -3px;
+    position: relative;
+}
+
+.msg-erro{
+    margin-top: 379px!important;
+    width: 130px!important;
+    /*outline: solid 1px red;*/
+}
+
+.submit-btn{
+    margin-top: 380px!important;
+}
+
+/* BLOCO DE ESTILO DE CAPTCHA INTERNO - PROFISSIONAL*/
+
+.profissional .clearfix.grpelem.msg-erro{
+    margin-top: 281px!important;
+    margin-left: 30px!important;
+}
+.profissional .captcha.phone .dica{
+    color: black;
+}
+.profissional .captcha.phone  .fld-input{
+    outline: solid 1px #191717;
+    background-color: white!important;
+}
+.profissional .captcha.phone .code{
+    color: black;
+}    
+
+/* FIM DO BLOCO DE ESTILO DE CAPTCHA INTERNO*/
