@@ -40,7 +40,7 @@ function get_form_response($success, $data) {
 }
 
 function check_captcha($form) {
-	session_start();
+	// session_start();
 
 
     if(isset($form['captcha']) && $form['captcha'] != "")

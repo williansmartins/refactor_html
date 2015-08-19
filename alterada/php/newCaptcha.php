@@ -1,5 +1,5 @@
 <?php
-session_start();
+// session_start();
 
 $string = '';
 for ($i = 0; $i < 3; $i++) {
