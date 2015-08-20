@@ -51,6 +51,13 @@
 4-add class de erro
 5-trocar estilo do captcha (se necessário)
 
+//etapas para fazer o redirect
+1-subit a chamada do museredirect
+	<script src="js/vendor/museredirect.js?40941066" type="text/javascript"></script>
+2-add scripts no inicio
+	<script src="js/inicio.js" type="text/javascript"></script>
+3-apagar a chamada do geral.js
+
 
 
 
