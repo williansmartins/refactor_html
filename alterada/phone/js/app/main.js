@@ -36,7 +36,6 @@ define([
             },
 
             eventHandlers: function() {
-
                 //generate new captcha
                 WEBAPP.cache.$refreshCaptcha.on('click', function(e)
                 {
@@ -63,7 +62,7 @@ define([
                             "required": true,
                             "remote" :
                             {
-                              url: '/php/checkCaptcha.php',
+                              url: '../php/checkCaptcha.php',
                               type: "post",
                               data:
                               {
@@ -93,7 +92,7 @@ define([
 
                         var submitRequest = $.ajax({
                              type: "POST",
-                             url: "/php/dummyScript.php",
+                             url: "../php/dummyScript.php",
                              data: {
                                 "data": WEBAPP.cache.$form.serialize()
                             }
