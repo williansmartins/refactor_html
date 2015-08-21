@@ -34,7 +34,7 @@ $(document).ready(function() {
 			// $("textarea[name = 'custom_bairro']").val("Sagrado");
 	    },
 	    error: function(e) {
-	        alert("erro ao buscar " + "menu-form.html");
+	        console.info("erro ao buscar " + "menu-form.html");
 	        console.info(e);
 	        debugger;
 	    },
@@ -86,7 +86,7 @@ $(document).ready(function() {
 			$(".wrapped-input").css('text-transform', 'uppercase');
 	    },
 	    error: function(e) {
-	        alert("erro ao buscar " + "footer-form.html");
+	        console.info("erro ao buscar " + "footer-form.html");
 	        console.info(e);
 	        debugger;
 	    },
@@ -110,5 +110,4 @@ $(document).ready(function() {
 		});
 
 	});
-
 });
