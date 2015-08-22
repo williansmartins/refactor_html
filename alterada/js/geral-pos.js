@@ -110,4 +110,22 @@ $(document).ready(function() {
 		});
 
 	});
+	
+//	$.ajax({
+//	    url: "menu.html",
+//	    type: "POST",
+//	    success: function(result) {
+//	        //guardar o conteudo do html
+//	        var form = result;
+//			//carrega menu-form.html dentro de aqui
+//			var $alvo = $('.cabecalho');
+//			$alvo.html("");
+//			$alvo.append( form );
+//	    },
+//	    error: function() {
+//	        alert("erro ao buscar " + "menu.html");
+//	        debugger;
+//	    },
+//	});
+
 });
