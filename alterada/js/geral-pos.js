@@ -1,7 +1,5 @@
 $(document).ready(function() { 
 
-	//Muse.Redirect.redirect('desktop', 'tablet/index.html', 'phone/index.html');
-
 	//busca do formulario externo
 	$.ajax({
 	    url: "menu-form.html",
@@ -35,8 +33,10 @@ $(document).ready(function() {
 			// $("textarea[name = 'custom_cidade']").val("Jandira");
 			// $("textarea[name = 'custom_bairro']").val("Sagrado");
 	    },
-	    error: function() {
-	        alert("erro ao buscar " + "menu-form.html");
+	    error: function(e) {
+	        console.info("erro ao buscar " + "menu-form.html");
+	        console.info(e);
+	        debugger;
 	    },
 	});
 
@@ -85,8 +85,9 @@ $(document).ready(function() {
 			//aplicar o UPPER CASE
 			$(".wrapped-input").css('text-transform', 'uppercase');
 	    },
-	    error: function() {
-	        alert("erro ao buscar " + "footer-form.html");
+	    error: function(e) {
+	        console.info("erro ao buscar " + "footer-form.html");
+	        console.info(e);
 	        debugger;
 	    },
 	});
