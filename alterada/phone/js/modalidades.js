@@ -1,4 +1,4 @@
-document.write('\x3Cscript src="' + (document.location.protocol == 'https:' ? 'https:' : 'http:') + '//webfonts.creativecloud.com/open-sans:n8,n6:all;lato:n4,n3,n7:all;hammersmith-one:n4:all;josefin-slab:n3:all;cardo:n4:all;league-gothic:n4:all.js" type="text/javascript">\x3C/script>');
+// document.write('\x3Cscript src="' + (document.location.protocol == 'https:' ? 'https:' : 'http:') + '//webfonts.creativecloud.com/open-sans:n8,n6:all;lato:n4,n3,n7:all;hammersmith-one:n4:all;josefin-slab:n3:all;cardo:n4:all;league-gothic:n4:all.js" type="text/javascript">\x3C/script>');
 
 $(document).ready(function() { 
 	try {
