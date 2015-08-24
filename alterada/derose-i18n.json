@@ -1,504 +1,582 @@
-{
-"parabens": 
-	{ "agende-uma-visita ":
-	 ,"alta-performance ":
-	 ,"baixe-aqui ":
-	 ,"boa-forma ":
-	 ,"conheca-mais-e-faca-download ":
-	 ,"de-alta-performance ":
-	 ,"desportiva ":
-	 ,"estilo-de-vida ":
-	 ,"formulario-enviado-com-sucesso ":
-	 ,"metodo-derose ":
-	 ,"o-metodo-derose ":
-	 ,"parabens ":
-	 ,"profissional ":
-	 ,"qualidade-e ":
-	 ,"siga-nos-nas-redes-sociais ":
-	 ,"sistema-de ": 
+{  
+	"parabens": 
+	{ "agende-uma-visita":"Agende uma visita"
+	 ,"alta-performance":"ALTA PERFORMANCE"
+	 ,"baixe-aqui":"Baixe aqui&nbsp; &gt;"
+	 ,"boa-forma":"BOA FORMA"
+	 ,"conheca-mais-e-faca-download":"Conheça mais e faça download de um livro sem custo!"
+	 ,"de-alta-performance":"ALTA PERFORMANCE"
+	 ,"de-alta-performance":"de Alta Performance"
+	 ,"desportiva":"DESPORTIVA"
+	 ,"estilo-de-vida":"ESTILO DE VIDA"
+	 ,"formulario-enviado-com-sucesso":"O seu formulário foi enviado com sucesso"
+	 ,"metodo-derose":"MÉTODO DeROSE"
+	 ,"o-metodo-derose":"O Método DeROSE"
+	 ,"parabens":"Parabéns!"
+	 ,"profissional":"PROFISSIONAL"
+	 ,"qualidade-e":"QUALIDADE E"
+	 ,"siga-nos-nas-redes-sociais":"siga-nos nas redes sociais"
+	 ,"sistema-de":"SISTEMA DE" 
 	} 
-,"desportiva": 
-	{ "agende-sua-visita ":
-	 ,"alta-performance ":
-	 ,"aluna-do ":
-	 ,"aluno-do ":
-	 ,"apos-cinco-meses-treinamento ":
-	 ,"assista-ao-video ":
-	 ,"atletas ":
-	 ,"boa-forma ":
-	 ,"campeao-formula-renault ":
-	 ,"campinas-sp-br ":
-	 ,"com-exercicios-concentracao-meditacao ":
-	 ,"conheca-nossos ":
-	 ,"construindo-vencedores ":
-	 ,"consulte-nossos-especialistas ":
-	 ,"curitiba-pr-br ":
-	 ,"de-que-maneira-esportista ":
-	 ,"de-que-maneira-um-esportista ":
-	 ,"desportiva ":
-	 ,"dominada-tecnica-esporte ":
-	 ,"em-nossas-praticas ":
-	 ,"email ":
-	 ,"estilo-de-vida ":
-	 ,"estou-adorando-metodo-derose ":
-	 ,"ferramenta-alta-performance ":
-	 ,"fmx ":
-	 ,"formula-renault ":
-	 ,"formulario ":
-	 ,"foto-mau-haas ":
-	 ,"galid-osman ":
-	 ,"hawaii-usa ":
-	 ,"incentivamos-estilo-de-vida-saudavel ":
-	 ,"iniciei-treinamentos-desenvolver-administracao-emocional ":
-	 ,"ja-estou-indicando-metodo-derose ":
-	  ,"ja-nossas-tecnicas-corporais ":
-	 ,"jamie-sterling ":
-	 ,"jeff-campacci ":
-	 ,"jogador-profissional-basquetebol ":
-	 ,"laura-cordone ":
-	 ,"luiz-guida-animal ":
-	 ,"mais ":
-	 ,"metodo-derose ":
-	 ,"metodo-derose-batel ":
-	 ,"metodo-derose-cambui ":
-	 ,"metodo-derose-fundamental-treinamento ":
-	 ,"metodo-derose-tribeca ":
-	 ,"metodo-derose-vila-mariana ":
-	 ,"metodo-permitiu-me-controlar ":
-	 ,"muitos-outros-esportes ":
-	 ,"nesse-acervo-encontra-se ":
-	 ,"new-york-usa ":
-	 ,"nome-sobrenome ":
-	 ,"nossos-atletas ":
-	 ,"nove-vezes-campea-brasileira-esgrima ":
-	 ,"o-derose ":
-	 ,"o-metodo-derose-tem-feito-toda-diferenca ":
-	 ,"o-treinamento-de-exercicios ":
-	 ,"os-desafios-grandes-lideres-enfrentam ":
-	 ,"para-manter-motivados ":
-	 ,"para-nosso-metodo ":
-	 ,"pedro-patekoski ":
-	 ,"piloto-stock-car ":
-	 ,"por-meio-de-ferramentas ":
-	 ,"por-meio-ferramentas ":
-	 ,"praticante-do ":
-	 ,"praticante-do-metodo ":
-	 ,"praticante-metodo-derose ":
-	 ,"profissional ":
-	 ,"qualidade-e ":
-	 ,"roy-geerts ":
-	 ,"sao-paulo-br ":
-	 ,"ser-um-atleta-e-se-autosuperar ":
-	 ,"sistema-de ":
-	 ,"surf-sup-auto ":
-	 ,"surfista-ondas-gigantes ":
-	 ,"tais-rachel ":
-	 ,"tenis ":
-	 ,"ter-boa-forma ":
-	 ,"tri-campeao-brasileiro-sup-race ":
-	 ,"vencedores-nao-inventam-desculpas ":
-	 ,"vencer-sensacao-extraordinaria ":
-	 ,"vice-campeao-mundial-canoa-havaiana ":
-	 ,"voltar ":
-	 ,"x ":
-	 ,"x-voltar ": 
+	,"desportiva": 
+	{ "agende-sua-visita":"agende sua visita"
+	 ,"agende-sua-visita":"agende uma visita"
+	 ,"alta-performance":"ALTA PERFORMANCE"
+	 ,"alta-performance":"alta performance"
+	 ,"aluna-do":"Aluna do "
+	 ,"aluno-do":"Aluno do"
+	 ,"aluno-do":"Aluno do "
+	 ,"aluno-do":"“The DeROSE"
+	 ,"apos-cinco-meses-treinamento":"&nbsp;“Após 5 meses de treinamento no Método DeROSE consegui melhorar minha velocidade média de remada em 10%"
+	 ,"assista-ao-video":"ASSISTA AO VÍDEO"
+	 ,"assista-ao-video":"assista ao vídeo"
+	 ,"atletas":"atletas"
+	 ,"boa-forma":"BOA FORMA"
+	 ,"campeao-formula-renault":"Campeão de Formula Renault"
+	 ,"campeao-formula-renault":"Campeão de Fórmula Renault"
+	 ,"campinas-sp-br":"Campinas São Paulo - BR"
+	 ,"campinas-sp-br":"Campinas/SP - BR"
+	 ,"com-exercicios-concentracao-meditacao":"Com os exercícios de concentração e meditação, amplia-se o foco e a capacidade de organizar os pensamentos para a conquista do ideal projetado"
+	 ,"conheca-nossos":"conheça Nossos"
+	 ,"construindo-vencedores":"construindo vencedores desde 1960"
+	 ,"consulte-nossos-especialistas":"CONSULTE OS NOSSOS ESPECIALISTAS"
+	 ,"curitiba-pr-br":" Curitiba/PR - BR"
+	 ,"curitiba-pr-br":"Curitiba/PR - BR"
+	 ,"de-que-maneira-esportista":"De que maneira um esportista, profissional ou amador, pode render mais, depois de ter dominado as questões técnicas da sua modalidade?"
+	 ,"de-que-maneira-um-esportista":"De que maneira um esportista, profissional ou amador, pode render mais, depois de ter dominado as questões técnicas da sua modalidade?"
+	 ,"desportiva":"DESPORTIVA"
+	 ,"desportiva":"desportiva"
+	 ,"dominada-tecnica-esporte":"Dominada a técnica do esporte, o atleta precisa encontrar o seu diferencial, desenvolvendo outros tipos de capacidades"
+	 ,"em-nossas-praticas":"Em nossas práticas, o esportista trava contato com um expressivo acervo de técnicas, que irão promover melhor performance nos esportes e nos demais setores da vida"
+	 ,"email":"Email"
+	 ,"estilo-de-vida":"ESTILO DE VIDA"
+	 ,"estou-adorando-metodo-derose":"&quot;Estou adorando o Método DeROSE! Em toda a minha carreira de piloto (iniciei em 1995), sempre busquei métodos e exercícios que pudessem me trazer uma melhoria e que que me colocassem em vantagem perante os meus concorrentes"
+	 ,"estou-adorando-metodo-derose":"Estou adorando o Método DeROSE! Em toda a minha carreira de piloto (iniciei em 1995), sempre busquei métodos e exercícios que pudessem me trazer uma melhoria e que que me colocassem em vantagem perante os meus concorrentes"
+	 ,"ferramenta-alta-performance":"- ferramenta para a alta performance desportiva"
+	 ,"fmx":"FMX"
+	 ,"formula-renault":"Formula Renault"
+	 ,"formulario":"formulário"
+	 ,"foto-mau-haas":"Foto: ©Mau Haas"
+	 ,"galid-osman":"Galid Osman"
+	 ,"hawaii-usa":" Hawaii - USA"
+	 ,"incentivamos-estilo-de-vida-saudavel":"Incentivamos um estilo de vida saudável, por meio dos conceitos de boas relações humanas, boas maneiras, boa forma, boa alimentação e boa cultura"
+	 ,"iniciei-treinamentos-desenvolver-administracao-emocional":"“Iniciei os treinamentos para desenvolver administração emocional"
+	 ,"ja-estou-indicando-metodo-derose":"“Já estou indicando o Método DeROSE, pois acho que é o que falta para muitos atletas"
+	 ,"ja-nossas-tecnicas-corporais":"Já nossas técnicas corporais esculpem o corpo de acordo com a exigência da modalidade desportiva, tornando-o mais saudável, mais dinâmico, mais forte e resistente"
+	 ,"jamie-sterling":"Jamie Sterling"
+	 ,"jeff-campacci":"Jeff campacci"
+	 ,"jogador-profissional-basquetebol":"jogador profissional de Basquetebol"
+	 ,"laura-cordone":"LAURA CORDONE"
+	 ,"luiz-guida-animal":"Luiz guida &quot;animal&quot;"
+	 ,"mais":"Mais"
+	 ,"metodo-derose":"MÉTODO DeROSE"
+	 ,"metodo-derose":"Método DeROSE"
+	 ,"metodo-derose":"Método DeROSE "
+	 ,"metodo-derose-batel":" Método DeROSE Batel"
+	 ,"metodo-derose-batel":"Método DeROSE Batel, "
+	 ,"metodo-derose-cambui":"Método DeROSE Cambuí, "
+	 ,"metodo-derose-fundamental-treinamento":"&quot;The DeROSE Method is the foundation of my training, it offers me strength, flexibility, concentration, and many other aspects that do tie into my athletic performance"
+	 ,"metodo-derose-tribeca":"DeROSE Method Tribeca,"
+	 ,"metodo-derose-vila-mariana":" Método DeROSE Vila Mariana"
+	 ,"metodo-derose-vila-mariana":"Método DeROSE Vila Mariana"
+	 ,"metodo-derose-vila-mariana":"Método DeROSE Vila Mariana, "
+	 ,"metodo-derose-vila-mariana":"Método DeROSE, Vila Mariana"
+	 ,"metodo-permitiu-me-controlar":" Method has allowed me to manage myself, my body and my emotions, as well as the pressure from the team and sponsors"
+	 ,"metodo-permitiu-me-controlar":"Method has allowed me to manage myself, my body and my emotions, as well as the pressure from the team and sponsors"
+	 ,"muitos-outros-esportes":"e muitos outros esportes"
+	 ,"nesse-acervo-encontra-se":"Nesse acervo, encontra-se, entre outros, o treinamento respiratório e de ampliação da capacidade pulmonar"
+	 ,"new-york-usa":" New York, USA"
+	 ,"nome-sobrenome":"Nome/SOBRENOME"
+	 ,"nossos-atletas":"nossos atletas"
+	 ,"nove-vezes-campea-brasileira-esgrima":"9 vezes campeã brasileira de esgrima na categoria florete"
+	 ,"o-derose":"“The DeROSE "
+	 ,"o-metodo-derose-tem-feito-toda-diferenca":"&quot;O Método DeROSE tem feito toda a diferença, em cada detalhe, me ajudando através de cada prática a alcançar meus objetivos, dentro e fora de quadra"
+	 ,"o-treinamento-de-exercicios":"O treinamento de exercícios de descontração proposto ensina a voluntariamente distensionar músculos, nervos, tendões, enfim, o corpo todo, auxiliando na redução dos níveis de e ansiedade provocados pela expectativa por melhores resultados"
+	 ,"o-treinamento-de-exercicios":"O treinamento de exercícios de descontração proposto ensina a voluntariamente distensionar músculos, nervos, tendões, enfim, o corpo todo, auxiliando na redução dos níveis de stress e ansiedade provocados pela expectativa por melhores resultados"
+	 ,"os-desafios-grandes-lideres-enfrentam":"Os desafios que os grandes líderes enfrentam todos os dias vão além do domínio sobre o negócio em que atuam"
+	 ,"para-manter-motivados":"Para nos manter motivados em direção à vitória, é necessário, antes de mais nada, que estejamos realizados e focados em nosso propósito"
+	 ,"para-nosso-metodo":"Para o nosso Método, alta performance significa construir um ciclo virtuoso de desafio, perseverança e conquista"
+	 ,"pedro-patekoski":"Pedro Patekoski"
+	 ,"piloto-stock-car":"piloto da Stock Car"
+	 ,"por-meio-de-ferramentas":"Por meio de ferramentas que o levarão a aperfeiçoar a capacidade respiratória, a concentração, a força e a flexibilidade"
+	 ,"por-meio-ferramentas":"Por meio de ferramentas que o levarão a aperfeiçoar a capacidade respiratória, a concentração, a força e a flexibilidade"
+	 ,"praticante-do":"Praticante do "
+	 ,"praticante-do-metodo":"Praticante do "
+	 ,"praticante-metodo-derose":"Praticante do Método DeROSE"
+	 ,"profissional":"PROFISSIONAL"
+	 ,"qualidade-e":"QUALIDADE E"
+	 ,"roy-geerts":"ROY Geerts"
+	 ,"roy-geerts":"Roy Geerts"
+	 ,"sao-paulo-br":" São Paulo - BR"
+	 ,"sao-paulo-br":"São Paulo - BR"
+	 ,"ser-um-atleta-e-se-autosuperar":"&quot;Ser um atleta é se autossuperar a cada instante, conhecer os seus limites e ultrapassá-los"
+	 ,"sistema-de":"SISTEMA DE"
+	 ,"surf-sup-auto":"surf, Sup, Automobilismo, FMX, Natação, TÊnis, esgrima, escalada, bike , BASQUETEBOL"
+	 ,"surfista-ondas-gigantes":"Surfista de ondas gigantes"
+	 ,"tais-rachel":"Taís Rochel"
+	 ,"tenis":"Ténis"
+	 ,"ter-boa-forma":"Ter boa forma é muito mais do que uma simples questão estética"
+	 ,"tri-campeao-brasileiro-sup-race":"Tricampeão brasileiro de SUP race"
+	 ,"vencedores-nao-inventam-desculpas":"Vencedores não inventam desculpas"
+	 ,"vencedores-nao-inventam-desculpas":"WINNERS DON'T MAKE EXCUSES"
+	 ,"vencer-sensacao-extraordinaria":"Vencer é uma sensação extraordinária que todos almejamos, e que nos torna incansáveis"
+	 ,"vice-campeao-mundial-canoa-havaiana":"Vice-campeão mundial de canoa havaiana"
+	 ,"voltar":"&lt; Voltar"
+	 ,"x":"x"
+	 ,"x-voltar":"X voltar" 
 	} 
-,"qualidade-estilo-de-vida": 
-	{ "a-e ":
-	 ,"agende-sua-visita ":
-	 ,"alta-performance ":
-	 ,"alto-rendimento ":
-	 ,"alunos-e-instrutores ":
-	 ,"amizade-boa-forma ":
-	 ,"assista-ao-video ":
-	 ,"atividades ":
-	 ,"bairro ":
-	 ,"boa-forma ":
-	 ,"cidade ":
-	 ,"construa-a-sua ":
-	 ,"culturais ":
-	 ,"desportiva ":
-	 ,"diversas-opcoes-para-todos-os-gostos ":
-	 ,"dominada-a-tecnica-do-esporte ":
-	 ,"email ":
-	 ,"enviando-formulario ":
-	 ,"erro-preenchimento ":
-	 ,"estilo-de-vida ":
-	 ,"formulario ":
-	 ,"formulario-recebido ":
-	 ,"foto-jeanine-padilha ":
-	 ,"foto-rob-longhammer ":
-	 ,"home ":
-	 ,"incentivamos-um-estilo-de-vida-saudavel ":
-	 ,"inspire ":
-	 ,"instrutor-diego-nogueira ":
-	 ,"lifestyle ":
-	 ,"mais ":
-	 ,"melhor-versao ":
-	 ,"metodo-derose ":
-	 ,"metodo-derose-copacabana ":
-	 ,"multiplicidade-de ":
-	 ,"nas-escolas-metodo-derose ":
-	 ,"nome-sobrenome ":
-	 ,"nos-selecionamos-escola-mais-proxima ":
-	 ,"nossa-definicao-de ":
-	 ,"onde-deseja-agendar-sua-visita ":
-	 ,"os-desafios-grandes-lideres-enfrentam ":
-	 ,"premium-lifestyle ":
-	 ,"profissional ":
-	 ,"qualidade-de-vida ":
-	 ,"qualidade-de-vida-e-adotar-uma-visao-de-mundo ":
-	 ,"qualidade-de-vida-e-manter-padrao-de-gastos ":
-	 ,"qualidade-de-vida-e-suprir-necessidades ":
-	 ,"qualidade-de-vida-e-tornar-nossa-existencia-descomplicada ":
-	 ,"qualidade-de-vida-energia-clean ":
-	 ,"qualidade-e ":
-	 ,"que-tal-adota-um-estilo ":
-	 ,"sistema-de ":
-	 ,"sistematizador-derose ":
-	 ,"sua-essencia ":
-	 ,"telefone ":
-	 ,"ter-boa-forma-e-muito-mais ":
-	 ,"voltar ":
-	 ,"x ": 
+	,"qualidade-estilo-de-vida": 
+	{ "a-e":"A ESCOLA"
+	 ,"agende-sua-visita":"agende sua visita"
+	 ,"alta-performance":"ALTA PERFORMANCE"
+	 ,"alto-rendimento":"# alto rendimento"
+	 ,"alunos-e-instrutores":"alunos e instrutores"
+	 ,"amizade-boa-forma":"&nbsp;#amizade #boa forma"
+	 ,"assista-ao-video":"ASSISTA AO VÍDEO"
+	 ,"atividades":"atividades"
+	 ,"bairro":"bairro"
+	 ,"boa-forma":"BOA FORMA"
+	 ,"cidade":"CIDADE"
+	 ,"construa-a-sua":"construa a sua"
+	 ,"culturais":"culturais"
+	 ,"desportiva":"DESPORTIVA"
+	 ,"diversas-opcoes-para-todos-os-gostos":"Diversas opções para todos os gostos: passeios, aulas teóricas, treinamentos de técnicas específicas, entre muitas outras atividades"
+	 ,"dominada-a-tecnica-do-esporte":"Dominada a técnica do esporte, o atleta precisa encontrar o seu diferencial, desenvolvendo outros tipos de capacidades"
+	 ,"email":"Email"
+	 ,"enviando-formulario":"Submitting Form"
+	 ,"erro-preenchimento":"The server encountered an error"
+	 ,"estilo-de-vida":"ESTILO DE VIDA"
+	 ,"estilo-de-vida":"Estilo de vida"
+	 ,"estilo-de-vida":"estilo de vida"
+	 ,"formulario":"Formulário"
+	 ,"formulario-recebido":"Form received"
+	 ,"foto-jeanine-padilha":"Foto: ©Jeanine Padilha"
+	 ,"foto-rob-longhammer":"Foto: ©Rob Langhammer"
+	 ,"home":"HOME"
+	 ,"incentivamos-um-estilo-de-vida-saudavel":"Incentivamos um estilo de vida saudável, por meio dos conceitos de boas relações humanas, boas maneiras, boa forma, boa alimentação e boa cultura"
+	 ,"inspire":"inspire"
+	 ,"instrutor-diego-nogueira":"Instrutor Diego Nogueira"
+	 ,"lifestyle":"Lifestyle"
+	 ,"mais":"Mais"
+	 ,"melhor-versao":"melhor versão"
+	 ,"metodo-derose":"MÉTODO DeROSE"
+	 ,"metodo-derose-copacabana":"Método DeROSE Copacabana"
+	 ,"multiplicidade-de":"Multiplicidade de"
+	 ,"nas-escolas-metodo-derose":"Nas escolas do Método DeROSE, os alunos têm a oportunidade de compartilhar momentos de aprendizagem e diversão, com tudo o que sempre buscaram para ter sucesso em todos os âmbitos"
+	 ,"nome-sobrenome":"Nome/SOBRENOME"
+	 ,"nos-selecionamos-escola-mais-proxima":"Nós selecionaremos a escola mais próxima do bairro que você escolheu"
+	 ,"nossa-definicao-de":"Nossa definição de"
+	 ,"onde-deseja-agendar-sua-visita":"Onde deseja agendar a sua visita?*"
+	 ,"os-desafios-grandes-lideres-enfrentam":"Os desafios que os grandes líderes enfrentam todos os dias vão além do domínio sobre o negócio em que atuam"
+	 ,"premium-lifestyle":"Premium Lifestyle"
+	 ,"profissional":"PROFISSIONAL"
+	 ,"qualidade-de-vida":"qualidade de vida"
+	 ,"qualidade-de-vida-e-adotar-uma-visao-de-mundo":"Qualidade de vida é adotar uma visão de mundo que nos motive a buscar o desenvolvimento e o aprimoramento contínuo, conquistando a nossa excelência através do estudo, dos ideais e do autoconhecimento"
+	 ,"qualidade-de-vida-e-manter-padrao-de-gastos":"Qualidade de vida é manter um padrão de gastos dois degraus abaixo do que ganhamos"
+	 ,"qualidade-de-vida-e-suprir-necessidades":"Qualidade de vida é suprir as necessidades fisiológicas e ergonômicas, é adotarmos hábitos que promovam e mantenham a funcionalidade do corpo, do emocional e do mental, é o aprimoramento e desenvolvimento das nossas habilidades, através do trinômio: boa alimentação, boa forma e boa cabeça"
+	 ,"qualidade-de-vida-e-tornar-nossa-existencia-descomplicada":"&quot;Qualidade de vida é tornar nossa existência descomplicada"
+	 ,"qualidade-de-vida-energia-clean":"#qualidade de vida #energia clean"
+	 ,"qualidade-e":"QUALIDADE E"
+	 ,"qualidade-e":"Qualidade e"
+	 ,"que-tal-adota-um-estilo":"Que tal adotar um estilo de vida saudável e descomplicado?"
+	 ,"sistema-de":"SISTEMA DE"
+	 ,"sistematizador-derose":"Sistematizador DeRose"
+	 ,"sua-essencia":"sua essência"
+	 ,"telefone":"telefone"
+	 ,"ter-boa-forma-e-muito-mais":"Ter boa forma é muito mais do que uma simples questão estética"
+	 ,"voltar":"&lt; Voltar"
+	 ,"x":"x" 
 	} 
-,"index": 
-	{ "alta-performance ":
-	 ,"boa-forma ":
-	 ,"campeao-formula-renault ":
-	 ,"campeao-standup-paddle ":
-	 ,"construa-sua ":
-	 ,"construa-sua-melhor-versao ":
-	 ,"der ":
-	 ,"descubra ":
-	 ,"desenvolva-seu-corpo ":
-	 ,"desportiva ":
-	 ,"estilo-de-vida ":
-	 ,"explore ":
-	 ,"luiz-guida-animal ":
-	 ,"melhor-versao ":
-	 ,"metodo ":
-	 ,"o-metodo-derose ":
-	 ,"ose ":
-	 ,"praticante-metodo-der ":
-	 ,"praticante-metodo-derose ":
-	 ,"profissional ":
-	 ,"proposta-de-alta-performance ":
-	 ,"qualidade-e ":
-	 ,"roy-geerts ":
-	 ,"sistema-de ":
-	 ,"sobre-o ": 
+	,"index": 
+	{ "alta-performance":"alta performance"
+	 ,"boa-forma":"boa forma"
+	 ,"campeao-formula-renault":"Campeão de Fórmula Renault"
+	 ,"campeao-standup-paddle":"Campeão de Stand-up paddle"
+	 ,"construa-sua":"Construa a sua"
+	 ,"construa-sua-melhor-versao":"CONSTRUA A SUA MELHOR VERSÃO"
+	 ,"der":" DeR"
+	 ,"descubra":"DESCUBRA&nbsp; &gt;"
+	 ,"desenvolva-seu-corpo":"Desenvolva seu corpo, gerencie suas emoções e aprimore seu poder de concentração"
+	 ,"desportiva":"desportiva"
+	 ,"estilo-de-vida":"estilo de vida"
+	 ,"explore":"EXPLORE&nbsp; &gt;"
+	 ,"luiz-guida-animal":"Luiz Guida &quot;Animal'"
+	 ,"melhor-versao":"melhor versão"
+	 ,"metodo":"MÉTODO"
+	 ,"o-metodo-derose":"O Método deRose"
+	 ,"ose":"OSE"
+	 ,"praticante-metodo-der":"Praticante do Método DeR"
+	 ,"praticante-metodo-derose":"Praticante do Método DeROSE"
+	 ,"profissional":"profissional"
+	 ,"proposta-de-alta-performance":"Uma proposta de alta performance e qualidade de vida para empresários e desportistas"
+	 ,"qualidade-e":"qualidade e"
+	 ,"roy-geerts":"Roy Geerts"
+	 ,"sistema-de":"sistema de"
+	 ,"sobre-o":"SOBRE O" 
 	} 
-,"modalidades": 
-	{ "alta-performance ":
-	 ,"ao-passar-para-turmas ":
-	 ,"aplicados-para-levar-lideres ":
-	 ,"atividades ":
-	 ,"aulas-teoricas ":
-	 ,"boa-forma ":
-	 ,"curso-formacao-elevadissimo-nivel ":
-	 ,"cursos ":
-	 ,"dentro-da-escola ":
-	 ,"desafios-grandes-lideres-enfrentam ":
-	 ,"desportiva ":
-	 ,"dominada-tecnica-esporte ":
-	 ,"durante-o-ano ":
-	 ,"em-cada-encontro ":
-	 ,"ensinada-nas-aulas ":
-	 ,"estilo-de-vida ":
-	 ,"festivais ":
-	 ,"formacao-profissional ":
-	 ,"incentivamos-estilo-de-vida-saudavel ":
-	 ,"iniciantes ":
-	 ,"intermediarios ":
-	 ,"metodo-derose ":
-	 ,"modalidade-ideal-prefere-exclusividade ":
-	 ,"modalidades ":
-	 ,"nessa-fase-introdutoria ":
-	 ,"outdoor ":
-	 ,"para-empresas ":
-	 ,"para-que-identificam ":
-	 ,"parte-tecnica ":
-	 ,"personal ":
-	 ,"profissional ":
-	 ,"qualidade-e ":
-	 ,"sistema-de ":
-	 ,"sobre-mais-variados-temas ":
-	 ,"teaching ":
-	 ,"tecnicas-conceitos-do ":
-	 ,"ter-boa-forma ":
-	 ,"varias-localidades ": 
+	,"modalidades": 
+	{ "alta-performance":"ALTA PERFORMANCE"
+	 ,"ao-passar-para-turmas":"Ao passar para essas turmas, o praticante tem acesso a técnicas que o catapultam à sua evolução pessoal, em todos os sentidos"
+	 ,"aplicados-para-levar-lideres":" aplicados para levar os líderes das mais distintas organizações a melhorar sua performance"
+	 ,"atividades":"Atividades"
+	 ,"aulas-teoricas":"aulas teóricas"
+	 ,"boa-forma":"BOA FORMA"
+	 ,"curso-formacao-elevadissimo-nivel":", um curso de formação de elevadíssimo nível"
+	 ,"cursos":"CURSOS"
+	 ,"cursos":"cursos"
+	 ,"dentro-da-escola":"Dentro da escola, as aulas teóricas proporcionam, aos alunos, a oportunidade de aprender um pouco mais sobre a parte filosófica e conceitual do nosso Método"
+	 ,"desafios-grandes-lideres-enfrentam":"Os desafios que os grandes líderes enfrentam todos os dias vão além do domínio sobre o negócio em que atuam"
+	 ,"desportiva":"DESPORTIVA"
+	 ,"dominada-tecnica-esporte":"Dominada a técnica do esporte, o atleta precisa encontrar o seu diferencial, desenvolvendo outros tipos de capacidades"
+	 ,"durante-o-ano":"Durante o ano, são muitas oportunidades de estar em vários países, para um fim de semana de convivência com alunos e professores de todo o mundo, praticando e compartilhando bons momentos"
+	 ,"em-cada-encontro":"Em cada encontro, uma oportunidade de aprender e desenvolver-se ainda mais, cultivando a amizade e as boas relações"
+	 ,"ensinada-nas-aulas":" é ensinada nas aulas em grupo ou individuais"
+	 ,"estilo-de-vida":"ESTILO DE VIDA"
+	 ,"festivais":"FESTIVAIS"
+	 ,"formacao-profissional":"FORMAÇÃO PROFISSIONAL"
+	 ,"incentivamos-estilo-de-vida-saudavel":"Incentivamos um estilo de vida saudável, por meio dos conceitos de boas relações humanas, boas maneiras, boa forma, boa alimentação e boa cultura"
+	 ,"iniciantes":"INICIANTES"
+	 ,"intermediarios":"INTERMEDIÁRIOS"
+	 ,"metodo-derose":"MÉTODO DeROSE"
+	 ,"metodo-derose":"Método DeROSE"
+	 ,"modalidade-ideal-prefere-exclusividade":"Modalidade ideal para quem prefere ter mais exclusividade ou um acompanhamento ainda mais personalizado"
+	 ,"modalidades":"MODALIDADES"
+	 ,"modalidades":"Modalidades"
+	 ,"nessa-fase-introdutoria":"Nessa fase introdutória, o aluno aprende as técnicas mais básicas, que lhe darão condições para conquistar níveis mais elevados, de maneira metabolizável, segura, desafiante e prazerosa"
+	 ,"outdoor":" outdoor"
+	 ,"para-empresas":"PARA EMPRESAS"
+	 ,"para-que-identificam":"Para os que se identificam com o empreendedorismo proposto pelo "
+	 ,"parte-tecnica":"A parte técnica do "
+	 ,"personal":"PERSONAL "
+	 ,"profissional":"PROFISSIONAL"
+	 ,"qualidade-e":"QUALIDADE E"
+	 ,"sistema-de":"SISTEMA DE"
+	 ,"sobre-mais-variados-temas":"Sobre os mais variados temas, os cursos, que podem ser teóricos e práticos, são ministrados por professores do "
+	 ,"teaching":"TEACHING"
+	 ,"tecnicas-conceitos-do":"As técnicas e os conceitos do "
+	 ,"ter-boa-forma":"Ter boa forma é muito mais do que uma simples questão estética"
+	 ,"varias-localidades":" de várias localidades e pelo próprio Sistematizador DeRose" 
 	} 
-,"menu": 
-	{ "agende-uma-visita ":
-	 ,"agenede-uma-visita ":
-	 ,"alta-performance ":
-	 ,"boa-forma ":
-	 ,"desportiva ":
-	 ,"digite-as-letras-abaixo ":
-	 ,"estilo-de-vida ":
-	 ,"home ":
-	 ,"menu ":
-	 ,"modalidade ":
-	 ,"modalidades ":
-	 ,"ose ":
-	 ,"profissional ":
-	 ,"qualidade-e ":
-	 ,"siga-nos-nas-redes-sociais ":
-	 ,"siga-nos-redes-sociais ":
-	 ,"sistema-de ":
-	 ,"sobre-o-metodo ":
-	 ,"sobre-o-metodo-der ":
-	 ,"sobre-o-metodo-derose ": 
+	,"menu": 
+	{ "agende-uma-visita ":"Agende uma visita"
+	 ,"agende-uma-visita":"Agende uma visita"
+	 ,"agenede-uma-visita":"Agende uma visita"
+	 ,"alta-performance":"alta performance"
+	 ,"boa-forma":"boa forma"
+	 ,"desportiva":"desportiva"
+	 ,"digite-as-letras-abaixo":"*Digite as letras abaixo"
+	 ,"estilo-de-vida":"estilo de vida"
+	 ,"home":"HOME"
+	 ,"menu":"MENU"
+	 ,"modalidade":"MODALIDADES"
+	 ,"modalidades":"MODALIDADES"
+	 ,"modalidades":"modalidades"
+	 ,"ose":"OSE"
+	 ,"profissional":"profissional"
+	 ,"qualidade-e":"qualidade e"
+	 ,"siga-nos-nas-redes-sociais":"siga-nos nas redes sociais"
+	 ,"siga-nos-redes-sociais":"siga-nos nas redes sociais"
+	 ,"sistema-de":"sistema de"
+	 ,"sobre-o-metodo":"sobre o Método"
+	 ,"sobre-o-metodo-der":"SOBRE O MÉTODO DeR"
+	 ,"sobre-o-metodo-derose":"SOBRE O MÉTODO DeROSE" 
 	} 
-,"rodape": 
-	{ "agende-sua-visita ":
-	 ,"agende-uma-visita ":
-	 ,"by ":
-	 ,"designs ":
-	 ,"facebook ":
-	 ,"fechar ":
-	 ,"formulario ":
-	 ,"instagram ":
-	 ,"metodo-derose-2015 ":
-	 ,"ruivo ":
-	 ,"x ":
-	 ,"youtube ": 
+	,"rodape": 
+	{ "agende-sua-visita":"agende sua visita"
+	 ,"agende-uma-visita":"Agende uma visita"
+	 ,"by":"by "
+	 ,"designs":"DESIGNS"
+	 ,"facebook":"facebook"
+	 ,"fechar":"fechar"
+	 ,"formulario":"Formulário"
+	 ,"instagram":"instagram"
+	 ,"metodo-derose-2015":"® MÉTODO DeROSE - 2015"
+	 ,"metodo-derose-2015":"® Método DeROSE - 2015"
+	 ,"metodo-derose-2015":"® Método DeROSE ® 2015"
+	 ,"ruivo":"RUIVO"
+	 ,"x":"x"
+	 ,"youtube":"Youtube" 
 	} 
-,"sistema-boa-forma": 
-	{ "6-18 ":
-	 ,"agende-sua-aula ":
-	 ,"agende-sua-visita ":
-	 ,"agende-uma-visita ":
-	 ,"alguns-treinamentos ":
-	 ,"alta-performance ":
-	 ,"anderson-gouveia ":
-	 ,"aos-poucos-o-treinamento-esculpe-o-fisico ":
-	 ,"as-tecnicas-com-que-trabalhamos ":
-	 ,"assista-ao-video ":
-	 ,"assista-as ":
-	 ,"bairro ":
-	 ,"boa-forma ":
-	 ,"carlos-mea ":
-	 ,"cidade ":
-	 ,"como-funcionam-as ":
-	 ,"como-manter-e-conquistar-uma-boa-forma ":
-	 ,"construa-a-sua ":
-	 ,"daniel-suassuna ":
-	 ,"demonstracoes ":
-	 ,"demonstrador-do ":
-	 ,"demonstradora-do ":
-	 ,"desportiva ":
-	 ,"dominada-a-tecnica-do-esporte ":
-	 ,"durante-execucao-de-tais-tecnicas ":
-	 ,"eleve-sua-capacidade-fisica ":
-	 ,"email ":
-	 ,"enviando-formulario ":
-	 ,"erro-preenchimento ":
-	 ,"este-conjunto-ferramentas-executado ":
-	 ,"estilo-de-vida ":
-	 ,"formulario ":
-	 ,"formulario-recebido ":
-	 ,"foto-magali-saberian ":
-	 ,"foto-ricardo-iazzeta ":
-	 ,"imagine-atingir-um-nivel ":
-	 ,"incentivamos-um-estilo-de-vida-saudavel ":
-	 ,"instrutor-metodo-derose ":
-	 ,"mais ":
-	 ,"melhor ":
-	 ,"melhor-versao ":
-	 ,"metodo-derose ":
-	 ,"mural-de-fotos ":
-	 ,"nome-sobrenome ":
-	 ,"nos-selecionamos-escola-mais-proxima ":
-	 ,"nosso-metodo-possui-duas-mil-tecnicas ":
-	 ,"nuno-crames ":
-	 ,"o-desenvolvimento-do-individuo-e-multilateral ":
-	 ,"o-que-fazemos-e-um-treinamento-intenso ":
-	 ,"onde-deseja-agendar-sua-visita ":
-	 ,"os-desafios-grandes-lideres-enfrentam ":
-	 ,"profissional ":
-	 ,"qualidade-e ":
-	 ,"rafael-ramos ":
-	 ,"sebastian-carvallo ":
-	 ,"sistema-de ":
-	 ,"tecnicas ":
-	 ,"telefone ":
-	 ,"ter-boa-forma-e-muito-mais ":
-	 ,"ter-boa-forma-mais-que-simples ":
-	 ,"um-sistema-de ":
-	 ,"veja-algumas-demonstracoes ":
-	 ,"voce-no-seu ":
-	 ,"voltar ":
-	 ,"x ":
-	 ,"yael-barcesat ": 
+	,"sistema-boa-forma": 
+	{ "6-18":"6 - 18"
+	 ,"agende-sua-aula":"Agende sua aula"
+	 ,"agende-sua-visita":"Agende sua visita"
+	 ,"agende-uma-visita":"agende uma visita"
+	 ,"alguns-treinamentos":"Alguns treinamentos"
+	 ,"alta-performance":"ALTA PERFORMANCE"
+	 ,"alta-performance":"alta performance"
+	 ,"anderson-gouveia":"ANDERSON GOUVEIA"
+	 ,"anderson-gouveia":"Anderson Gouveia"
+	 ,"anderson-gouveia":"O trabalho conduzido no Método DeROSE não se categoriza como atividade física nem desportiva"
+	 ,"anderson-gouveia":"Um sistema de"
+	 ,"aos-poucos-o-treinamento-esculpe-o-fisico":"Aos poucos, o treinamento esculpe o físico, provendo características análogas às de um felino: destreza, precisão, sutileza e força"
+	 ,"as-tecnicas-com-que-trabalhamos":"As técnicas com que trabalhamos nos nossos treinamentos promovem o aumento da consciência corporal em todos os níveis"
+	 ,"assista-ao-video":"ASSISTA AO VÍDEO"
+	 ,"assista-as":"ASSISTA ÀS"
+	 ,"bairro":"bairro"
+	 ,"boa-forma":"BOA FORMA"
+	 ,"boa-forma":"Boa Forma"
+	 ,"boa-forma":"Boa forma"
+	 ,"boa-forma":"boa forma"
+	 ,"carlos-mea":"Carlo Mea"
+	 ,"cidade":"CIDADE"
+	 ,"como-funcionam-as":"como funcionam as"
+	 ,"como-manter-e-conquistar-uma-boa-forma":"Como manter e conquistar uma boa forma corporal de maneira inteligente, que respeite o ritmo biológico de cada um? Com o "
+	 ,"construa-a-sua":"construa a sua"
+	 ,"daniel-suassuna":"DANIEL SUASSUNA"
+	 ,"daniel-suassuna":"DANIEL sUASSUNA"
+	 ,"demonstracoes":"DEMONSTRAÇÕES"
+	 ,"demonstrador-do":"Demonstrador do "
+	 ,"demonstradora-do":"Demonstradora do "
+	 ,"desportiva":"DESPORTIVA"
+	 ,"desportiva":"desportiva"
+	 ,"dominada-a-tecnica-do-esporte":"Dominada a técnica do esporte, o atleta precisa encontrar o seu diferencial, desenvolvendo outros tipos de capacidades"
+	 ,"durante-execucao-de-tais-tecnicas":"Durante a execução de tais técnicas, a respiração coordenada, o tempo de permanência ideal para o grau de adiantamento do praticante, a ausência de repetição ou aquecimento, a aplicação da compensação necessária, o respeito aos limites de cada um, o foco e a atenção sobre aquilo que se deseja aprimorar constituem regras do nosso Método, imprescindíveis à conquista do que denominamos boa forma"
+	 ,"eleve-sua-capacidade-fisica":"Eleve sua capacidade física à máxima potência e mantenha-a sempre em alta"
+	 ,"email":"Email"
+	 ,"enviando-formulario":"Enviando Formulário"
+	 ,"enviando-formulario":"Submitting Form"
+	 ,"erro-preenchimento":"Observe se não há erros de preenchimento"
+	 ,"erro-preenchimento":"The server encountered an error"
+	 ,"este-conjunto-ferramentas-executado":"Este conjunto de ferramentas é executado sem repetição, respeitando-se o princípio da isometria, o que desenvolve o tônus muscular, sem reduzir o alongamento"
+	 ,"estilo-de-vida":"ESTILO DE VIDA"
+	 ,"estilo-de-vida":"estilo de vida"
+	 ,"formulario":"Formulário"
+	 ,"formulario":"formulário"
+	 ,"formulario-recebido":"Form received"
+	 ,"formulario-recebido":"Formulário recebido"
+	 ,"foto-magali-saberian":"Foto: ©Magali Saberian"
+	 ,"foto-ricardo-iazzeta":"Foto ©Ricardo Iazzetta"
+	 ,"imagine-atingir-um-nivel":"Imagine atingir um nível de consciência em relação ao seu próprio corpo que permita que você utilize sua força e sua flexibilidade de maneiras nunca antes pensadas!"
+	 ,"incentivamos-um-estilo-de-vida-saudavel":"Incentivamos um estilo de vida saudável, por meio dos conceitos de boas relações humanas, boas maneiras, boa forma, boa alimentação e boa cultura"
+	 ,"instrutor-metodo-derose":"Instrutor do Método DeROSE"
+	 ,"instrutor-metodo-derose":"Instrutor&nbsp; do Método DeROSE"
+	 ,"mais":"Mais"
+	 ,"melhor":"Melhor"
+	 ,"melhor-versao":"Melhor Versão"
+	 ,"metodo-derose":"MÉTODO DeROSE"
+	 ,"metodo-derose":"Método DeROSE"
+	 ,"mural-de-fotos":"MURAL DE FOTOS"
+	 ,"nome-sobrenome":"Nome/SOBRENOME"
+	 ,"nos-selecionamos-escola-mais-proxima":"Nós selecionaremos a escola mais próxima do bairro que você escolheu"
+	 ,"nosso-metodo-possui-duas-mil-tecnicas":"Nosso Método possui mais de duas mil técnicas, que desenvolvem flexibilidade articular, alongamento e tônus muscular, e uma consciência corporal expressiva"
+	 ,"nuno-crames":"NUNO CRAMÊS"
+	 ,"o-desenvolvimento-do-individuo-e-multilateral":" o desenvolvimento do indivíduo é multilateral e dentre os diferentes aspectos aprimorados está a boa forma"
+	 ,"o-que-fazemos-e-um-treinamento-intenso":"O que fazemos é um treinamento intenso e, ao mesmo tempo, seguro, para desenvolver destreza, precisão, flexibilidade, força, resistência etc"
+	 ,"onde-deseja-agendar-sua-visita":"Onde deseja agendar a sua visita?"
+	 ,"onde-deseja-agendar-sua-visita":"Onde deseja agendar a sua visita?*"
+	 ,"os-desafios-grandes-lideres-enfrentam":"Os desafios que os grandes líderes enfrentam todos os dias vão além do domínio sobre o negócio em que atuam"
+	 ,"profissional":"PROFISSIONAL"
+	 ,"profissional":"profissional"
+	 ,"qualidade-e":"QUALIDADE E"
+	 ,"qualidade-e":"qualidade e"
+	 ,"rafael-ramos":"Rafael Ramos"
+	 ,"sebastian-carvallo":"SEBASTIAN CARVALLO"
+	 ,"sebastian-carvallo":"Sebastian Carvallo"
+	 ,"sistema-de":"SISTEMA DE"
+	 ,"sistema-de":"Sistema de"
+	 ,"sistema-de":"sistema de"
+	 ,"tecnicas":"Técnicas"
+	 ,"telefone":"telefone"
+	 ,"ter-boa-forma-e-muito-mais":"Ter boa forma é muito mais do que uma simples questão estética"
+	 ,"ter-boa-forma-mais-que-simples":"Ter boa forma é muito mais do que uma simples questão estética"
+	 ,"um-sistema-de":"Um sistema de"
+	 ,"veja-algumas-demonstracoes":"Veja algumas demonstrações de técnicas do nosso Método e as modalidades de treinamento"
+	 ,"voce-no-seu":"Você no seu"
+	 ,"voltar":"&lt; Voltar"
+	 ,"x":"x"
+	 ,"yael-barcesat":"Yael Barcesat" 
 	} 
-,"sobre-o-metodo": 
-	{ "6-12 ":
-	 ,"administracao-do-stress ":
-	 ,"all-over-the-world ":
-	 ,"alta-performance ":
-	 ,"boa-alimentacao ":
-	 ,"boa-cultura ":
-	 ,"boa-forma ":
-	 ,"boa-qualidade-de-vida ":
-	 ,"boas-maneiras ":
-	 ,"boas-relacoes-humanas ":
-	 ,"canal-do-youtube ":
-	 ,"clique-nas-fotos-para-ver ":
-	 ,"comendador-derose ":
-	 ,"conceitos ":
-	 ,"concentracao-e-meditacao ":
-	 ,"concentracao-meditacao ":
-	 ,"conderacoes ":
-	 ,"construa-sua-melhor-versao ":
-	 ,"desportiva ":
-	 ,"dominada-a-tecnica-do-esporte ":
-	 ,"dominada-tecnica-do-esporte ":
-	 ,"estilo-de-vida ":
-	 ,"explore ":
-	 ,"facebook ":
-	 ,"forca-e-flexibilidade ":
-	 ,"forca-flexibilidade ":
-	 ,"garantimos-a-excelencia-dos-nossos-profissionais ":
-	 ,"incentivamos-um-estilo-de-vida-saudavel ":
-	 ,"inspire-sua-essencia ":
-	 ,"instagram ":
-	 ,"links ":
-	 ,"metodo-derose ":
-	 ,"modalidades ":
-	 ,"mter-boa-forma-e-muito-mais ":
-	 ,"nossa-cultura-metodo-derose ":
-	 ,"nossa-presenca-no-mundo ":
-	 ,"o-que-e ":
-	 ,"os-desafios-com-que-grandes-lideres ":
-	 ,"os-desafios-que-os-grandes-lideres ":
-	 ,"pagina-oficial ":
-	 ,"paris-londres-nova-york-roma ":
-	 ,"professor-doutor-honoris-causa ":
-	 ,"profissional ":
-	 ,"qualidade-e ":
-	 ,"reeducacao-respiratoria ":
-	 ,"reeducao-respiratoria ":
-	 ,"responsavel-por-uma-verdadeira-revolucao ":
-	 ,"sistema-de ":
-	 ,"sobre-o ":
-	 ,"sobre-o-metodo ":
-	 ,"sobre-qualidade-de-vida ":
-	 ,"tecnicas ":
-	 ,"tecnicas-corporais ":
-	 ,"ter-boa-forma-fisica ":
-	 ,"uma-proposta-alta-performance ":
-	 ,"videos ":
-	 ,"voltar ":
-	 ,"x ": 
+	,"sobre-o-metodo": 
+	{ "6-12":"6 - 12"
+	 ,"administracao-do-stress":"Administração do stress"
+	 ,"all-over-the-world":"ALL OVER THE WORLD"
+	 ,"alta-performance":"ALTA PERFORMANCE"
+	 ,"alta-performance":"alta performance"
+	 ,"boa-alimentacao":"&nbsp;Boa Alimentação"
+	 ,"boa-alimentacao":"Boa alimentação"
+	 ,"boa-cultura":"Boa Cultura"
+	 ,"boa-cultura":"Boa cultura"
+	 ,"boa-forma":"BOA FORMA"
+	 ,"boa-forma":"Boa Forma"
+	 ,"boa-forma":"Boa forma"
+	 ,"boa-forma":"boa forma"
+	 ,"boa-qualidade-de-vida":"Boa Qualidade de Vida"
+	 ,"boa-qualidade-de-vida":"boa qualidade de vida"
+	 ,"boas-maneiras":"Boas Maneiras"
+	 ,"boas-maneiras":"Boas maneiras"
+	 ,"boas-relacoes-humanas":"Boas Relações Humanas"
+	 ,"boas-relacoes-humanas":"Boas relações humanas"
+	 ,"canal-do-youtube":"Canal do Youtube"
+	 ,"clique-nas-fotos-para-ver":"Clique nas fotos para ver alguns dos reconhecimentos e homenagens recebidos pelo Comendador DeR"
+	 ,"comendador-derose":"COMENDADOR DeROSE"
+	 ,"conceitos":"CONCEITOS"
+	 ,"concentracao-e-meditacao":"Concentração e meditação"
+	 ,"concentracao-meditacao":"Concentração e meditação"
+	 ,"conderacoes":"CONDECORAÇÕES"
+	 ,"construa-sua-melhor-versao":"CONSTRUA A SUA MELHOR VERSÃO"
+	 ,"desportiva":"DESPORTIVA"
+	 ,"desportiva":"desportiva"
+	 ,"dominada-a-tecnica-do-esporte":"Dominada a técnica do esporte, o atleta precisa encontrar o seu diferencial, desenvolvendo outros tipos de capacidades"
+	 ,"dominada-tecnica-do-esporte":"Dominada a técnica do esporte, o atleta precisa encontrar o seu diferencial, desenvolvendo outros tipos de capacidades"
+	 ,"estilo-de-vida":"ESTILO DE VIDA"
+	 ,"estilo-de-vida":"estilo de vida"
+	 ,"explore":"EXPLORE&nbsp; &gt;"
+	 ,"facebook":"Facebook"
+	 ,"forca-e-flexibilidade":"Força e flexibilidade"
+	 ,"forca-flexibilidade":"Força e flexibilidade"
+	 ,"garantimos-a-excelencia-dos-nossos-profissionais":"Garantimos a excelência dos nossos profissionais: eles têm certificado de extensão universitária expedido por uma Universidade Federal, Estadual, Católica ou outra boa entidade particular"
+	 ,"incentivamos-um-estilo-de-vida-saudavel":"Iincentivamos um estilo de vida saudável, por meio dos conceitos de boas relações humanas, boas maneiras, boa forma, boa alimentação e boa cultura"
+	 ,"incentivamos-um-estilo-de-vida-saudavel":"Incentivamos um estilo de vida saudável, por meio dos conceitos de boas relações humanas, boas maneiras, boa forma, boa alimentação e boa cultura"
+	 ,"inspire-sua-essencia":"Inspire sua essência"
+	 ,"instagram":"Instagram"
+	 ,"links":"Links"
+	 ,"metodo-derose":"MÉTODO DeROSE"
+	 ,"modalidades":"modalidades"
+	 ,"mter-boa-forma-e-muito-mais":"Ter boa forma é muito mais do que uma simples questão estética"
+	 ,"nossa-cultura-metodo-derose":"Nossa Cultura - Método DeROSE"
+	 ,"nossa-presenca-no-mundo":"NOSSA PRESENÇA PELO MUNDO"
+	 ,"o-que-e":"O que é?"
+	 ,"os-desafios-com-que-grandes-lideres":"Os desafios com que os grandes líderes têm de lidar diariamente vão mais além do domínio sobre o negócio em que atuam"
+	 ,"os-desafios-que-os-grandes-lideres":"Os desafios que os grandes líderes enfrentam todos os dias vão além do domínio sobre o negócio em que atuam"
+	 ,"pagina-oficial":"(Página Oficial)"
+	 ,"paris-londres-nova-york-roma":"Paris - London - New York - Roma - Barcelona - Buenos Aires - Lisboa - Porto - Rio - São Paulo"
+	 ,"professor-doutor-honoris-causa":"Professor Doutor Honoris Causa (título concedido pelo Complexo de Ensino Superior de Santa Catarina), DeRose é autor de trinta livros"
+	 ,"profissional":"PROFISSIONAL"
+	 ,"profissional":"profissional"
+	 ,"qualidade-e":"QUALIDADE E"
+	 ,"qualidade-e":"qualidade e"
+	 ,"reeducacao-respiratoria":"Reeducação respiratória"
+	 ,"reeducao-respiratoria":"Reeducação respiratória"
+	 ,"responsavel-por-uma-verdadeira-revolucao":"Responsável por uma verdadeira revolução cultural que se iniciou em 1960 e já se estende a várias regiões do planeta, o Comendador DeRose vem sendo agraciado, pelas mais diversas instituições, com incontáveis condecorações, cujo mérito divide com seus supervisionados e alunos"
+	 ,"sistema-de":"SISTEMA DE"
+	 ,"sistema-de":"sistema de"
+	 ,"sobre-o":"SOBRE O"
+	 ,"sobre-o-metodo":"sobre o Método"
+	 ,"sobre-qualidade-de-vida":"Sobre Qualidade de Vida"
+	 ,"tecnicas":"TÉCNICAS"
+	 ,"tecnicas-corporais":"Técnicas corporais"
+	 ,"ter-boa-forma-fisica":"Ter boa forma física é muito mais do que uma simples questão estética"
+	 ,"uma-proposta-alta-performance":"Uma proposta de alta performance e qualidade de vida para empresários e desportistas"
+	 ,"videos":"VÍDEOS"
+	 ,"voltar":"&lt; Voltar"
+	 ,"x":"x" 
 	} 
-,"profissional": 
-	{ "a-disciplina-nos-esportes-forma-campeoes ":
-	 ,"a-pratica-das-tecnicas-deu-estrutura ":
-	 ,"administracao-stress ":
-	 ,"agende-sua-visita ":
-	 ,"aires ":
-	 ,"alguns ":
-	 ,"alguns-eventos-do ":
-	 ,"alta-performance ":
-	 ,"aluna-carlo-mea ":
-	 ,"aluno-da-instrutora ":
-	 ,"aluno-instrutor-eduardo-saldanha ":
-	 ,"aluno-professora-rosana-ortega ":
-	 ,"atitude ":
-	 ,"ator ":
-	 ,"atriz-roteirista ":
-	 ,"aumento-de ":
-	 ,"bairro ":
-	 ,"boa-forma ":
-	 ,"buenos ":
-	 ,"buenos-aires-argentina ":
-	 ,"carlos ":
-	 ,"cidade ":
-	 ,"cinzia ":
-	 ,"comecei-praticar-metodo-derose ":
-	 ,"concentracao ":
-	 ,"construa-a-sua ":
-	 ,"consulte-nossos-especialistas ":
-	 ,"costa ":
-	 ,"curitiba ":
-	 ,"curitiva-brasil ":
-	 ,"depoimentos ":
-	 ,"derose ":
-	 ,"desafios-grandes-lideres-enfrentam ":
-	 ,"desenvolvimento-intuicao ":
-	 ,"desportiva ":
-	 ,"digite-as-letras-abaixo ":
-	 ,"diretor-leo-burnett ":
-	 ,"do-stress ":
-	 ,"dominada-tecnica-do-esporte ":
-	 ,"em-varios-paises-centenas-lideres ":
-	 ,"email ":
-	 ,"empresario ":
-	 ,"empresas-instituicoes ":
-	 ,"enviando-formulario ":
-	 ,"erro-preenchimento ":
-	 ,"estilo-de-vida ":
-	 ,"foco ":
-	 ,"formulario ":
-	 ,"formulario-recebido ":
-	 ,"gestao ":
-	 ,"gestao-do ":
-	 ,"home ":
-	 ,"incentivamos-estilo-de-vida-saudavel ":
-	 ,"intuicao ":
-	 ,"joao ":
-	 ,"luciano ":
-	 ,"maior ":
-	 ,"maior-capacidade-foco-concentracao ":
-	 ,"mais ":
-	 ,"mais-produtividade ":
-	 ,"mascoli ":
-	 ,"melhor ":
-	 ,"melhor-gestao-tempo ":
-	 ,"melhor-versao-profissional ":
-	 ,"melhores ":
-	 ,"metodo-derose ":
-	 ,"metodo-derose-berrini-sao-paulo ":
-	 ,"metodo-derose-chiado-lisboa ":
-	 ,"metodo-derose-downtown-rio-de-janeiro ":
-	 ,"metodo-derose-pelo-mundo ":
-	 ,"metodo-derose-roma-italia ":
-	 ,"metodo-derose-suplantou-area-profissional ":
-	 ,"new ":
-	 ,"new-york-usa ":
-	 ,"nome-sobrenome ":
-	 ,"nossa-metodologia-criar-gerir-cultura ":
-	 ,"nossa-proposta-ideal-pessoas ":
-	 ,"onde-deseja-agendar-visita ":
-	 ,"os-desafios-que-os-grandes-lideres ":
-	 ,"para-o ":
-	 ,"para-que-adaptacao-empresas ":
-	 ,"paulo ":
-	 ,"portanto-nao-se-trata-terceirizar ":
-	 ,"porto ":
-	 ,"porto-portugal ":
-	 ,"praticante-metodo-derose ":
-	 ,"praticar-metodo-derose-proporcionou ":
-	 ,"pratico-metodo-derose-oito-anos ":
-	 ,"profissional ":
-	 ,"qualidade-e ":
-	 ,"relacoes ":
-	 ,"relacoes-pessoais ":
-	 ,"sao ":
-	 ,"sao-paulo-brasil ":
-	 ,"selecionaremos-escola-mais-proxima-bairro ":
-	 ,"sistema-de ":
-	 ,"stress ":
-	 ,"sucesso ":
-	 ,"szafir ":
-	 ,"telefone ":
-	 ,"ter-boa-forma ":
-	 ,"valle ":
-	 ,"veja-depoimentos ":
-	 ,"vivemos-momento-mudancas-rapidas ":
-	 ,"x ":
-	 ,"york ": 
+	,"profissional": 
+	{ "a-disciplina-nos-esportes-forma-campeoes":"&quot;A disciplina nos esportes forma campeões, nas empresas forma vencedores"
+	 ,"a-pratica-das-tecnicas-deu-estrutura":"&nbsp;&quot;A prática das técnicas deu-me a estrutura física para tiradas de muitas horas seguidas de grande exigência, sempre com uma gestão eficaz dos meus recursos"
+	 ,"administracao-stress":"- administração do stress"
+	 ,"agende-sua-visita":"agende sua visita"
+	 ,"aires":"aires"
+	 ,"alguns":"alguns"
+	 ,"alguns-eventos-do":"alguns eventos do"
+	 ,"alta-performance":"ALTA PERFORMANCE"
+	 ,"alta-performance":"alta performance"
+	 ,"aluna-carlo-mea":"Aluna do Instrutor Carlo Mea"
+	 ,"aluno-da-instrutora":"Aluno da Instrutora Julieta Chuairy"
+	 ,"aluno-instrutor-eduardo-saldanha":"Aluno do Instrutor Eduardo Saldanha"
+	 ,"aluno-professora-rosana-ortega":"Aluno da Professora Rosana Ortega"
+	 ,"atitude":"atitude"
+	 ,"ator":"Ator"
+	 ,"atriz-roteirista":"Atriz e roteirista"
+	 ,"aumento-de":"aumento de"
+	 ,"bairro":"bairro"
+	 ,"boa-forma":"BOA FORMA"
+	 ,"buenos":"buenos"
+	 ,"buenos-aires-argentina":"buenos aires - argentina"
+	 ,"carlos":"carlos"
+	 ,"cidade":"CIDADE"
+	 ,"cinzia":"Cinzia"
+	 ,"comecei-praticar-metodo-derose":"&quot;Comecei a praticar o Método DeR para melhorar a definição do corpo e ter mais flexibilidade"
+	 ,"comecei-praticar-metodo-derose":"&quot;Comecei a praticar o Método DeROSE para melhorar a definição do corpo e ter mais flexibilidade"
+	 ,"concentracao":"Concentração"
+	 ,"construa-a-sua":"Construa a sua"
+	 ,"consulte-nossos-especialistas":"CONSULTE OS NOSSOS ESPECIALISTAS"
+	 ,"costa":"Costa"
+	 ,"costa":"costa"
+	 ,"curitiba":"curitiba"
+	 ,"curitiva-brasil":"curitiba - brasil"
+	 ,"depoimentos":"depoimentos"
+	 ,"derose":"DeRose"
+	 ,"desafios-grandes-lideres-enfrentam":"Os desafios que os grandes líderes enfrentam todos os dias vão além do domínio sobre o negócio em que atuam"
+	 ,"desenvolvimento-intuicao":"- desenvolvimento da intuição"
+	 ,"desportiva":"DESPORTIVA"
+	 ,"digite-as-letras-abaixo":"*Digite as letras abaixo"
+	 ,"diretor-leo-burnett":"Diretor da Leo Burnett"
+	 ,"do-stress":"do stress"
+	 ,"dominada-tecnica-do-esporte":"Dominada a técnica do esporte, o atleta precisa encontrar o seu diferencial, desenvolvendo outros tipos de capacidades"
+	 ,"em-varios-paises-centenas-lideres":"Em vários países, centenas de líderes vêm comprovando, nos seus resultados diários, a eficácia do Método DeR"
+	 ,"email":"Email"
+	 ,"empresario":"Empresário"
+	 ,"empresas-instituicoes":"Empresas e instituições como Exxon- Mobil, Esso SAPA, Osdipp, Inelectra S"
+	 ,"enviando-formulario":"Enviando Formulário"
+	 ,"enviando-formulario":"Submitting Form"
+	 ,"erro-preenchimento":"Observe se não há erros de preenchimento"
+	 ,"erro-preenchimento":"The server encountered an error"
+	 ,"estilo-de-vida":"ESTILO DE VIDA"
+	 ,"foco":"foco"
+	 ,"formulario":"Formulário"
+	 ,"formulario-recebido":"Form received"
+	 ,"formulario-recebido":"Formulário recebido"
+	 ,"gestao":"gestão"
+	 ,"gestao-do":"gestão do "
+	 ,"home":"João Costa"
+	 ,"incentivamos-estilo-de-vida-saudavel":"Incentivamos um estilo de vida saudável, por meio dos conceitos de boas relações humanas, boas maneiras, boa forma, boa alimentação e boa cultura"
+	 ,"intuicao":"intuição"
+	 ,"joao":"João"
+	 ,"luciano":"Luciano"
+	 ,"maior":"maior"
+	 ,"maior-capacidade-foco-concentracao":"- maior capacidade de foco e concentração"
+	 ,"mais":"Mais"
+	 ,"mais":"x"
+	 ,"mais-produtividade":"Mais produtividade, melhores"
+	 ,"mascoli":"Mascoli"
+	 ,"melhor":"Melhor"
+	 ,"melhor-gestao-tempo":"- melhor gestão do tempo e das relações interpessoais"
+	 ,"melhor-versao-profissional":"melhor versão Profissional"
+	 ,"melhores":"MELHORES"
+	 ,"metodo-derose":"MÉTODO DeROSE"
+	 ,"metodo-derose-berrini-sao-paulo":"Método DeROSE Berrini, São Paulo"
+	 ,"metodo-derose-chiado-lisboa":"Método DeROSE Chiado, Lisboa"
+	 ,"metodo-derose-downtown-rio-de-janeiro":"Método DeROSE Downtown, Rio de Janeiro"
+	 ,"metodo-derose-pelo-mundo":"Método DeRose pelo mundo"
+	 ,"metodo-derose-roma-italia":"Método DeROSE Roma, Itália"
+	 ,"metodo-derose-suplantou-area-profissional":"O Método DeROSE já suplantou a área profissional e marca cada ação minha a todos os níveis, fazendo de mim um melhor ser humano, dia após dia "
+	 ,"new":"new"
+	 ,"new-york-usa":"new york - usa"
+	 ,"nome-sobrenome":"Nome/SOBRENOME"
+	 ,"nossa-metodologia-criar-gerir-cultura":"Nossa metodologia, para criar e gerir esta cultura, constitui-se de um programa que se diferencia dos demais por ser baseado numa visão prática, técnica e de comprovada eficácia"
+	 ,"nossa-proposta-ideal-pessoas":"Nossa proposta é, assim, ideal para pessoas das quais são exigidos extremo dinamismo e capacidade de realização e, por isso, aplica-se tão bem à realidade de executivos e empresários"
+	 ,"onde-deseja-agendar-visita":"Onde deseja agendar a sua visita?*"
+	 ,"os-desafios-que-os-grandes-lideres":"Os desafios que os grandes líderes enfrentam todos os dias vão além do domínio sobre o negócio em que atuam"
+	 ,"para-o":"para o"
+	 ,"para-que-adaptacao-empresas":"Para que esta adaptação das empresas aos novos cenários seja possível e garanta a conquista dos resultados almejados, é preciso que haja uma cultura voltada para isto"
+	 ,"paulo":"Paulo"
+	 ,"portanto-nao-se-trata-terceirizar":"Portanto, não se trata de teorizar, mas sim de aprender a aplicar ferramentas práticas na vida diária, de maneira progressiva, e cultivar hábitos saudáveis"
+	 ,"porto":"porto"
+	 ,"porto-portugal":"Porto - Portugal"
+	 ,"porto-portugal":"porto - portugal"
+	 ,"praticante-metodo-derose":"Praticante do Método DeROSE"
+	 ,"praticar-metodo-derose-proporcionou":"&quot;Praticar o Método DeROSE me proporcionou muito mais do que o rápido domínio da técnica"
+	 ,"pratico-metodo-derose-oito-anos":"&quot;Pratico o Método DeROSE há oito anos e hoje tenho mais consciência do meu corpo e das minhas emoções"
+	 ,"profissional":"PROFISSIONAL"
+	 ,"profissional":"Profissional"
+	 ,"qualidade-e":"QUALIDADE E"
+	 ,"relacoes":"relações humanas"
+	 ,"relacoes-pessoais":"RELAÇÕES "
+	 ,"sao":"São"
+	 ,"sao-paulo-brasil":"são paulo - brasil"
+	 ,"selecionaremos-escola-mais-proxima-bairro":"Nós selecionaremos a escola mais próxima do bairro que você escolheu"
+	 ,"sistema-de":"SISTEMA DE"
+	 ,"stress":"stress"
+	 ,"sucesso":"sucesso"
+	 ,"szafir":"Szafir"
+	 ,"telefone":"telefone"
+	 ,"ter-boa-forma":"Ter boa forma é muito mais do que uma simples questão estética"
+	 ,"valle":"valle"
+	 ,"veja-depoimentos":"Veja os depoimentos"
+	 ,"vivemos-momento-mudancas-rapidas":"Vivemos um momento de mudanças rápidas, que exigem adaptações constantes"
+	 ,"x":"x"
+	 ,"york":"york" 
 	}
 }
