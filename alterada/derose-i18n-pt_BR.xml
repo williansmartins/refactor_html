@@ -1,0 +1,3241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+	<body>
+		<tu tuid="desportiva.agende-sua-visita.bairro">
+			<tuv xml:lang="pt_BR">
+				<seg>bairro</seg>
+			</tuv>
+		</tu>
+		<tu tuid="desportiva.agende-sua-visita.cidade">
+			<tuv xml:lang="pt_BR">
+				<seg>CIDADE</seg>
+			</tuv>
+		</tu>
+		<tu tuid="desportiva.agende-sua-visita.digite-letras-abaixo">
+			<tuv xml:lang="pt_BR">
+				<seg>*Digite as letras abaixo.</seg>
+			</tuv>
+		</tu>
+		<tu tuid="desportiva.agende-sua-visita.enviando-formulario">
+			<tuv xml:lang="pt_BR">
+				<seg>Enviando Formulário...</seg>
+			</tuv>
+		</tu>
+		<tu tuid="desportiva.agende-sua-visita.enviando-formulario">
+			<tuv xml:lang="pt_BR">
+				<seg>Submitting Form...</seg>
+			</tuv>
+		</tu>
+		<tu tuid="desportiva.agende-sua-visita.erro-preenchimento">
+			<tuv xml:lang="pt_BR">
+				<seg>Observe se não há erros de preenchimento...</seg>
+			</tuv>
+		</tu>
+		<tu tuid="desportiva.agende-sua-visita.erro-preenchimento">
+			<tuv xml:lang="pt_BR">
+				<seg>The server encountered an error.</seg>
+			</tuv>
+		</tu>
+		<tu tuid="desportiva.agende-sua-visita.formulario-recebido">
+			<tuv xml:lang="pt_BR">
+				<seg>Form received.</seg>
+			</tuv>
+		</tu>
+		<tu tuid="desportiva.agende-sua-visita.formulario-recebido">
+			<tuv xml:lang="pt_BR">
+				<seg>Formulário recebido.</seg>
+			</tuv>
+		</tu>
+		<tu tuid="desportiva.agende-sua-visita.onde-deseja-agendar-visita">
+			<tuv xml:lang="pt_BR">
+				<seg>Onde deseja agendar a sua visita?</seg>
+			</tuv>
+		</tu>
+		<tu tuid="desportiva.agende-sua-visita.telefone">
+			<tuv xml:lang="pt_BR">
+				<seg>telefone</seg>
+			</tuv>
+		</tu>
+		<tu tuid="desportiva.agende-sua-visita">
+			<tuv xml:lang="pt_BR">
+				<seg>agende sua visita</seg>
+			</tuv>
+		</tu>
+		<tu tuid="desportiva.agende-sua-visita">
+			<tuv xml:lang="pt_BR">
+				<seg>agende uma visita</seg>
+			</tuv>
+		</tu>
+		<tu tuid="desportiva.alta-performance">
+			<tuv xml:lang="pt_BR">
+				<seg>ALTA PERFORMANCE</seg>
+			</tuv>
+		</tu>
+		<tu tuid="desportiva.alta-performance">
+			<tuv xml:lang="pt_BR">
+				<seg>alta performance</seg>
+			</tuv>
+		</tu>
+		<tu tuid="desportiva.aluna-do">
+			<tuv xml:lang="pt_BR">
+				<seg>Aluna do </seg>
+			</tuv>
+		</tu>
+		<tu tuid="desportiva.aluno-do">
+			<tuv xml:lang="pt_BR">
+				<seg>Aluno do</seg>
+			</tuv>
+		</tu>
+		<tu tuid="desportiva.aluno-do">
+			<tuv xml:lang="pt_BR">
+				<seg>Aluno do </seg>
+			</tuv>
+		</tu>
+		<tu tuid="desportiva.aluno-do">
+			<tuv xml:lang="pt_BR">
+				<seg>“The DeROSE</seg>
+			</tuv>
+		</tu>
+		<tu tuid="desportiva.apos-cinco-meses-treinamento">
+			<tuv xml:lang="pt_BR">
+				<seg>&nbsp;“Após
+					5 meses de treinamento no Método DeROSE consegui melhorar minha
+					velocidade média de remada em 10%. Obtive isso graças ao
+					desenvolvimento da concentração, da respiração e da administração
+					emocional.”
+				</seg>
+			</tuv>
+		</tu>
+		<tu tuid="desportiva.assista-ao-video">
+			<tuv xml:lang="pt_BR">
+				<seg>ASSISTA AO VÍDEO</seg>
+			</tuv>
+		</tu>
+		<tu tuid="desportiva.assista-ao-video">
+			<tuv xml:lang="pt_BR">
+				<seg>assista ao vídeo</seg>
+			</tuv>
+		</tu>
+		<tu tuid="desportiva.atletas">
+			<tuv xml:lang="pt_BR">
+				<seg>atletas</seg>
+			</tuv>
+		</tu>
+		<tu tuid="desportiva.boa-forma">
+			<tuv xml:lang="pt_BR">
+				<seg>BOA FORMA</seg>
+			</tuv>
+		</tu>
+		<tu tuid="desportiva.campeao-formula-renault">
+			<tuv xml:lang="pt_BR">
+				<seg>Campeão de Formula Renault</seg>
+			</tuv>
+		</tu>
+		<tu tuid="desportiva.campeao-formula-renault">
+			<tuv xml:lang="pt_BR">
+				<seg>Campeão de Fórmula Renault</seg>
+			</tuv>
+		</tu>
+		<tu tuid="desportiva.campinas-sp-br">
+			<tuv xml:lang="pt_BR">
+				<seg>Campinas São Paulo - BR</seg>
+			</tuv>
+		</tu>
+		<tu tuid="desportiva.campinas-sp-br">
+			<tuv xml:lang="pt_BR">
+				<seg>Campinas/SP - BR</seg>
+			</tuv>
+		</tu>
+		<tu tuid="desportiva.com-exercicios-concentracao-meditacao">
+			<tuv xml:lang="pt_BR">
+				<seg>Com os exercícios de concentração e meditação, amplia-se o foco
+					e a capacidade de organizar os pensamentos para a conquista do
+					ideal projetado.</seg>
+			</tuv>
+		</tu>
+		<tu tuid="desportiva.conheca-nossos">
+			<tuv xml:lang="pt_BR">
+				<seg>conheça Nossos</seg>
+			</tuv>
+		</tu>
+		<tu tuid="desportiva.construindo-vencedores">
+			<tuv xml:lang="pt_BR">
+				<seg>construindo vencedores desde 1960</seg>
+			</tuv>
+		</tu>
+		<tu tuid="desportiva.consulte-nossos-especialistas">
+			<tuv xml:lang="pt_BR">
+				<seg>CONSULTE OS NOSSOS ESPECIALISTAS</seg>
+			</tuv>
+		</tu>
+		<tu tuid="desportiva.curitiba-pr-br">
+			<tuv xml:lang="pt_BR">
+				<seg> Curitiba/PR - BR</seg>
+			</tuv>
+		</tu>
+		<tu tuid="desportiva.curitiba-pr-br">
+			<tuv xml:lang="pt_BR">
+				<seg>Curitiba/PR - BR</seg>
+			</tuv>
+		</tu>
+		<tu tuid="desportiva.de-que-maneira-esportista">
+			<tuv xml:lang="pt_BR">
+				<seg>De que maneira um esportista, profissional ou amador, pode
+					render mais, depois de ter dominado as questões técnicas da sua
+					modalidade?</seg>
+			</tuv>
+		</tu>
+		<tu tuid="desportiva.de-que-maneira-um-esportista">
+			<tuv xml:lang="pt_BR">
+				<seg>De que maneira um esportista, profissional ou amador, pode
+					render mais, depois de ter dominado as questões técnicas da sua
+					modalidade?</seg>
+			</tuv>
+		</tu>
+		<tu tuid="desportiva.desportiva">
+			<tuv xml:lang="pt_BR">
+				<seg>DESPORTIVA</seg>
+			</tuv>
+		</tu>
+		<tu tuid="desportiva.desportiva">
+			<tuv xml:lang="pt_BR">
+				<seg>desportiva</seg>
+			</tuv>
+		</tu>
+		<tu tuid="desportiva.dominada-tecnica-esporte">
+			<tuv xml:lang="pt_BR">
+				<seg>Dominada a técnica do esporte, o atleta precisa encontrar o seu
+					diferencial, desenvolvendo outros tipos de capacidades.</seg>
+			</tuv>
+		</tu>
+		<tu tuid="desportiva.em-nossas-praticas">
+			<tuv xml:lang="pt_BR">
+				<seg>Em nossas práticas, o esportista trava contato com um
+					expressivo acervo de técnicas, que irão promover melhor performance
+					nos esportes e nos demais setores da vida.</seg>
+			</tuv>
+		</tu>
+		<tu tuid="desportiva.email">
+			<tuv xml:lang="pt_BR">
+				<seg>Email</seg>
+			</tuv>
+		</tu>
+		<tu tuid="desportiva.estilo-de-vida">
+			<tuv xml:lang="pt_BR">
+				<seg>ESTILO DE VIDA</seg>
+			</tuv>
+		</tu>
+		<tu tuid="desportiva.estou-adorando-metodo-derose">
+			<tuv xml:lang="pt_BR">
+				<seg>&quot;Estou adorando o Método DeROSE! Em toda a minha carreira
+					de piloto (iniciei em 1995), sempre busquei métodos e exercícios
+					que pudessem me trazer uma melhoria e que que me colocassem em
+					vantagem perante os meus concorrentes.&quot;</seg>
+			</tuv>
+		</tu>
+		<tu tuid="desportiva.estou-adorando-metodo-derose">
+			<tuv xml:lang="pt_BR">
+				<seg>Estou adorando o Método DeROSE! Em toda a minha carreira de
+					piloto (iniciei em 1995), sempre busquei métodos e exercícios que
+					pudessem me trazer uma melhoria e que que me colocassem em vantagem
+					perante os meus concorrentes.</seg>
+			</tuv>
+		</tu>
+		<tu tuid="desportiva.ferramenta-alta-performance">
+			<tuv xml:lang="pt_BR">
+				<seg>- ferramenta para a alta performance desportiva</seg>
+			</tuv>
+		</tu>
+		<tu tuid="desportiva.fmx">
+			<tuv xml:lang="pt_BR">
+				<seg>FMX</seg>
+			</tuv>
+		</tu>
+		<tu tuid="desportiva.formula-renault">
+			<tuv xml:lang="pt_BR">
+				<seg>Formula Renault</seg>
+			</tuv>
+		</tu>
+		<tu tuid="desportiva.formulario">
+			<tuv xml:lang="pt_BR">
+				<seg>formulário</seg>
+			</tuv>
+		</tu>
+		<tu tuid="desportiva.foto-mau-haas">
+			<tuv xml:lang="pt_BR">
+				<seg>Foto: ©Mau Haas</seg>
+			</tuv>
+		</tu>
+		<tu tuid="desportiva.galid-osman">
+			<tuv xml:lang="pt_BR">
+				<seg>Galid Osman</seg>
+			</tuv>
+		</tu>
+		<tu tuid="desportiva.hawaii-usa">
+			<tuv xml:lang="pt_BR">
+				<seg> Hawaii - USA</seg>
+			</tuv>
+		</tu>
+		<tu tuid="desportiva.incentivamos-estilo-de-vida-saudavel">
+			<tuv xml:lang="pt_BR">
+				<seg>Incentivamos um estilo de vida saudável, por meio dos conceitos
+					de boas relações humanas, boas maneiras, boa forma, boa alimentação
+					e boa cultura.</seg>
+			</tuv>
+		</tu>
+		<tu
+			tuid="desportiva.iniciei-treinamentos-desenvolver-administracao-emocional">
+			<tuv xml:lang="pt_BR">
+				<seg>“Iniciei os treinamentos para desenvolver administração
+					emocional.”</seg>
+			</tuv>
+		</tu>
+		<tu tuid="desportiva.ja-estou-indicando-metodo-derose">
+			<tuv xml:lang="pt_BR">
+				<seg>“Já estou indicando o Método DeROSE, pois acho que é o que
+					falta para muitos atletas.”</seg>
+			</tuv>
+		</tu>
+		<tu tuid="desportiva.ja-nossas-tecnicas-corporais">
+			<tuv xml:lang="pt_BR">
+				<seg>Já nossas técnicas corporais esculpem o corpo de acordo com a
+					exigência da modalidade desportiva, tornando-o mais saudável, mais
+					dinâmico, mais forte e resistente.</seg>
+			</tuv>
+		</tu>
+		<tu tuid="desportiva.jamie-sterling">
+			<tuv xml:lang="pt_BR">
+				<seg>Jamie Sterling</seg>
+			</tuv>
+		</tu>
+		<tu tuid="desportiva.jeff-campacci">
+			<tuv xml:lang="pt_BR">
+				<seg>Jeff campacci</seg>
+			</tuv>
+		</tu>
+		<tu tuid="desportiva.jogador-profissional-basquetebol">
+			<tuv xml:lang="pt_BR">
+				<seg>jogador profissional de Basquetebol</seg>
+			</tuv>
+		</tu>
+		<tu tuid="desportiva.laura-cordone">
+			<tuv xml:lang="pt_BR">
+				<seg>LAURA CORDONE</seg>
+			</tuv>
+		</tu>
+		<tu tuid="desportiva.luiz-guida-animal">
+			<tuv xml:lang="pt_BR">
+				<seg>Luiz guida &quot;animal&quot;</seg>
+			</tuv>
+		</tu>
+		<tu tuid="desportiva.mais">
+			<tuv xml:lang="pt_BR">
+				<seg>Mais</seg>
+			</tuv>
+		</tu>
+		<tu tuid="desportiva.metodo-derose-batel">
+			<tuv xml:lang="pt_BR">
+				<seg> Método DeROSE Batel</seg>
+			</tuv>
+		</tu>
+		<tu tuid="desportiva.metodo-derose-batel">
+			<tuv xml:lang="pt_BR">
+				<seg>Método DeROSE Batel, </seg>
+			</tuv>
+		</tu>
+		<tu tuid="desportiva.metodo-derose-cambui">
+			<tuv xml:lang="pt_BR">
+				<seg>Método DeROSE Cambuí, </seg>
+			</tuv>
+		</tu>
+		<tu tuid="desportiva.metodo-derose-fundamental-treinamento">
+			<tuv xml:lang="pt_BR">
+				<seg>&quot;The DeROSE Method is the foundation of my training, it
+					offers me strength, flexibility, concentration, and many other
+					aspects that do tie into my athletic performance.&quot;</seg>
+			</tuv>
+		</tu>
+		<tu tuid="desportiva.metodo-derose-fundamental-treinamento">
+			<tuv xml:lang="pt_BR">
+				<seg>&quot;The DeROSE Method is the foundation of my training, it
+					offers me strength, flexibility, concentration, and many other
+					aspects that do tie into my athletic performance.”</seg>
+			</tuv>
+		</tu>
+		<tu tuid="desportiva.metodo-derose-tribeca">
+			<tuv xml:lang="pt_BR">
+				<seg>DeROSE Method Tribeca,</seg>
+			</tuv>
+		</tu>
+		<tu tuid="desportiva.metodo-derose-vila-mariana">
+			<tuv xml:lang="pt_BR">
+				<seg> Método DeROSE Vila Mariana</seg>
+			</tuv>
+		</tu>
+		<tu tuid="desportiva.metodo-derose-vila-mariana">
+			<tuv xml:lang="pt_BR">
+				<seg>Método DeROSE Vila Mariana</seg>
+			</tuv>
+		</tu>
+		<tu tuid="desportiva.metodo-derose-vila-mariana">
+			<tuv xml:lang="pt_BR">
+				<seg>Método DeROSE Vila Mariana, </seg>
+			</tuv>
+		</tu>
+		<tu tuid="desportiva.metodo-derose-vila-mariana">
+			<tuv xml:lang="pt_BR">
+				<seg>Método DeROSE, Vila Mariana</seg>
+			</tuv>
+		</tu>
+		<tu tuid="desportiva.metodo-derose">
+			<tuv xml:lang="pt_BR">
+				<seg>MÉTODO DeROSE</seg>
+			</tuv>
+		</tu>
+		<tu tuid="desportiva.metodo-derose">
+			<tuv xml:lang="pt_BR">
+				<seg>Método DeROSE</seg>
+			</tuv>
+		</tu>
+		<tu tuid="desportiva.metodo-derose">
+			<tuv xml:lang="pt_BR">
+				<seg>Método DeROSE </seg>
+			</tuv>
+		</tu>
+		<tu tuid="desportiva.metodo-permitiu-me-controlar">
+			<tuv xml:lang="pt_BR">
+				<seg> Method has allowed me to manage myself, my body and my
+					emotions, as well as the pressure from the team and sponsors.”</seg>
+			</tuv>
+		</tu>
+		<tu tuid="desportiva.metodo-permitiu-me-controlar">
+			<tuv xml:lang="pt_BR">
+				<seg>Method has allowed me to manage myself, my body and my
+					emotions, as well as the pressure from the team and sponsors.”</seg>
+			</tuv>
+		</tu>
+		<tu tuid="desportiva.muitos-outros-esportes">
+			<tuv xml:lang="pt_BR">
+				<seg>e muitos outros esportes</seg>
+			</tuv>
+		</tu>
+		<tu tuid="desportiva.nesse-acervo-encontra-se">
+			<tuv xml:lang="pt_BR">
+				<seg>Nesse acervo, encontra-se, entre outros, o treinamento
+					respiratório e de ampliação da capacidade pulmonar. Respirando
+					melhor, o atleta aprimora sua consciência corporal, minimiza o
+					gasto de energia, ganha mais vitalidade, torna-se mais produtivo e,
+					ainda, consegue administrar melhor suas emoções, levando vantagem
+					em relação a seus adversários, em situações de pressão.</seg>
+			</tuv>
+		</tu>
+		<tu tuid="desportiva.new-york-usa">
+			<tuv xml:lang="pt_BR">
+				<seg> New York, USA</seg>
+			</tuv>
+		</tu>
+		<tu tuid="desportiva.nome-sobrenome">
+			<tuv xml:lang="pt_BR">
+				<seg>Nome/SOBRENOME</seg>
+			</tuv>
+		</tu>
+		<tu tuid="desportiva.nossos-atletas">
+			<tuv xml:lang="pt_BR">
+				<seg>nossos atletas</seg>
+			</tuv>
+		</tu>
+		<tu tuid="desportiva.nove-vezes-campea-brasileira-esgrima">
+			<tuv xml:lang="pt_BR">
+				<seg>9 vezes campeã brasileira de esgrima na categoria florete</seg>
+			</tuv>
+		</tu>
+		<tu tuid="desportiva.o-derose">
+			<tuv xml:lang="pt_BR">
+				<seg>“The DeROSE </seg>
+			</tuv>
+		</tu>
+		<tu tuid="desportiva.o-metodo-derose-tem-feito-toda-diferenca">
+			<tuv xml:lang="pt_BR">
+				<seg>&quot;O Método DeROSE tem feito toda a diferença, em cada
+					detalhe, me ajudando através de cada prática a alcançar meus
+					objetivos, dentro e fora de quadra.&quot;</seg>
+			</tuv>
+		</tu>
+		<tu tuid="desportiva.o-treinamento-de-exercicios">
+			<tuv xml:lang="pt_BR">
+				<seg>O
+					treinamento de exercícios de descontração proposto ensina a
+					voluntariamente distensionar músculos, nervos, tendões, enfim, o
+					corpo todo, auxiliando na redução dos níveis de e ansiedade
+					provocados pela expectativa por melhores resultados.&nbsp;
+					Além disso, esta técnica cria as condições ideais para desenvolver
+					a capacidade imaginativa, o que servirá para criar moldes mentais
+					de metas e objetivos, e traçar com clareza as ações necessárias
+					para atingi-los.
+				</seg>
+			</tuv>
+		</tu>
+		<tu tuid="desportiva.o-treinamento-de-exercicios">
+			<tuv xml:lang="pt_BR">
+				<seg>O
+					treinamento de exercícios de descontração proposto ensina a
+					voluntariamente distensionar músculos, nervos, tendões, enfim, o
+					corpo todo, auxiliando na redução dos níveis de stress e ansiedade
+					provocados pela expectativa por melhores resultados.&nbsp;
+					Além disso, esta técnica cria as condições ideais para desenvolver
+					a capacidade imaginativa, o que servirá para criar moldes mentais
+					de metas e objetivos, e traçar com clareza as ações necessárias
+					para atingi-los.
+				</seg>
+			</tuv>
+		</tu>
+		<tu tuid="desportiva.os-desafios-grandes-lideres-enfrentam">
+			<tuv xml:lang="pt_BR">
+				<seg>Os desafios que os grandes líderes enfrentam todos os dias vão
+					além do domínio sobre o negócio em que atuam.</seg>
+			</tuv>
+		</tu>
+		<tu tuid="desportiva.para-manter-motivados">
+			<tuv xml:lang="pt_BR">
+				<seg>Para nos manter motivados em direção à vitória, é necessário,
+					antes de mais nada, que estejamos realizados e focados em nosso
+					propósito. E isso só é possível com um perfeito funcionamento do
+					corpo, um bom gerenciamento das emoções e um excelente desempenho
+					mental. Assim, alcançaremos nossas metas, uma após a outra, gerando
+					maior autoconfiança e um processo de autossuperação estimulante. No
+					caso do atleta, não é diferente.</seg>
+			</tuv>
+		</tu>
+		<tu tuid="desportiva.para-nosso-metodo">
+			<tuv xml:lang="pt_BR">
+				<seg>Para o nosso Método, alta performance significa construir um
+					ciclo virtuoso de desafio, perseverança e conquista. É nisso que
+					alicerçam todos os recordes alcançados e os objetivos conquistados.
+					E é com isso que todos os sonhos são concretizados.</seg>
+			</tuv>
+		</tu>
+		<tu tuid="desportiva.pedro-patekoski">
+			<tuv xml:lang="pt_BR">
+				<seg>Pedro Patekoski</seg>
+			</tuv>
+		</tu>
+		<tu tuid="desportiva.piloto-stock-car">
+			<tuv xml:lang="pt_BR">
+				<seg>piloto da Stock Car</seg>
+			</tuv>
+		</tu>
+		<tu tuid="desportiva.por-meio-de-ferramentas">
+			<tuv xml:lang="pt_BR">
+				<seg>Por meio de ferramentas que o levarão a aperfeiçoar a
+					capacidade respiratória, a concentração, a força e a flexibilidade.
+					Mas o maior diferencial do nosso Método está em proporcionar um
+					treinamento emocional e mental indispensável para gerar resultados
+					cada vez melhores.</seg>
+			</tuv>
+		</tu>
+		<tu tuid="desportiva.por-meio-ferramentas">
+			<tuv xml:lang="pt_BR">
+				<seg>Por meio de ferramentas que o levarão a aperfeiçoar a
+					capacidade respiratória, a concentração, a força e a flexibilidade.
+					Mas o maior diferencial do nosso Método está em proporcionar um
+					treinamento emocional e mental indispensável para gerar resultados
+					cada vez melhores.</seg>
+			</tuv>
+		</tu>
+		<tu tuid="desportiva.praticante-do-metodo">
+			<tuv xml:lang="pt_BR">
+				<seg>Praticante do </seg>
+			</tuv>
+		</tu>
+		<tu tuid="desportiva.praticante-do">
+			<tuv xml:lang="pt_BR">
+				<seg>Praticante do </seg>
+			</tuv>
+		</tu>
+		<tu tuid="desportiva.praticante-metodo-derose">
+			<tuv xml:lang="pt_BR">
+				<seg>Praticante do Método DeROSE</seg>
+			</tuv>
+		</tu>
+		<tu tuid="desportiva.profissional">
+			<tuv xml:lang="pt_BR">
+				<seg>PROFISSIONAL</seg>
+			</tuv>
+		</tu>
+		<tu tuid="desportiva.qualidade-e">
+			<tuv xml:lang="pt_BR">
+				<seg>QUALIDADE E</seg>
+			</tuv>
+		</tu>
+		<tu tuid="desportiva.roy-geerts">
+			<tuv xml:lang="pt_BR">
+				<seg>ROY Geerts</seg>
+			</tuv>
+		</tu>
+		<tu tuid="desportiva.roy-geerts">
+			<tuv xml:lang="pt_BR">
+				<seg>Roy Geerts</seg>
+			</tuv>
+		</tu>
+		<tu tuid="desportiva.sao-paulo-br">
+			<tuv xml:lang="pt_BR">
+				<seg> São Paulo - BR</seg>
+			</tuv>
+		</tu>
+		<tu tuid="desportiva.sao-paulo-br">
+			<tuv xml:lang="pt_BR">
+				<seg>São Paulo - BR</seg>
+			</tuv>
+		</tu>
+		<tu tuid="desportiva.ser-um-atleta-e-se-autosuperar">
+			<tuv xml:lang="pt_BR">
+				<seg>&quot;Ser um atleta é se autossuperar a cada instante, conhecer
+					os seus limites e ultrapassá-los. Torne-se a melhor versão de si
+					mesmo com o Método DeROSE.”</seg>
+			</tuv>
+		</tu>
+		<tu tuid="desportiva.sistema-de">
+			<tuv xml:lang="pt_BR">
+				<seg>SISTEMA DE</seg>
+			</tuv>
+		</tu>
+		<tu tuid="desportiva.surf-sup-auto">
+			<tuv xml:lang="pt_BR">
+				<seg>surf, Sup, Automobilismo, FMX, Natação, TÊnis, esgrima,
+					escalada, bike , BASQUETEBOL</seg>
+			</tuv>
+		</tu>
+		<tu tuid="desportiva.surfista-ondas-gigantes">
+			<tuv xml:lang="pt_BR">
+				<seg>Surfista de ondas gigantes</seg>
+			</tuv>
+		</tu>
+		<tu tuid="desportiva.tais-rachel">
+			<tuv xml:lang="pt_BR">
+				<seg>Taís Rochel</seg>
+			</tuv>
+		</tu>
+		<tu tuid="desportiva.tenis">
+			<tuv xml:lang="pt_BR">
+				<seg>Ténis</seg>
+			</tuv>
+		</tu>
+		<tu tuid="desportiva.ter-boa-forma">
+			<tuv xml:lang="pt_BR">
+				<seg>Ter boa forma é muito mais do que uma simples questão estética.</seg>
+			</tuv>
+		</tu>
+		<tu tuid="desportiva.tri-campeao-brasileiro-sup-race">
+			<tuv xml:lang="pt_BR">
+				<seg>Tricampeão brasileiro de SUP race</seg>
+			</tuv>
+		</tu>
+		<tu tuid="desportiva.vencedores-nao-inventam-desculpas">
+			<tuv xml:lang="pt_BR">
+				<seg>Vencedores não inventam desculpas.</seg>
+			</tuv>
+		</tu>
+		<tu tuid="desportiva.vencedores-nao-inventam-desculpas">
+			<tuv xml:lang="pt_BR">
+				<seg>WINNERS DON'T MAKE EXCUSES</seg>
+			</tuv>
+		</tu>
+		<tu tuid="desportiva.vencer-sensacao-extraordinaria">
+			<tuv xml:lang="pt_BR">
+				<seg>Vencer é uma sensação extraordinária que todos almejamos, e que
+					nos torna incansáveis.</seg>
+			</tuv>
+		</tu>
+		<tu tuid="desportiva.vice-campeao-mundial-canoa-havaiana">
+			<tuv xml:lang="pt_BR">
+				<seg>Vice-campeão mundial de canoa havaiana</seg>
+			</tuv>
+		</tu>
+		<tu tuid="desportiva.voltar">
+			<tuv xml:lang="pt_BR">
+				<seg>&lt; Voltar</seg>
+			</tuv>
+		</tu>
+		<tu tuid="desportiva.x-voltar">
+			<tuv xml:lang="pt_BR">
+				<seg>X voltar</seg>
+			</tuv>
+		</tu>
+		<tu tuid="desportiva.x">
+			<tuv xml:lang="pt_BR">
+				<seg>x</seg>
+			</tuv>
+		</tu>
+		<tu tuid="index.alta-performance">
+			<tuv xml:lang="pt_BR">
+				<seg>alta performance</seg>
+			</tuv>
+		</tu>
+		<tu tuid="index.boa-forma">
+			<tuv xml:lang="pt_BR">
+				<seg>boa forma</seg>
+			</tuv>
+		</tu>
+		<tu tuid="index.campeao-formula-renault">
+			<tuv xml:lang="pt_BR">
+				<seg>Campeão de Fórmula Renault</seg>
+			</tuv>
+		</tu>
+		<tu tuid="index.campeao-standup-paddle">
+			<tuv xml:lang="pt_BR">
+				<seg>Campeão de Stand-up paddle</seg>
+			</tuv>
+		</tu>
+		<tu tuid="index.construa-sua-melhor-versao">
+			<tuv xml:lang="pt_BR">
+				<seg>CONSTRUA A SUA MELHOR VERSÃO</seg>
+			</tuv>
+		</tu>
+		<tu tuid="index.construa-sua">
+			<tuv xml:lang="pt_BR">
+				<seg>Construa a sua</seg>
+			</tuv>
+		</tu>
+		<tu tuid="index.der">
+			<tuv xml:lang="pt_BR">
+				<seg> DeR</seg>
+			</tuv>
+		</tu>
+		<tu tuid="index.descubra">
+			<tuv xml:lang="pt_BR">
+				<seg>DESCUBRA&nbsp;
+					&gt;
+				</seg>
+			</tuv>
+		</tu>
+		<tu tuid="index.desenvolva-seu-corpo">
+			<tuv xml:lang="pt_BR">
+				<seg>Desenvolva seu corpo, gerencie suas emoções e aprimore seu
+					poder de concentração.</seg>
+			</tuv>
+		</tu>
+		<tu tuid="index.desportiva">
+			<tuv xml:lang="pt_BR">
+				<seg>desportiva</seg>
+			</tuv>
+		</tu>
+		<tu tuid="index.estilo-de-vida">
+			<tuv xml:lang="pt_BR">
+				<seg>estilo de vida</seg>
+			</tuv>
+		</tu>
+		<tu tuid="index.explore">
+			<tuv xml:lang="pt_BR">
+				<seg>EXPLORE&nbsp;
+					&gt;
+				</seg>
+			</tuv>
+		</tu>
+		<tu tuid="index.luiz-guida-animal">
+			<tuv xml:lang="pt_BR">
+				<seg>Luiz Guida &quot;Animal'</seg>
+			</tuv>
+		</tu>
+		<tu tuid="index.melhor-versao">
+			<tuv xml:lang="pt_BR">
+				<seg>melhor versão</seg>
+			</tuv>
+		</tu>
+		<tu tuid="index.metodo">
+			<tuv xml:lang="pt_BR">
+				<seg>MÉTODO</seg>
+			</tuv>
+		</tu>
+		<tu tuid="index.o-metodo-derose">
+			<tuv xml:lang="pt_BR">
+				<seg>O Método deRose</seg>
+			</tuv>
+		</tu>
+		<tu tuid="index.ose">
+			<tuv xml:lang="pt_BR">
+				<seg>OSE</seg>
+			</tuv>
+		</tu>
+		<tu tuid="index.praticante-metodo-der">
+			<tuv xml:lang="pt_BR">
+				<seg>Praticante do Método DeR</seg>
+			</tuv>
+		</tu>
+		<tu tuid="index.praticante-metodo-derose">
+			<tuv xml:lang="pt_BR">
+				<seg>Praticante do Método DeROSE</seg>
+			</tuv>
+		</tu>
+		<tu tuid="index.profissional">
+			<tuv xml:lang="pt_BR">
+				<seg>profissional</seg>
+			</tuv>
+		</tu>
+		<tu tuid="index.proposta-de-alta-performance">
+			<tuv xml:lang="pt_BR">
+				<seg>Uma proposta de alta performance e qualidade de vida para
+					empresários e desportistas.</seg>
+			</tuv>
+		</tu>
+		<tu tuid="index.qualidade-e">
+			<tuv xml:lang="pt_BR">
+				<seg>qualidade e</seg>
+			</tuv>
+		</tu>
+		<tu tuid="index.roy-geerts">
+			<tuv xml:lang="pt_BR">
+				<seg>Roy Geerts</seg>
+			</tuv>
+		</tu>
+		<tu tuid="index.sistema-de">
+			<tuv xml:lang="pt_BR">
+				<seg>sistema de</seg>
+			</tuv>
+		</tu>
+		<tu tuid="index.sobre-o">
+			<tuv xml:lang="pt_BR">
+				<seg>SOBRE O</seg>
+			</tuv>
+		</tu>
+		<tu tuid="menu.agende-uma-visita ">
+			<tuv xml:lang="pt_BR">
+				<seg>Agende uma visita</seg>
+			</tuv>
+		</tu>
+		<tu tuid="menu.agende-uma-visita.agendar-visita">
+			<tuv xml:lang="pt_BR">
+				<seg>Onde deseja agendar a sua visita?*</seg>
+			</tuv>
+		</tu>
+		<tu tuid="menu.agende-uma-visita.agende-sua-visita">
+			<tuv xml:lang="pt_BR">
+				<seg>agende sua visita</seg>
+			</tuv>
+		</tu>
+		<tu tuid="menu.agende-uma-visita.bairro">
+			<tuv xml:lang="pt_BR">
+				<seg>bairro</seg>
+			</tuv>
+		</tu>
+		<tu tuid="menu.agende-uma-visita.cidade">
+			<tuv xml:lang="pt_BR">
+				<seg>CIDADE</seg>
+			</tuv>
+		</tu>
+		<tu tuid="menu.agende-uma-visita.digite-letras-abaixo">
+			<tuv xml:lang="pt_BR">
+				<seg>*Digite as letras abaixo.</seg>
+			</tuv>
+		</tu>
+		<tu tuid="menu.agende-uma-visita.email">
+			<tuv xml:lang="pt_BR">
+				<seg>Email</seg>
+			</tuv>
+		</tu>
+		<tu tuid="menu.agende-uma-visita.enviando-formulario">
+			<tuv xml:lang="pt_BR">
+				<seg>Enviando Formulário...</seg>
+			</tuv>
+		</tu>
+		<tu tuid="menu.agende-uma-visita.erro-preenchimento">
+			<tuv xml:lang="pt_BR">
+				<seg>Observe se não há erros de preenchimento...</seg>
+			</tuv>
+		</tu>
+		<tu tuid="menu.agende-uma-visita.formulario-recebido">
+			<tuv xml:lang="pt_BR">
+				<seg>Form received.</seg>
+			</tuv>
+		</tu>
+		<tu tuid="menu.agende-uma-visita.formulario-recebido">
+			<tuv xml:lang="pt_BR">
+				<seg>Formulário recebido.</seg>
+			</tuv>
+		</tu>
+		<tu tuid="menu.agende-uma-visita.formulario">
+			<tuv xml:lang="pt_BR">
+				<seg>Formulário</seg>
+			</tuv>
+		</tu>
+		<tu tuid="menu.agende-uma-visita.nome-sobrenome">
+			<tuv xml:lang="pt_BR">
+				<seg>Nome/SOBRENOME</seg>
+			</tuv>
+		</tu>
+		<tu tuid="menu.agende-uma-visita.selecionamos-escola">
+			<tuv xml:lang="pt_BR">
+				<seg>Nós selecionaremos a escola mais próxima do bairro que você
+					escolheu</seg>
+			</tuv>
+		</tu>
+		<tu tuid="menu.agende-uma-visita.servidor-encontrou-erro">
+			<tuv xml:lang="pt_BR">
+				<seg>Observe se não há erros de preenchimento...</seg>
+			</tuv>
+		</tu>
+		<tu tuid="menu.agende-uma-visita.servidor-encontrou-erro">
+			<tuv xml:lang="pt_BR">
+				<seg>The server encountered an error.</seg>
+			</tuv>
+		</tu>
+		<tu tuid="menu.agende-uma-visita.submetendo-formulario">
+			<tuv xml:lang="pt_BR">
+				<seg>Enviando Formulário...</seg>
+			</tuv>
+		</tu>
+		<tu tuid="menu.agende-uma-visita.submetendo-formulario">
+			<tuv xml:lang="pt_BR">
+				<seg>Submitting Form...</seg>
+			</tuv>
+		</tu>
+		<tu tuid="menu.agende-uma-visita.telefone">
+			<tuv xml:lang="pt_BR">
+				<seg>telefone</seg>
+			</tuv>
+		</tu>
+		<tu tuid="menu.agende-uma-visita">
+			<tuv xml:lang="pt_BR">
+				<seg>Agende uma visita</seg>
+			</tuv>
+		</tu>
+		<tu tuid="menu.agenede-uma-visita">
+			<tuv xml:lang="pt_BR">
+				<seg>Agende uma visita</seg>
+			</tuv>
+		</tu>
+		<tu tuid="menu.alta-performance">
+			<tuv xml:lang="pt_BR">
+				<seg>alta performance</seg>
+			</tuv>
+		</tu>
+		<tu tuid="menu.boa-forma">
+			<tuv xml:lang="pt_BR">
+				<seg>boa forma</seg>
+			</tuv>
+		</tu>
+		<tu tuid="menu.desportiva">
+			<tuv xml:lang="pt_BR">
+				<seg>desportiva</seg>
+			</tuv>
+		</tu>
+		<tu tuid="menu.digite-as-letras-abaixo">
+			<tuv xml:lang="pt_BR">
+				<seg>*Digite as letras abaixo.</seg>
+			</tuv>
+		</tu>
+		<tu tuid="menu.estilo-de-vida">
+			<tuv xml:lang="pt_BR">
+				<seg>estilo de vida</seg>
+			</tuv>
+		</tu>
+		<tu tuid="menu.home">
+			<tuv xml:lang="pt_BR">
+				<seg>HOME</seg>
+			</tuv>
+		</tu>
+		<tu tuid="menu.menu">
+			<tuv xml:lang="pt_BR">
+				<seg>MENU</seg>
+			</tuv>
+		</tu>
+		<tu tuid="menu.modalidade">
+			<tuv xml:lang="pt_BR">
+				<seg>MODALIDADES</seg>
+			</tuv>
+		</tu>
+		<tu tuid="menu.modalidades">
+			<tuv xml:lang="pt_BR">
+				<seg>MODALIDADES</seg>
+			</tuv>
+		</tu>
+		<tu tuid="menu.modalidades">
+			<tuv xml:lang="pt_BR">
+				<seg>modalidades</seg>
+			</tuv>
+		</tu>
+		<tu tuid="menu.ose">
+			<tuv xml:lang="pt_BR">
+				<seg>OSE</seg>
+			</tuv>
+		</tu>
+		<tu tuid="menu.profissional">
+			<tuv xml:lang="pt_BR">
+				<seg>profissional</seg>
+			</tuv>
+		</tu>
+		<tu tuid="menu.qualidade-e">
+			<tuv xml:lang="pt_BR">
+				<seg>qualidade e</seg>
+			</tuv>
+		</tu>
+		<tu tuid="menu.siga-nos-nas-redes-sociais">
+			<tuv xml:lang="pt_BR">
+				<seg>siga-nos nas redes sociais</seg>
+			</tuv>
+		</tu>
+		<tu tuid="menu.siga-nos-redes-sociais">
+			<tuv xml:lang="pt_BR">
+				<seg>siga-nos nas redes sociais</seg>
+			</tuv>
+		</tu>
+		<tu tuid="menu.sistema-de">
+			<tuv xml:lang="pt_BR">
+				<seg>sistema de</seg>
+			</tuv>
+		</tu>
+		<tu tuid="menu.sobre-o-metodo-der">
+			<tuv xml:lang="pt_BR">
+				<seg>SOBRE O MÉTODO DeR</seg>
+			</tuv>
+		</tu>
+		<tu tuid="menu.sobre-o-metodo-derose">
+			<tuv xml:lang="pt_BR">
+				<seg>SOBRE O MÉTODO DeROSE</seg>
+			</tuv>
+		</tu>
+		<tu tuid="menu.sobre-o-metodo">
+			<tuv xml:lang="pt_BR">
+				<seg>sobre o Método</seg>
+			</tuv>
+		</tu>
+		<tu tuid="modalidades.alta-performance">
+			<tuv xml:lang="pt_BR">
+				<seg>ALTA PERFORMANCE</seg>
+			</tuv>
+		</tu>
+		<tu tuid="modalidades.ao-passar-para-turmas">
+			<tuv xml:lang="pt_BR">
+				<seg>Ao passar para essas turmas, o praticante tem acesso a técnicas
+					que o catapultam à sua evolução pessoal, em todos os sentidos.</seg>
+			</tuv>
+		</tu>
+		<tu tuid="modalidades.aplicados-para-levar-lideres">
+			<tuv xml:lang="pt_BR">
+				<seg> aplicados para levar os líderes das mais distintas
+					organizações a melhorar sua performance.</seg>
+			</tuv>
+		</tu>
+		<tu tuid="modalidades.atividades">
+			<tuv xml:lang="pt_BR">
+				<seg>Atividades</seg>
+			</tuv>
+		</tu>
+		<tu tuid="modalidades.aulas-teoricas">
+			<tuv xml:lang="pt_BR">
+				<seg>aulas teóricas</seg>
+			</tuv>
+		</tu>
+		<tu tuid="modalidades.boa-forma">
+			<tuv xml:lang="pt_BR">
+				<seg>BOA FORMA</seg>
+			</tuv>
+		</tu>
+		<tu tuid="modalidades.curso-formacao-elevadissimo-nivel">
+			<tuv xml:lang="pt_BR">
+				<seg>, um curso de formação de elevadíssimo nível.</seg>
+			</tuv>
+		</tu>
+		<tu tuid="modalidades.cursos">
+			<tuv xml:lang="pt_BR">
+				<seg>CURSOS</seg>
+			</tuv>
+		</tu>
+		<tu tuid="modalidades.cursos">
+			<tuv xml:lang="pt_BR">
+				<seg>cursos</seg>
+			</tuv>
+		</tu>
+		<tu tuid="modalidades.dentro-da-escola">
+			<tuv xml:lang="pt_BR">
+				<seg>Dentro da escola, as aulas teóricas proporcionam, aos alunos, a
+					oportunidade de aprender um pouco mais sobre a parte filosófica e
+					conceitual do nosso Método.</seg>
+			</tuv>
+		</tu>
+		<tu tuid="modalidades.desafios-grandes-lideres-enfrentam">
+			<tuv xml:lang="pt_BR">
+				<seg>Os desafios que os grandes líderes enfrentam todos os dias vão
+					além do domínio sobre o negócio em que atuam.</seg>
+			</tuv>
+		</tu>
+		<tu tuid="modalidades.desportiva">
+			<tuv xml:lang="pt_BR">
+				<seg>DESPORTIVA</seg>
+			</tuv>
+		</tu>
+		<tu tuid="modalidades.dominada-tecnica-esporte">
+			<tuv xml:lang="pt_BR">
+				<seg>Dominada a técnica do esporte, o atleta precisa encontrar o seu
+					diferencial, desenvolvendo outros tipos de capacidades.</seg>
+			</tuv>
+		</tu>
+		<tu tuid="modalidades.durante-o-ano">
+			<tuv xml:lang="pt_BR">
+				<seg>Durante o ano, são muitas oportunidades de estar em vários
+					países, para um fim de semana de convivência com alunos e
+					professores de todo o mundo, praticando e compartilhando bons
+					momentos. Uma experiência sem igual.</seg>
+			</tuv>
+		</tu>
+		<tu tuid="modalidades.em-cada-encontro">
+			<tuv xml:lang="pt_BR">
+				<seg>Em cada encontro, uma oportunidade de aprender e desenvolver-se
+					ainda mais, cultivando a amizade e as boas relações.</seg>
+			</tuv>
+		</tu>
+		<tu tuid="modalidades.ensinada-nas-aulas">
+			<tuv xml:lang="pt_BR">
+				<seg> é ensinada nas aulas em grupo ou individuais. Mas ainda há uma
+					infinidade de outras atividades, que se realizam dentro e fora da
+					escola, como noites gourmet, cursos e workshops, passeios
+					culturais, festivais, viagens, círculos de leitura, para que
+					possamos vivenciar os conceitos de boa alimentação, boas relações
+					humanas, boa cultura etc.</seg>
+			</tuv>
+		</tu>
+		<tu tuid="modalidades.estilo-de-vida">
+			<tuv xml:lang="pt_BR">
+				<seg>ESTILO DE VIDA</seg>
+			</tuv>
+		</tu>
+		<tu tuid="modalidades.festivais">
+			<tuv xml:lang="pt_BR">
+				<seg>FESTIVAIS</seg>
+			</tuv>
+		</tu>
+		<tu tuid="modalidades.formacao-profissional">
+			<tuv xml:lang="pt_BR">
+				<seg>FORMAÇÃO PROFISSIONAL</seg>
+			</tuv>
+		</tu>
+		<tu tuid="modalidades.incentivamos-estilo-de-vida-saudavel">
+			<tuv xml:lang="pt_BR">
+				<seg>Incentivamos um estilo de vida saudável, por meio dos conceitos
+					de boas relações humanas, boas maneiras, boa forma, boa alimentação
+					e boa cultura.</seg>
+			</tuv>
+		</tu>
+		<tu tuid="modalidades.iniciantes">
+			<tuv xml:lang="pt_BR">
+				<seg>INICIANTES</seg>
+			</tuv>
+		</tu>
+		<tu tuid="modalidades.intermediarios">
+			<tuv xml:lang="pt_BR">
+				<seg>INTERMEDIÁRIOS</seg>
+			</tuv>
+		</tu>
+		<tu tuid="modalidades.metodo-derose">
+			<tuv xml:lang="pt_BR">
+				<seg>MÉTODO DeROSE</seg>
+			</tuv>
+		</tu>
+		<tu tuid="modalidades.metodo-derose">
+			<tuv xml:lang="pt_BR">
+				<seg>Método DeROSE</seg>
+			</tuv>
+		</tu>
+		<tu tuid="modalidades.modalidade-ideal-prefere-exclusividade">
+			<tuv xml:lang="pt_BR">
+				<seg>Modalidade ideal para quem prefere ter mais exclusividade ou um
+					acompanhamento ainda mais personalizado.</seg>
+			</tuv>
+		</tu>
+		<tu tuid="modalidades.modalidades">
+			<tuv xml:lang="pt_BR">
+				<seg>MODALIDADES</seg>
+			</tuv>
+		</tu>
+		<tu tuid="modalidades.modalidades">
+			<tuv xml:lang="pt_BR">
+				<seg>Modalidades</seg>
+			</tuv>
+		</tu>
+		<tu tuid="modalidades.nessa-fase-introdutoria">
+			<tuv xml:lang="pt_BR">
+				<seg>Nessa fase introdutória, o aluno aprende as técnicas mais
+					básicas, que lhe darão condições para conquistar níveis mais
+					elevados, de maneira metabolizável, segura, desafiante e prazerosa.</seg>
+			</tuv>
+		</tu>
+		<tu tuid="modalidades.outdoor">
+			<tuv xml:lang="pt_BR">
+				<seg> outdoor</seg>
+			</tuv>
+		</tu>
+		<tu tuid="modalidades.para-empresas">
+			<tuv xml:lang="pt_BR">
+				<seg>PARA EMPRESAS</seg>
+			</tuv>
+		</tu>
+		<tu tuid="modalidades.para-que-identificam">
+			<tuv xml:lang="pt_BR">
+				<seg>Para os que se identificam com o empreendedorismo proposto pelo </seg>
+			</tuv>
+		</tu>
+		<tu tuid="modalidades.parte-tecnica">
+			<tuv xml:lang="pt_BR">
+				<seg>A parte técnica do </seg>
+			</tuv>
+		</tu>
+		<tu tuid="modalidades.personal">
+			<tuv xml:lang="pt_BR">
+				<seg>PERSONAL </seg>
+			</tuv>
+		</tu>
+		<tu tuid="modalidades.profissional">
+			<tuv xml:lang="pt_BR">
+				<seg>PROFISSIONAL</seg>
+			</tuv>
+		</tu>
+		<tu tuid="modalidades.qualidade-e">
+			<tuv xml:lang="pt_BR">
+				<seg>QUALIDADE E</seg>
+			</tuv>
+		</tu>
+		<tu tuid="modalidades.sistema-de">
+			<tuv xml:lang="pt_BR">
+				<seg>SISTEMA DE</seg>
+			</tuv>
+		</tu>
+		<tu tuid="modalidades.sobre-mais-variados-temas">
+			<tuv xml:lang="pt_BR">
+				<seg>Sobre os mais variados temas, os cursos, que podem ser teóricos
+					e práticos, são ministrados por professores do </seg>
+			</tuv>
+		</tu>
+		<tu tuid="modalidades.teaching">
+			<tuv xml:lang="pt_BR">
+				<seg>TEACHING</seg>
+			</tuv>
+		</tu>
+		<tu tuid="modalidades.tecnicas-conceitos-do">
+			<tuv xml:lang="pt_BR">
+				<seg>As técnicas e os conceitos do </seg>
+			</tuv>
+		</tu>
+		<tu tuid="modalidades.ter-boa-forma">
+			<tuv xml:lang="pt_BR">
+				<seg>Ter boa forma é muito mais do que uma simples questão estética.</seg>
+			</tuv>
+		</tu>
+		<tu tuid="modalidades.varias-localidades">
+			<tuv xml:lang="pt_BR">
+				<seg> de várias localidades e pelo próprio Sistematizador DeRose.</seg>
+			</tuv>
+		</tu>
+		<tu tuid="parabens.agende-uma-visita">
+			<tuv xml:lang="pt_BR">
+				<seg>Agende uma visita</seg>
+			</tuv>
+		</tu>
+		<tu tuid="parabens.alta-performance">
+			<tuv xml:lang="pt_BR">
+				<seg>ALTA PERFORMANCE</seg>
+			</tuv>
+		</tu>
+		<tu tuid="parabens.baixe-aqui">
+			<tuv xml:lang="pt_BR">
+				<seg>Baixe
+					aqui&nbsp;
+					&gt;
+				</seg>
+			</tuv>
+		</tu>
+		<tu tuid="parabens.boa-forma">
+			<tuv xml:lang="pt_BR">
+				<seg>BOA FORMA</seg>
+			</tuv>
+		</tu>
+		<tu tuid="parabens.conheca-mais-e-faca-download">
+			<tuv xml:lang="pt_BR">
+				<seg>Conheça mais e faça download de um livro sem custo!</seg>
+			</tuv>
+		</tu>
+		<tu tuid="parabens.de-alta-performance">
+			<tuv xml:lang="pt_BR">
+				<seg>ALTA PERFORMANCE</seg>
+			</tuv>
+		</tu>
+		<tu tuid="parabens.de-alta-performance">
+			<tuv xml:lang="pt_BR">
+				<seg>de Alta Performance</seg>
+			</tuv>
+		</tu>
+		<tu tuid="parabens.desportiva">
+			<tuv xml:lang="pt_BR">
+				<seg>DESPORTIVA</seg>
+			</tuv>
+		</tu>
+		<tu tuid="parabens.estilo-de-vida">
+			<tuv xml:lang="pt_BR">
+				<seg>ESTILO DE VIDA</seg>
+			</tuv>
+		</tu>
+		<tu tuid="parabens.formulario-enviado-com-sucesso">
+			<tuv xml:lang="pt_BR">
+				<seg>O seu formulário foi enviado com sucesso.</seg>
+			</tuv>
+		</tu>
+		<tu tuid="parabens.metodo-derose">
+			<tuv xml:lang="pt_BR">
+				<seg>MÉTODO DeROSE</seg>
+			</tuv>
+		</tu>
+		<tu tuid="parabens.o-metodo-derose">
+			<tuv xml:lang="pt_BR">
+				<seg>O Método DeROSE</seg>
+			</tuv>
+		</tu>
+		<tu tuid="parabens.parabens">
+			<tuv xml:lang="pt_BR">
+				<seg>Parabéns!</seg>
+			</tuv>
+		</tu>
+		<tu tuid="parabens.profissional">
+			<tuv xml:lang="pt_BR">
+				<seg>PROFISSIONAL</seg>
+			</tuv>
+		</tu>
+		<tu tuid="parabens.qualidade-e">
+			<tuv xml:lang="pt_BR">
+				<seg>QUALIDADE E</seg>
+			</tuv>
+		</tu>
+		<tu tuid="parabens.siga-nos-nas-redes-sociais">
+			<tuv xml:lang="pt_BR">
+				<seg>siga-nos nas redes sociais</seg>
+			</tuv>
+		</tu>
+		<tu tuid="parabens.sistema-de">
+			<tuv xml:lang="pt_BR">
+				<seg>SISTEMA DE</seg>
+			</tuv>
+		</tu>
+		<tu tuid="profissional.a-disciplina-nos-esportes-forma-campeoes">
+			<tuv xml:lang="pt_BR">
+				<seg>&quot;A disciplina nos esportes forma campeões, nas empresas
+					forma vencedores.&quot;</seg>
+			</tuv>
+		</tu>
+		<tu tuid="profissional.a-pratica-das-tecnicas-deu-estrutura">
+			<tuv xml:lang="pt_BR">
+				<seg>&nbsp;&quot;A
+					prática das técnicas deu-me a estrutura física para tiradas de
+					muitas horas seguidas de grande exigência, sempre com uma gestão
+					eficaz dos meus recursos. Os conceitos tornaram a minha equipe mais
+					eficiente, feliz e super reconhecida.
+				</seg>
+			</tuv>
+		</tu>
+		<tu tuid="profissional.administracao-stress">
+			<tuv xml:lang="pt_BR">
+				<seg>- administração do stress</seg>
+			</tuv>
+		</tu>
+		<tu tuid="profissional.agende-sua-visita">
+			<tuv xml:lang="pt_BR">
+				<seg>agende sua visita</seg>
+			</tuv>
+		</tu>
+		<tu tuid="profissional.aires">
+			<tuv xml:lang="pt_BR">
+				<seg>aires</seg>
+			</tuv>
+		</tu>
+		<tu tuid="profissional.alguns-eventos-do">
+			<tuv xml:lang="pt_BR">
+				<seg>alguns eventos do</seg>
+			</tuv>
+		</tu>
+		<tu tuid="profissional.alguns">
+			<tuv xml:lang="pt_BR">
+				<seg>alguns</seg>
+			</tuv>
+		</tu>
+		<tu tuid="profissional.alta-performance">
+			<tuv xml:lang="pt_BR">
+				<seg>ALTA PERFORMANCE</seg>
+			</tuv>
+		</tu>
+		<tu tuid="profissional.alta-performance">
+			<tuv xml:lang="pt_BR">
+				<seg>alta performance</seg>
+			</tuv>
+		</tu>
+		<tu tuid="profissional.aluna-carlo-mea">
+			<tuv xml:lang="pt_BR">
+				<seg>Aluna do Instrutor Carlo Mea</seg>
+			</tuv>
+		</tu>
+		<tu tuid="profissional.aluno-da-instrutora">
+			<tuv xml:lang="pt_BR">
+				<seg>Aluno da Instrutora Julieta Chuairy</seg>
+			</tuv>
+		</tu>
+		<tu tuid="profissional.aluno-instrutor-eduardo-saldanha">
+			<tuv xml:lang="pt_BR">
+				<seg>Aluno do Instrutor Eduardo Saldanha</seg>
+			</tuv>
+		</tu>
+		<tu tuid="profissional.aluno-professora-rosana-ortega">
+			<tuv xml:lang="pt_BR">
+				<seg>Aluno da Professora Rosana Ortega</seg>
+			</tuv>
+		</tu>
+		<tu tuid="profissional.atitude">
+			<tuv xml:lang="pt_BR">
+				<seg>atitude</seg>
+			</tuv>
+		</tu>
+		<tu tuid="profissional.ator">
+			<tuv xml:lang="pt_BR">
+				<seg>Ator</seg>
+			</tuv>
+		</tu>
+		<tu tuid="profissional.atriz-roteirista">
+			<tuv xml:lang="pt_BR">
+				<seg>Atriz e roteirista</seg>
+			</tuv>
+		</tu>
+		<tu tuid="profissional.aumento-de">
+			<tuv xml:lang="pt_BR">
+				<seg>aumento de</seg>
+			</tuv>
+		</tu>
+		<tu tuid="profissional.bairro">
+			<tuv xml:lang="pt_BR">
+				<seg>bairro</seg>
+			</tuv>
+		</tu>
+		<tu tuid="profissional.boa-forma">
+			<tuv xml:lang="pt_BR">
+				<seg>BOA FORMA</seg>
+			</tuv>
+		</tu>
+		<tu tuid="profissional.buenos-aires-argentina">
+			<tuv xml:lang="pt_BR">
+				<seg>buenos aires - argentina</seg>
+			</tuv>
+		</tu>
+		<tu tuid="profissional.buenos">
+			<tuv xml:lang="pt_BR">
+				<seg>buenos</seg>
+			</tuv>
+		</tu>
+		<tu tuid="profissional.carlos">
+			<tuv xml:lang="pt_BR">
+				<seg>carlos</seg>
+			</tuv>
+		</tu>
+		<tu tuid="profissional.cidade">
+			<tuv xml:lang="pt_BR">
+				<seg>CIDADE</seg>
+			</tuv>
+		</tu>
+		<tu tuid="profissional.cinzia">
+			<tuv xml:lang="pt_BR">
+				<seg>Cinzia</seg>
+			</tuv>
+		</tu>
+		<tu tuid="profissional.comecei-praticar-metodo-derose">
+			<tuv xml:lang="pt_BR">
+				<seg>&quot;Comecei a praticar o Método DeR para melhorar a definição
+					do corpo e ter mais flexibilidade. Esse resultado aconteceu muito
+					rápido e ainda passei a ter mais energia, dormir melhor e ter muito
+					mais foco nas minhas atividades diárias.&quot;</seg>
+			</tuv>
+		</tu>
+		<tu tuid="profissional.comecei-praticar-metodo-derose">
+			<tuv xml:lang="pt_BR">
+				<seg>&quot;Comecei a praticar o Método DeROSE para melhorar a
+					definição do corpo e ter mais flexibilidade. Esse resultado
+					aconteceu muito rápido e ainda passei a ter mais energia, dormir
+					melhor e ter muito mais foco nas minhas atividades diárias.&quot;</seg>
+			</tuv>
+		</tu>
+		<tu tuid="profissional.concentracao">
+			<tuv xml:lang="pt_BR">
+				<seg>Concentração</seg>
+			</tuv>
+		</tu>
+		<tu tuid="profissional.construa-a-sua">
+			<tuv xml:lang="pt_BR">
+				<seg>Construa a sua</seg>
+			</tuv>
+		</tu>
+		<tu tuid="profissional.consulte-nossos-especialistas">
+			<tuv xml:lang="pt_BR">
+				<seg>CONSULTE OS NOSSOS ESPECIALISTAS</seg>
+			</tuv>
+		</tu>
+		<tu tuid="profissional.costa">
+			<tuv xml:lang="pt_BR">
+				<seg>Costa</seg>
+			</tuv>
+		</tu>
+		<tu tuid="profissional.costa">
+			<tuv xml:lang="pt_BR">
+				<seg>costa</seg>
+			</tuv>
+		</tu>
+		<tu tuid="profissional.curitiba">
+			<tuv xml:lang="pt_BR">
+				<seg>curitiba</seg>
+			</tuv>
+		</tu>
+		<tu tuid="profissional.curitiva-brasil">
+			<tuv xml:lang="pt_BR">
+				<seg>curitiba - brasil</seg>
+			</tuv>
+		</tu>
+		<tu tuid="profissional.depoimentos">
+			<tuv xml:lang="pt_BR">
+				<seg>depoimentos</seg>
+			</tuv>
+		</tu>
+		<tu tuid="profissional.derose">
+			<tuv xml:lang="pt_BR">
+				<seg>DeRose</seg>
+			</tuv>
+		</tu>
+		<tu tuid="profissional.desafios-grandes-lideres-enfrentam">
+			<tuv xml:lang="pt_BR">
+				<seg>Os desafios que os grandes líderes enfrentam todos os dias vão
+					além do domínio sobre o negócio em que atuam.</seg>
+			</tuv>
+		</tu>
+		<tu tuid="profissional.desenvolvimento-intuicao">
+			<tuv xml:lang="pt_BR">
+				<seg>- desenvolvimento da intuição</seg>
+			</tuv>
+		</tu>
+		<tu tuid="profissional.desportiva">
+			<tuv xml:lang="pt_BR">
+				<seg>DESPORTIVA</seg>
+			</tuv>
+		</tu>
+		<tu tuid="profissional.digite-as-letras-abaixo">
+			<tuv xml:lang="pt_BR">
+				<seg>*Digite as letras abaixo.</seg>
+			</tuv>
+		</tu>
+		<tu tuid="profissional.diretor-leo-burnett">
+			<tuv xml:lang="pt_BR">
+				<seg>Diretor da Leo Burnett</seg>
+			</tuv>
+		</tu>
+		<tu tuid="profissional.do-stress">
+			<tuv xml:lang="pt_BR">
+				<seg>do stress</seg>
+			</tuv>
+		</tu>
+		<tu tuid="profissional.dominada-tecnica-do-esporte">
+			<tuv xml:lang="pt_BR">
+				<seg>Dominada a técnica do esporte, o atleta precisa encontrar o seu
+					diferencial, desenvolvendo outros tipos de capacidades.</seg>
+			</tuv>
+		</tu>
+		<tu tuid="profissional.em-varios-paises-centenas-lideres">
+			<tuv xml:lang="pt_BR">
+				<seg>Em vários países, centenas de líderes vêm comprovando, nos seus
+					resultados diários, a eficácia do Método DeR</seg>
+			</tuv>
+		</tu>
+		<tu tuid="profissional.email">
+			<tuv xml:lang="pt_BR">
+				<seg>Email</seg>
+			</tuv>
+		</tu>
+		<tu tuid="profissional.empresario">
+			<tuv xml:lang="pt_BR">
+				<seg>Empresário</seg>
+			</tuv>
+		</tu>
+		<tu tuid="profissional.empresas-instituicoes">
+			<tuv xml:lang="pt_BR">
+				<seg>Empresas e instituições como Exxon- Mobil, Esso SAPA, Osdipp,
+					Inelectra S.A., Avon S.A, Swiss Medical Group, Volkswagen S.A,
+					Banco Columbia, Flehner Film, Red Megatlón, Red Sport Club, UTN,
+					entre outras, já implementaram o programa com êxito.</seg>
+			</tuv>
+		</tu>
+		<tu tuid="profissional.enviando-formulario">
+			<tuv xml:lang="pt_BR">
+				<seg>Enviando Formulário...</seg>
+			</tuv>
+		</tu>
+		<tu tuid="profissional.enviando-formulario">
+			<tuv xml:lang="pt_BR">
+				<seg>Submitting Form...</seg>
+			</tuv>
+		</tu>
+		<tu tuid="profissional.erro-preenchimento">
+			<tuv xml:lang="pt_BR">
+				<seg>Observe se não há erros de preenchimento...</seg>
+			</tuv>
+		</tu>
+		<tu tuid="profissional.erro-preenchimento">
+			<tuv xml:lang="pt_BR">
+				<seg>The server encountered an error.</seg>
+			</tuv>
+		</tu>
+		<tu tuid="profissional.estilo-de-vida">
+			<tuv xml:lang="pt_BR">
+				<seg>ESTILO DE VIDA</seg>
+			</tuv>
+		</tu>
+		<tu tuid="profissional.foco">
+			<tuv xml:lang="pt_BR">
+				<seg>foco</seg>
+			</tuv>
+		</tu>
+		<tu tuid="profissional.formulario-recebido">
+			<tuv xml:lang="pt_BR">
+				<seg>Form received.</seg>
+			</tuv>
+		</tu>
+		<tu tuid="profissional.formulario-recebido">
+			<tuv xml:lang="pt_BR">
+				<seg>Formulário recebido.</seg>
+			</tuv>
+		</tu>
+		<tu tuid="profissional.formulario">
+			<tuv xml:lang="pt_BR">
+				<seg>Formulário</seg>
+			</tuv>
+		</tu>
+		<tu tuid="profissional.gestao-do">
+			<tuv xml:lang="pt_BR">
+				<seg>gestão do </seg>
+			</tuv>
+		</tu>
+		<tu tuid="profissional.gestao">
+			<tuv xml:lang="pt_BR">
+				<seg>gestão</seg>
+			</tuv>
+		</tu>
+		<tu tuid="profissional.home">
+			<tuv xml:lang="pt_BR">
+				<seg>João Costa</seg>
+			</tuv>
+		</tu>
+		<tu tuid="profissional.incentivamos-estilo-de-vida-saudavel">
+			<tuv xml:lang="pt_BR">
+				<seg>Incentivamos um estilo de vida saudável, por meio dos conceitos
+					de boas relações humanas, boas maneiras, boa forma, boa alimentação
+					e boa cultura.</seg>
+			</tuv>
+		</tu>
+		<tu tuid="profissional.intuicao">
+			<tuv xml:lang="pt_BR">
+				<seg>intuição</seg>
+			</tuv>
+		</tu>
+		<tu tuid="profissional.joao">
+			<tuv xml:lang="pt_BR">
+				<seg>João</seg>
+			</tuv>
+		</tu>
+		<tu tuid="profissional.luciano">
+			<tuv xml:lang="pt_BR">
+				<seg>Luciano</seg>
+			</tuv>
+		</tu>
+		<tu tuid="profissional.maior-capacidade-foco-concentracao">
+			<tuv xml:lang="pt_BR">
+				<seg>- maior capacidade de foco e concentração</seg>
+			</tuv>
+		</tu>
+		<tu tuid="profissional.maior">
+			<tuv xml:lang="pt_BR">
+				<seg>maior</seg>
+			</tuv>
+		</tu>
+		<tu tuid="profissional.mais-produtividade">
+			<tuv xml:lang="pt_BR">
+				<seg>Mais produtividade, melhores</seg>
+			</tuv>
+		</tu>
+		<tu tuid="profissional.mais">
+			<tuv xml:lang="pt_BR">
+				<seg>Mais</seg>
+			</tuv>
+		</tu>
+		<tu tuid="profissional.mais">
+			<tuv xml:lang="pt_BR">
+				<seg>x</seg>
+			</tuv>
+		</tu>
+		<tu tuid="profissional.mascoli">
+			<tuv xml:lang="pt_BR">
+				<seg>Mascoli</seg>
+			</tuv>
+		</tu>
+		<tu tuid="profissional.melhor-gestao-tempo">
+			<tuv xml:lang="pt_BR">
+				<seg>- melhor gestão do tempo e das relações interpessoais</seg>
+			</tuv>
+		</tu>
+		<tu tuid="profissional.melhor-versao-profissional">
+			<tuv xml:lang="pt_BR">
+				<seg>melhor versão Profissional</seg>
+			</tuv>
+		</tu>
+		<tu tuid="profissional.melhor">
+			<tuv xml:lang="pt_BR">
+				<seg>Melhor</seg>
+			</tuv>
+		</tu>
+		<tu tuid="profissional.melhores">
+			<tuv xml:lang="pt_BR">
+				<seg>MELHORES</seg>
+			</tuv>
+		</tu>
+		<tu tuid="profissional.metodo-derose-berrini-sao-paulo">
+			<tuv xml:lang="pt_BR">
+				<seg>Método DeROSE Berrini, São Paulo</seg>
+			</tuv>
+		</tu>
+		<tu tuid="profissional.metodo-derose-chiado-lisboa">
+			<tuv xml:lang="pt_BR">
+				<seg>Método DeROSE Chiado, Lisboa</seg>
+			</tuv>
+		</tu>
+		<tu tuid="profissional.metodo-derose-downtown-rio-de-janeiro">
+			<tuv xml:lang="pt_BR">
+				<seg>Método DeROSE Downtown, Rio de Janeiro</seg>
+			</tuv>
+		</tu>
+		<tu tuid="profissional.metodo-derose-pelo-mundo">
+			<tuv xml:lang="pt_BR">
+				<seg>Método DeRose pelo mundo</seg>
+			</tuv>
+		</tu>
+		<tu tuid="profissional.metodo-derose-roma-italia">
+			<tuv xml:lang="pt_BR">
+				<seg>Método DeROSE Roma, Itália</seg>
+			</tuv>
+		</tu>
+		<tu tuid="profissional.metodo-derose-suplantou-area-profissional">
+			<tuv xml:lang="pt_BR">
+				<seg>O Método DeROSE já suplantou a área profissional e marca cada
+					ação minha a todos os níveis, fazendo de mim um melhor ser humano,
+					dia após dia .</seg>
+			</tuv>
+		</tu>
+		<tu tuid="profissional.metodo-derose">
+			<tuv xml:lang="pt_BR">
+				<seg>MÉTODO DeROSE</seg>
+			</tuv>
+		</tu>
+		<tu tuid="profissional.new-york-usa">
+			<tuv xml:lang="pt_BR">
+				<seg>new york - usa</seg>
+			</tuv>
+		</tu>
+		<tu tuid="profissional.new">
+			<tuv xml:lang="pt_BR">
+				<seg>new</seg>
+			</tuv>
+		</tu>
+		<tu tuid="profissional.nome-sobrenome">
+			<tuv xml:lang="pt_BR">
+				<seg>Nome/SOBRENOME</seg>
+			</tuv>
+		</tu>
+		<tu tuid="profissional.nossa-metodologia-criar-gerir-cultura">
+			<tuv xml:lang="pt_BR">
+				<seg>Nossa metodologia, para criar e gerir esta cultura,
+					constitui-se de um programa que se diferencia dos demais por ser
+					baseado numa visão prática, técnica e de comprovada eficácia.</seg>
+			</tuv>
+		</tu>
+		<tu tuid="profissional.nossa-proposta-ideal-pessoas">
+			<tuv xml:lang="pt_BR">
+				<seg>Nossa proposta é, assim, ideal para pessoas das quais são
+					exigidos extremo dinamismo e capacidade de realização e, por isso,
+					aplica-se tão bem à realidade de executivos e empresários.</seg>
+			</tuv>
+		</tu>
+		<tu tuid="profissional.onde-deseja-agendar-visita">
+			<tuv xml:lang="pt_BR">
+				<seg>Onde deseja agendar a sua visita?*</seg>
+			</tuv>
+		</tu>
+		<tu tuid="profissional.os-desafios-que-os-grandes-lideres">
+			<tuv xml:lang="pt_BR">
+				<seg>Os desafios que os grandes líderes enfrentam todos os dias vão
+					além do domínio sobre o negócio em que atuam.</seg>
+			</tuv>
+		</tu>
+		<tu tuid="profissional.para-o">
+			<tuv xml:lang="pt_BR">
+				<seg>para o</seg>
+			</tuv>
+		</tu>
+		<tu tuid="profissional.para-que-adaptacao-empresas">
+			<tuv xml:lang="pt_BR">
+				<seg>Para que esta adaptação das empresas aos novos cenários seja
+					possível e garanta a conquista dos resultados almejados, é preciso
+					que haja uma cultura voltada para isto. Assim, cada integrante do
+					chamado capital humano terá de incorporar a habilidade de quebrar
+					paradigmas e de se autossuperar, de maneira cada vez mais ágil.</seg>
+			</tuv>
+		</tu>
+		<tu tuid="profissional.paulo">
+			<tuv xml:lang="pt_BR">
+				<seg>Paulo</seg>
+			</tuv>
+		</tu>
+		<tu tuid="profissional.portanto-nao-se-trata-terceirizar">
+			<tuv xml:lang="pt_BR">
+				<seg>Portanto, não se trata de teorizar, mas sim de aprender a
+					aplicar ferramentas práticas na vida diária, de maneira
+					progressiva, e cultivar hábitos saudáveis. Desta forma, é possível
+					lograr uma melhor qualidade de vida, uma maior capacidade de
+					adaptação e uma maior predisposição à mudança.</seg>
+			</tuv>
+		</tu>
+		<tu tuid="profissional.porto-portugal">
+			<tuv xml:lang="pt_BR">
+				<seg>Porto - Portugal</seg>
+			</tuv>
+		</tu>
+		<tu tuid="profissional.porto-portugal">
+			<tuv xml:lang="pt_BR">
+				<seg>porto - portugal</seg>
+			</tuv>
+		</tu>
+		<tu tuid="profissional.porto">
+			<tuv xml:lang="pt_BR">
+				<seg>porto</seg>
+			</tuv>
+		</tu>
+		<tu tuid="profissional.praticante-metodo-derose">
+			<tuv xml:lang="pt_BR">
+				<seg>Praticante do Método DeROSE</seg>
+			</tuv>
+		</tu>
+		<tu tuid="profissional.praticar-metodo-derose-proporcionou">
+			<tuv xml:lang="pt_BR">
+				<seg>&quot;Praticar o Método DeROSE me proporcionou muito mais do
+					que o rápido domínio da técnica. Os exemplos passados dentro e fora
+					da sala de aula foram inspiradores para grandes mudanças de atitude
+					e crescimento na minha vida pessoal e profissional.&quot;</seg>
+			</tuv>
+		</tu>
+		<tu tuid="profissional.pratico-metodo-derose-oito-anos">
+			<tuv xml:lang="pt_BR">
+				<seg>&quot;Pratico o Método DeROSE há oito anos e hoje tenho mais
+					consciência do meu corpo e das minhas emoções. O Método DeROSE me
+					aprimora como pessoa, eleva a minha concentração e lucidez, o que,
+					para mim e para o meu trabalho, é fundamental.&quot;</seg>
+			</tuv>
+		</tu>
+		<tu tuid="profissional.profissional">
+			<tuv xml:lang="pt_BR">
+				<seg>PROFISSIONAL</seg>
+			</tuv>
+		</tu>
+		<tu tuid="profissional.profissional">
+			<tuv xml:lang="pt_BR">
+				<seg>Profissional</seg>
+			</tuv>
+		</tu>
+		<tu tuid="profissional.qualidade-e">
+			<tuv xml:lang="pt_BR">
+				<seg>QUALIDADE E</seg>
+			</tuv>
+		</tu>
+		<tu tuid="profissional.relacoes-pessoais">
+			<tuv xml:lang="pt_BR">
+				<seg>RELAÇÕES </seg>
+			</tuv>
+		</tu>
+		<tu tuid="profissional.relacoes">
+			<tuv xml:lang="pt_BR">
+				<seg>relações humanas</seg>
+			</tuv>
+		</tu>
+		<tu tuid="profissional.sao-paulo-brasil">
+			<tuv xml:lang="pt_BR">
+				<seg>são paulo - brasil</seg>
+			</tuv>
+		</tu>
+		<tu tuid="profissional.sao">
+			<tuv xml:lang="pt_BR">
+				<seg>São</seg>
+			</tuv>
+		</tu>
+		<tu tuid="profissional.selecionaremos-escola-mais-proxima-bairro">
+			<tuv xml:lang="pt_BR">
+				<seg>Nós selecionaremos a escola mais próxima do bairro que você
+					escolheu</seg>
+			</tuv>
+		</tu>
+		<tu tuid="profissional.sistema-de">
+			<tuv xml:lang="pt_BR">
+				<seg>SISTEMA DE</seg>
+			</tuv>
+		</tu>
+		<tu tuid="profissional.stress">
+			<tuv xml:lang="pt_BR">
+				<seg>stress</seg>
+			</tuv>
+		</tu>
+		<tu tuid="profissional.sucesso">
+			<tuv xml:lang="pt_BR">
+				<seg>sucesso</seg>
+			</tuv>
+		</tu>
+		<tu tuid="profissional.szafir">
+			<tuv xml:lang="pt_BR">
+				<seg>Szafir</seg>
+			</tuv>
+		</tu>
+		<tu tuid="profissional.telefone">
+			<tuv xml:lang="pt_BR">
+				<seg>telefone</seg>
+			</tuv>
+		</tu>
+		<tu tuid="profissional.ter-boa-forma">
+			<tuv xml:lang="pt_BR">
+				<seg>Ter boa forma é muito mais do que uma simples questão estética.</seg>
+			</tuv>
+		</tu>
+		<tu tuid="profissional.valle">
+			<tuv xml:lang="pt_BR">
+				<seg>valle</seg>
+			</tuv>
+		</tu>
+		<tu tuid="profissional.veja-depoimentos">
+			<tuv xml:lang="pt_BR">
+				<seg>Veja os depoimentos</seg>
+			</tuv>
+		</tu>
+		<tu tuid="profissional.vivemos-momento-mudancas-rapidas">
+			<tuv xml:lang="pt_BR">
+				<seg>Vivemos um momento de mudanças rápidas, que exigem adaptações
+					constantes. Isto gera desgaste, tensões e uma importante dispersão
+					mental; motivos suficientes para a perda do foco e dificuldade para
+					alcançar as metas e objetivos corporativos.</seg>
+			</tuv>
+		</tu>
+		<tu tuid="profissional.x">
+			<tuv xml:lang="pt_BR">
+				<seg>x</seg>
+			</tuv>
+		</tu>
+		<tu tuid="profissional.york">
+			<tuv xml:lang="pt_BR">
+				<seg>york</seg>
+			</tuv>
+		</tu>
+		<tu tuid="qualidade-estilo-de-vida.a-e">
+			<tuv xml:lang="pt_BR">
+				<seg>A ESCOLA</seg>
+			</tuv>
+		</tu>
+		<tu tuid="qualidade-estilo-de-vida.agende-sua-visita">
+			<tuv xml:lang="pt_BR">
+				<seg>agende sua visita</seg>
+			</tuv>
+		</tu>
+		<tu tuid="qualidade-estilo-de-vida.alta-performance">
+			<tuv xml:lang="pt_BR">
+				<seg>ALTA PERFORMANCE</seg>
+			</tuv>
+		</tu>
+		<tu tuid="qualidade-estilo-de-vida.alto-rendimento">
+			<tuv xml:lang="pt_BR">
+				<seg># alto rendimento</seg>
+			</tuv>
+		</tu>
+		<tu tuid="qualidade-estilo-de-vida.alunos-e-instrutores">
+			<tuv xml:lang="pt_BR">
+				<seg>alunos e instrutores</seg>
+			</tuv>
+		</tu>
+		<tu tuid="qualidade-estilo-de-vida.amizade-boa-forma">
+			<tuv xml:lang="pt_BR">
+				<seg>&nbsp;#amizade
+					#boa forma
+				</seg>
+			</tuv>
+		</tu>
+		<tu tuid="qualidade-estilo-de-vida.assista-ao-video">
+			<tuv xml:lang="pt_BR">
+				<seg>ASSISTA AO VÍDEO</seg>
+			</tuv>
+		</tu>
+		<tu tuid="qualidade-estilo-de-vida.atividades">
+			<tuv xml:lang="pt_BR">
+				<seg>atividades</seg>
+			</tuv>
+		</tu>
+		<tu tuid="qualidade-estilo-de-vida.bairro">
+			<tuv xml:lang="pt_BR">
+				<seg>bairro</seg>
+			</tuv>
+		</tu>
+		<tu tuid="qualidade-estilo-de-vida.boa-forma">
+			<tuv xml:lang="pt_BR">
+				<seg>BOA FORMA</seg>
+			</tuv>
+		</tu>
+		<tu tuid="qualidade-estilo-de-vida.cidade">
+			<tuv xml:lang="pt_BR">
+				<seg>CIDADE</seg>
+			</tuv>
+		</tu>
+		<tu tuid="qualidade-estilo-de-vida.construa-a-sua">
+			<tuv xml:lang="pt_BR">
+				<seg>construa a sua</seg>
+			</tuv>
+		</tu>
+		<tu tuid="qualidade-estilo-de-vida.culturais">
+			<tuv xml:lang="pt_BR">
+				<seg>culturais</seg>
+			</tuv>
+		</tu>
+		<tu tuid="qualidade-estilo-de-vida.desportiva">
+			<tuv xml:lang="pt_BR">
+				<seg>DESPORTIVA</seg>
+			</tuv>
+		</tu>
+		<tu tuid="qualidade-estilo-de-vida.diversas-opcoes-para-todos-os-gostos">
+			<tuv xml:lang="pt_BR">
+				<seg>Diversas opções para todos os gostos: passeios, aulas teóricas,
+					treinamentos de técnicas específicas, entre muitas outras
+					atividades. E sempre, os momentos ideais para vivenciar os
+					conceitos do Método DeR</seg>
+			</tuv>
+		</tu>
+		<tu tuid="qualidade-estilo-de-vida.dominada-a-tecnica-do-esporte">
+			<tuv xml:lang="pt_BR">
+				<seg>Dominada a técnica do esporte, o atleta precisa encontrar o seu
+					diferencial, desenvolvendo outros tipos de capacidades.</seg>
+			</tuv>
+		</tu>
+		<tu tuid="qualidade-estilo-de-vida.email">
+			<tuv xml:lang="pt_BR">
+				<seg>Email</seg>
+			</tuv>
+		</tu>
+		<tu tuid="qualidade-estilo-de-vida.enviando-formulario">
+			<tuv xml:lang="pt_BR">
+				<seg>Submitting Form...</seg>
+			</tuv>
+		</tu>
+		<tu tuid="qualidade-estilo-de-vida.erro-preenchimento">
+			<tuv xml:lang="pt_BR">
+				<seg>The server encountered an error.</seg>
+			</tuv>
+		</tu>
+		<tu tuid="qualidade-estilo-de-vida.estilo-de-vida">
+			<tuv xml:lang="pt_BR">
+				<seg>ESTILO DE VIDA</seg>
+			</tuv>
+		</tu>
+		<tu tuid="qualidade-estilo-de-vida.estilo-de-vida">
+			<tuv xml:lang="pt_BR">
+				<seg>Estilo de vida</seg>
+			</tuv>
+		</tu>
+		<tu tuid="qualidade-estilo-de-vida.estilo-de-vida">
+			<tuv xml:lang="pt_BR">
+				<seg>estilo de vida</seg>
+			</tuv>
+		</tu>
+		<tu tuid="qualidade-estilo-de-vida.formulario-recebido">
+			<tuv xml:lang="pt_BR">
+				<seg>Form received.</seg>
+			</tuv>
+		</tu>
+		<tu tuid="qualidade-estilo-de-vida.formulario">
+			<tuv xml:lang="pt_BR">
+				<seg>Formulário</seg>
+			</tuv>
+		</tu>
+		<tu tuid="qualidade-estilo-de-vida.foto-jeanine-padilha">
+			<tuv xml:lang="pt_BR">
+				<seg>Foto: ©Jeanine Padilha</seg>
+			</tuv>
+		</tu>
+		<tu tuid="qualidade-estilo-de-vida.foto-rob-longhammer">
+			<tuv xml:lang="pt_BR">
+				<seg>Foto: ©Rob Langhammer</seg>
+			</tuv>
+		</tu>
+		<tu tuid="qualidade-estilo-de-vida.home">
+			<tuv xml:lang="pt_BR">
+				<seg>HOME</seg>
+			</tuv>
+		</tu>
+		<tu tuid="qualidade-estilo-de-vida.incentivamos-um-estilo-de-vida-saudavel">
+			<tuv xml:lang="pt_BR">
+				<seg>Incentivamos um estilo de vida saudável, por meio dos conceitos
+					de boas relações humanas, boas maneiras, boa forma, boa alimentação
+					e boa cultura.</seg>
+			</tuv>
+		</tu>
+		<tu tuid="qualidade-estilo-de-vida.inspire">
+			<tuv xml:lang="pt_BR">
+				<seg>inspire</seg>
+			</tuv>
+		</tu>
+		<tu tuid="qualidade-estilo-de-vida.instrutor-diego-nogueira">
+			<tuv xml:lang="pt_BR">
+				<seg>Instrutor Diego Nogueira</seg>
+			</tuv>
+		</tu>
+		<tu tuid="qualidade-estilo-de-vida.lifestyle">
+			<tuv xml:lang="pt_BR">
+				<seg>Lifestyle</seg>
+			</tuv>
+		</tu>
+		<tu tuid="qualidade-estilo-de-vida.mais">
+			<tuv xml:lang="pt_BR">
+				<seg>Mais</seg>
+			</tuv>
+		</tu>
+		<tu tuid="qualidade-estilo-de-vida.melhor-versao">
+			<tuv xml:lang="pt_BR">
+				<seg>melhor versão</seg>
+			</tuv>
+		</tu>
+		<tu tuid="qualidade-estilo-de-vida.metodo-derose-copacabana">
+			<tuv xml:lang="pt_BR">
+				<seg>Método DeROSE Copacabana</seg>
+			</tuv>
+		</tu>
+		<tu tuid="qualidade-estilo-de-vida.metodo-derose">
+			<tuv xml:lang="pt_BR">
+				<seg>MÉTODO DeROSE</seg>
+			</tuv>
+		</tu>
+		<tu tuid="qualidade-estilo-de-vida.multiplicidade-de">
+			<tuv xml:lang="pt_BR">
+				<seg>Multiplicidade de</seg>
+			</tuv>
+		</tu>
+		<tu tuid="qualidade-estilo-de-vida.nas-escolas-metodo-derose">
+			<tuv xml:lang="pt_BR">
+				<seg>Nas escolas do Método DeROSE, os alunos têm a oportunidade de
+					compartilhar momentos de aprendizagem e diversão, com tudo o que
+					sempre buscaram para ter sucesso em todos os âmbitos.</seg>
+			</tuv>
+		</tu>
+		<tu tuid="qualidade-estilo-de-vida.nome-sobrenome">
+			<tuv xml:lang="pt_BR">
+				<seg>Nome/SOBRENOME</seg>
+			</tuv>
+		</tu>
+		<tu tuid="qualidade-estilo-de-vida.nos-selecionamos-escola-mais-proxima">
+			<tuv xml:lang="pt_BR">
+				<seg>Nós selecionaremos a escola mais próxima do bairro que você
+					escolheu</seg>
+			</tuv>
+		</tu>
+		<tu tuid="qualidade-estilo-de-vida.nossa-definicao-de">
+			<tuv xml:lang="pt_BR">
+				<seg>Nossa definição de</seg>
+			</tuv>
+		</tu>
+		<tu tuid="qualidade-estilo-de-vida.onde-deseja-agendar-sua-visita">
+			<tuv xml:lang="pt_BR">
+				<seg>Onde deseja agendar a sua visita?*</seg>
+			</tuv>
+		</tu>
+		<tu tuid="qualidade-estilo-de-vida.os-desafios-grandes-lideres-enfrentam">
+			<tuv xml:lang="pt_BR">
+				<seg>Os desafios que os grandes líderes enfrentam todos os dias vão
+					além do domínio sobre o negócio em que atuam.</seg>
+			</tuv>
+		</tu>
+		<tu tuid="qualidade-estilo-de-vida.premium-lifestyle">
+			<tuv xml:lang="pt_BR">
+				<seg>Premium Lifestyle</seg>
+			</tuv>
+		</tu>
+		<tu tuid="qualidade-estilo-de-vida.profissional">
+			<tuv xml:lang="pt_BR">
+				<seg>PROFISSIONAL</seg>
+			</tuv>
+		</tu>
+		<tu
+			tuid="qualidade-estilo-de-vida.qualidade-de-vida-e-adotar-uma-visao-de-mundo">
+			<tuv xml:lang="pt_BR">
+				<seg>Qualidade de vida é adotar uma visão de mundo que nos motive a
+					buscar o desenvolvimento e o aprimoramento contínuo, conquistando a
+					nossa excelência através do estudo, dos ideais e do
+					autoconhecimento.</seg>
+			</tuv>
+		</tu>
+		<tu
+			tuid="qualidade-estilo-de-vida.qualidade-de-vida-e-manter-padrao-de-gastos">
+			<tuv xml:lang="pt_BR">
+				<seg>Qualidade de vida é manter um padrão de gastos dois degraus
+					abaixo do que ganhamos. É residir próximo ao trabalho. É conseguir
+					extrair satisfação de todas as coisas.&quot;</seg>
+			</tuv>
+		</tu>
+		<tu tuid="qualidade-estilo-de-vida.qualidade-de-vida-e-suprir-necessidades">
+			<tuv xml:lang="pt_BR">
+				<seg>Qualidade de vida é suprir as necessidades fisiológicas e
+					ergonômicas, é adotarmos hábitos que promovam e mantenham a
+					funcionalidade do corpo, do emocional e do mental, é o
+					aprimoramento e desenvolvimento das nossas habilidades, através do
+					trinômio: boa alimentação, boa forma e boa cabeça.</seg>
+			</tuv>
+		</tu>
+		<tu
+			tuid="qualidade-estilo-de-vida.qualidade-de-vida-e-tornar-nossa-existencia-descomplicada">
+			<tuv xml:lang="pt_BR">
+				<seg>&quot;Qualidade de vida é tornar nossa existência
+					descomplicada.</seg>
+			</tuv>
+		</tu>
+		<tu tuid="qualidade-estilo-de-vida.qualidade-de-vida-energia-clean">
+			<tuv xml:lang="pt_BR">
+				<seg>#qualidade de vida #energia clean</seg>
+			</tuv>
+		</tu>
+		<tu tuid="qualidade-estilo-de-vida.qualidade-de-vida">
+			<tuv xml:lang="pt_BR">
+				<seg>qualidade de vida</seg>
+			</tuv>
+		</tu>
+		<tu tuid="qualidade-estilo-de-vida.qualidade-e">
+			<tuv xml:lang="pt_BR">
+				<seg>QUALIDADE E</seg>
+			</tuv>
+		</tu>
+		<tu tuid="qualidade-estilo-de-vida.qualidade-e">
+			<tuv xml:lang="pt_BR">
+				<seg>Qualidade e</seg>
+			</tuv>
+		</tu>
+		<tu tuid="qualidade-estilo-de-vida.que-tal-adota-um-estilo">
+			<tuv xml:lang="pt_BR">
+				<seg>Que tal adotar um estilo de vida saudável e descomplicado?</seg>
+			</tuv>
+		</tu>
+		<tu tuid="qualidade-estilo-de-vida.sistema-de">
+			<tuv xml:lang="pt_BR">
+				<seg>SISTEMA DE</seg>
+			</tuv>
+		</tu>
+		<tu tuid="qualidade-estilo-de-vida.sistematizador-derose">
+			<tuv xml:lang="pt_BR">
+				<seg>Sistematizador DeRose</seg>
+			</tuv>
+		</tu>
+		<tu tuid="qualidade-estilo-de-vida.sua-essencia">
+			<tuv xml:lang="pt_BR">
+				<seg>sua essência</seg>
+			</tuv>
+		</tu>
+		<tu tuid="qualidade-estilo-de-vida.telefone">
+			<tuv xml:lang="pt_BR">
+				<seg>telefone</seg>
+			</tuv>
+		</tu>
+		<tu tuid="qualidade-estilo-de-vida.ter-boa-forma-e-muito-mais">
+			<tuv xml:lang="pt_BR">
+				<seg>Ter boa forma é muito mais do que uma simples questão estética.</seg>
+			</tuv>
+		</tu>
+		<tu tuid="qualidade-estilo-de-vida.voltar">
+			<tuv xml:lang="pt_BR">
+				<seg>&lt; Voltar</seg>
+			</tuv>
+		</tu>
+		<tu tuid="qualidade-estilo-de-vida.x">
+			<tuv xml:lang="pt_BR">
+				<seg>x</seg>
+			</tuv>
+		</tu>
+		<tu tuid="rodape.agende-sua-visita.enviando-formulario">
+			<tuv xml:lang="pt_BR">
+				<seg>Submitting Form...</seg>
+			</tuv>
+		</tu>
+		<tu tuid="rodape.agende-sua-visita.erro-preenchimento">
+			<tuv xml:lang="pt_BR">
+				<seg>The server encountered an error.</seg>
+			</tuv>
+		</tu>
+		<tu tuid="rodape.agende-sua-visita.formulario-recebido">
+			<tuv xml:lang="pt_BR">
+				<seg>Form received.</seg>
+			</tuv>
+		</tu>
+		<tu tuid="rodape.agende-sua-visita.onde-agendar-visita">
+			<tuv xml:lang="pt_BR">
+				<seg>Onde deseja agendar a sua visita?*</seg>
+			</tuv>
+		</tu>
+		<tu tuid="rodape.agende-sua-visita.selecionamos-escola-mais-proxima">
+			<tuv xml:lang="pt_BR">
+				<seg>Nós selecionaremos a escola mais próxima do bairro que você
+					escolheu</seg>
+			</tuv>
+		</tu>
+		<tu tuid="rodape.agende-sua-visita">
+			<tuv xml:lang="pt_BR">
+				<seg>agende sua visita</seg>
+			</tuv>
+		</tu>
+		<tu tuid="rodape.agende-uma-visita">
+			<tuv xml:lang="pt_BR">
+				<seg>Agende uma visita</seg>
+			</tuv>
+		</tu>
+		<tu tuid="rodape.by">
+			<tuv xml:lang="pt_BR">
+				<seg>by </seg>
+			</tuv>
+		</tu>
+		<tu tuid="rodape.designs">
+			<tuv xml:lang="pt_BR">
+				<seg>DESIGNS</seg>
+			</tuv>
+		</tu>
+		<tu tuid="rodape.facebook">
+			<tuv xml:lang="pt_BR">
+				<seg>facebook</seg>
+			</tuv>
+		</tu>
+		<tu tuid="rodape.fechar">
+			<tuv xml:lang="pt_BR">
+				<seg>fechar</seg>
+			</tuv>
+		</tu>
+		<tu tuid="rodape.formulario">
+			<tuv xml:lang="pt_BR">
+				<seg>Formulário</seg>
+			</tuv>
+		</tu>
+		<tu tuid="rodape.instagram">
+			<tuv xml:lang="pt_BR">
+				<seg>instagram</seg>
+			</tuv>
+		</tu>
+		<tu tuid="rodape.metodo-derose-2015">
+			<tuv xml:lang="pt_BR">
+				<seg>® MÉTODO DeROSE - 2015</seg>
+			</tuv>
+		</tu>
+		<tu tuid="rodape.metodo-derose-2015">
+			<tuv xml:lang="pt_BR">
+				<seg>® Método DeROSE - 2015</seg>
+			</tuv>
+		</tu>
+		<tu tuid="rodape.metodo-derose-2015">
+			<tuv xml:lang="pt_BR">
+				<seg>® Método DeROSE ® 2015</seg>
+			</tuv>
+		</tu>
+		<tu tuid="rodape.ruivo">
+			<tuv xml:lang="pt_BR">
+				<seg>RUIVO</seg>
+			</tuv>
+		</tu>
+		<tu tuid="rodape.x">
+			<tuv xml:lang="pt_BR">
+				<seg>x</seg>
+			</tuv>
+		</tu>
+		<tu tuid="rodape.youtube">
+			<tuv xml:lang="pt_BR">
+				<seg>Youtube</seg>
+			</tuv>
+		</tu>
+		<tu tuid="sistema-boa-forma.6-18">
+			<tuv xml:lang="pt_BR">
+				<seg>6 - 18</seg>
+			</tuv>
+		</tu>
+		<tu tuid="sistema-boa-forma.agende-sua-aula">
+			<tuv xml:lang="pt_BR">
+				<seg>Agende sua aula</seg>
+			</tuv>
+		</tu>
+		<tu tuid="sistema-boa-forma.agende-sua-visita">
+			<tuv xml:lang="pt_BR">
+				<seg>Agende sua visita</seg>
+			</tuv>
+		</tu>
+		<tu tuid="sistema-boa-forma.agende-uma-visita">
+			<tuv xml:lang="pt_BR">
+				<seg>agende uma visita</seg>
+			</tuv>
+		</tu>
+		<tu tuid="sistema-boa-forma.alguns-treinamentos">
+			<tuv xml:lang="pt_BR">
+				<seg>Alguns treinamentos</seg>
+			</tuv>
+		</tu>
+		<tu tuid="sistema-boa-forma.alta-performance">
+			<tuv xml:lang="pt_BR">
+				<seg>ALTA PERFORMANCE</seg>
+			</tuv>
+		</tu>
+		<tu tuid="sistema-boa-forma.alta-performance">
+			<tuv xml:lang="pt_BR">
+				<seg>alta performance</seg>
+			</tuv>
+		</tu>
+		<tu tuid="sistema-boa-forma.anderson-gouveia">
+			<tuv xml:lang="pt_BR">
+				<seg>ANDERSON GOUVEIA</seg>
+			</tuv>
+		</tu>
+		<tu tuid="sistema-boa-forma.anderson-gouveia">
+			<tuv xml:lang="pt_BR">
+				<seg>Anderson Gouveia</seg>
+			</tuv>
+		</tu>
+		<tu tuid="sistema-boa-forma.anderson-gouveia">
+			<tuv xml:lang="pt_BR">
+				<seg>O trabalho conduzido no Método DeROSE não se categoriza como
+					atividade física nem desportiva.</seg>
+			</tuv>
+		</tu>
+		<tu tuid="sistema-boa-forma.anderson-gouveia">
+			<tuv xml:lang="pt_BR">
+				<seg>Um sistema de</seg>
+			</tuv>
+		</tu>
+		<tu tuid="sistema-boa-forma.aos-poucos-o-treinamento-esculpe-o-fisico">
+			<tuv xml:lang="pt_BR">
+				<seg>Aos poucos, o treinamento esculpe o físico, provendo
+					características análogas às de um felino: destreza, precisão,
+					sutileza e força. Com isso, além da estética, adquire-se um nível
+					de vitalidade, disposição e energia significativos para um melhor
+					desempenho em toda e qualquer atividade.</seg>
+			</tuv>
+		</tu>
+		<tu tuid="sistema-boa-forma.as-tecnicas-com-que-trabalhamos">
+			<tuv xml:lang="pt_BR">
+				<seg>As técnicas com que trabalhamos nos nossos treinamentos
+					promovem o aumento da consciência corporal em todos os níveis.</seg>
+			</tuv>
+		</tu>
+		<tu tuid="sistema-boa-forma.assista-ao-video">
+			<tuv xml:lang="pt_BR">
+				<seg>ASSISTA AO VÍDEO</seg>
+			</tuv>
+		</tu>
+		<tu tuid="sistema-boa-forma.assista-as">
+			<tuv xml:lang="pt_BR">
+				<seg>ASSISTA ÀS</seg>
+			</tuv>
+		</tu>
+		<tu tuid="sistema-boa-forma.bairro">
+			<tuv xml:lang="pt_BR">
+				<seg>bairro</seg>
+			</tuv>
+		</tu>
+		<tu tuid="sistema-boa-forma.boa-forma">
+			<tuv xml:lang="pt_BR">
+				<seg>BOA FORMA</seg>
+			</tuv>
+		</tu>
+		<tu tuid="sistema-boa-forma.boa-forma">
+			<tuv xml:lang="pt_BR">
+				<seg>Boa Forma</seg>
+			</tuv>
+		</tu>
+		<tu tuid="sistema-boa-forma.boa-forma">
+			<tuv xml:lang="pt_BR">
+				<seg>Boa forma</seg>
+			</tuv>
+		</tu>
+		<tu tuid="sistema-boa-forma.boa-forma">
+			<tuv xml:lang="pt_BR">
+				<seg>boa forma</seg>
+			</tuv>
+		</tu>
+		<tu tuid="sistema-boa-forma.carlos-mea">
+			<tuv xml:lang="pt_BR">
+				<seg>Carlo Mea</seg>
+			</tuv>
+		</tu>
+		<tu tuid="sistema-boa-forma.cidade">
+			<tuv xml:lang="pt_BR">
+				<seg>CIDADE</seg>
+			</tuv>
+		</tu>
+		<tu tuid="sistema-boa-forma.como-funcionam-as">
+			<tuv xml:lang="pt_BR">
+				<seg>como funcionam as</seg>
+			</tuv>
+		</tu>
+		<tu tuid="sistema-boa-forma.como-manter-e-conquistar-uma-boa-forma">
+			<tuv xml:lang="pt_BR">
+				<seg>Como manter e conquistar uma boa forma corporal de maneira
+					inteligente, que respeite o ritmo biológico de cada um? Com o </seg>
+			</tuv>
+		</tu>
+		<tu tuid="sistema-boa-forma.construa-a-sua">
+			<tuv xml:lang="pt_BR">
+				<seg>construa a sua</seg>
+			</tuv>
+		</tu>
+		<tu tuid="sistema-boa-forma.daniel-suassuna">
+			<tuv xml:lang="pt_BR">
+				<seg>DANIEL SUASSUNA</seg>
+			</tuv>
+		</tu>
+		<tu tuid="sistema-boa-forma.daniel-suassuna">
+			<tuv xml:lang="pt_BR">
+				<seg>DANIEL sUASSUNA</seg>
+			</tuv>
+		</tu>
+		<tu tuid="sistema-boa-forma.demonstracoes">
+			<tuv xml:lang="pt_BR">
+				<seg>DEMONSTRAÇÕES</seg>
+			</tuv>
+		</tu>
+		<tu tuid="sistema-boa-forma.demonstrador-do">
+			<tuv xml:lang="pt_BR">
+				<seg>Demonstrador do </seg>
+			</tuv>
+		</tu>
+		<tu tuid="sistema-boa-forma.demonstradora-do">
+			<tuv xml:lang="pt_BR">
+				<seg>Demonstradora do </seg>
+			</tuv>
+		</tu>
+		<tu tuid="sistema-boa-forma.desportiva">
+			<tuv xml:lang="pt_BR">
+				<seg>DESPORTIVA</seg>
+			</tuv>
+		</tu>
+		<tu tuid="sistema-boa-forma.desportiva">
+			<tuv xml:lang="pt_BR">
+				<seg>desportiva</seg>
+			</tuv>
+		</tu>
+		<tu tuid="sistema-boa-forma.dominada-a-tecnica-do-esporte">
+			<tuv xml:lang="pt_BR">
+				<seg>Dominada a técnica do esporte, o atleta precisa encontrar o seu
+					diferencial, desenvolvendo outros tipos de capacidades.</seg>
+			</tuv>
+		</tu>
+		<tu tuid="sistema-boa-forma.durante-execucao-de-tais-tecnicas">
+			<tuv xml:lang="pt_BR">
+				<seg>Durante a execução de tais técnicas, a respiração coordenada, o
+					tempo de permanência ideal para o grau de adiantamento do
+					praticante, a ausência de repetição ou aquecimento, a aplicação da
+					compensação necessária, o respeito aos limites de cada um, o foco e
+					a atenção sobre aquilo que se deseja aprimorar constituem regras do
+					nosso Método, imprescindíveis à conquista do que denominamos boa
+					forma.</seg>
+			</tuv>
+		</tu>
+		<tu tuid="sistema-boa-forma.eleve-sua-capacidade-fisica">
+			<tuv xml:lang="pt_BR">
+				<seg>Eleve sua capacidade física à máxima potência e mantenha-a
+					sempre em alta. Praticando o Método DeR</seg>
+			</tuv>
+		</tu>
+		<tu tuid="sistema-boa-forma.eleve-sua-capacidade-fisica">
+			<tuv xml:lang="pt_BR">
+				<seg>Eleve sua capacidade física à máxima potência e mantenha-a
+					sempre em alta. Praticando o Método DeROSE regularmente, com o
+					acompanhamento personalizado dos nossos profissionais, você ganha
+					cada vez mais autonomia, enquanto constrói sua própria evolução.</seg>
+			</tuv>
+		</tu>
+		<tu tuid="sistema-boa-forma.email">
+			<tuv xml:lang="pt_BR">
+				<seg>Email</seg>
+			</tuv>
+		</tu>
+		<tu tuid="sistema-boa-forma.enviando-formulario">
+			<tuv xml:lang="pt_BR">
+				<seg>Enviando Formulário...</seg>
+			</tuv>
+		</tu>
+		<tu tuid="sistema-boa-forma.enviando-formulario">
+			<tuv xml:lang="pt_BR">
+				<seg>Submitting Form...</seg>
+			</tuv>
+		</tu>
+		<tu tuid="sistema-boa-forma.erro-preenchimento">
+			<tuv xml:lang="pt_BR">
+				<seg>Observe se não há erros de preenchimento...</seg>
+			</tuv>
+		</tu>
+		<tu tuid="sistema-boa-forma.erro-preenchimento">
+			<tuv xml:lang="pt_BR">
+				<seg>The server encountered an error.</seg>
+			</tuv>
+		</tu>
+		<tu tuid="sistema-boa-forma.este-conjunto-ferramentas-executado">
+			<tuv xml:lang="pt_BR">
+				<seg>Este conjunto de ferramentas é executado sem repetição,
+					respeitando-se o princípio da isometria, o que desenvolve o tônus
+					muscular, sem reduzir o alongamento. Por isso, as técnicas não
+					desgastam as articulações nem provocam riscos de lesão. Cada
+					praticante esforça-se ao máximo, mas sem forçar; uma premissa
+					fundamental de nossas práticas.</seg>
+			</tuv>
+		</tu>
+		<tu tuid="sistema-boa-forma.estilo-de-vida">
+			<tuv xml:lang="pt_BR">
+				<seg>ESTILO DE VIDA</seg>
+			</tuv>
+		</tu>
+		<tu tuid="sistema-boa-forma.estilo-de-vida">
+			<tuv xml:lang="pt_BR">
+				<seg>estilo de vida</seg>
+			</tuv>
+		</tu>
+		<tu tuid="sistema-boa-forma.formulario-recebido">
+			<tuv xml:lang="pt_BR">
+				<seg>Form received.</seg>
+			</tuv>
+		</tu>
+		<tu tuid="sistema-boa-forma.formulario-recebido">
+			<tuv xml:lang="pt_BR">
+				<seg>Formulário recebido.</seg>
+			</tuv>
+		</tu>
+		<tu tuid="sistema-boa-forma.formulario">
+			<tuv xml:lang="pt_BR">
+				<seg>Formulário</seg>
+			</tuv>
+		</tu>
+		<tu tuid="sistema-boa-forma.formulario">
+			<tuv xml:lang="pt_BR">
+				<seg>formulário</seg>
+			</tuv>
+		</tu>
+		<tu tuid="sistema-boa-forma.foto-magali-saberian">
+			<tuv xml:lang="pt_BR">
+				<seg>Foto: ©Magali Saberian</seg>
+			</tuv>
+		</tu>
+		<tu tuid="sistema-boa-forma.foto-ricardo-iazzeta">
+			<tuv xml:lang="pt_BR">
+				<seg>Foto ©Ricardo Iazzetta</seg>
+			</tuv>
+		</tu>
+		<tu tuid="sistema-boa-forma.imagine-atingir-um-nivel">
+			<tuv xml:lang="pt_BR">
+				<seg>Imagine atingir um nível de consciência em relação ao seu
+					próprio corpo que permita que você utilize sua força e sua
+					flexibilidade de maneiras nunca antes pensadas!</seg>
+			</tuv>
+		</tu>
+		<tu tuid="sistema-boa-forma.incentivamos-um-estilo-de-vida-saudavel">
+			<tuv xml:lang="pt_BR">
+				<seg>Incentivamos um estilo de vida saudável, por meio dos conceitos
+					de boas relações humanas, boas maneiras, boa forma, boa alimentação
+					e boa cultura.</seg>
+			</tuv>
+		</tu>
+		<tu tuid="sistema-boa-forma.instrutor-metodo-derose">
+			<tuv xml:lang="pt_BR">
+				<seg>Instrutor do Método DeROSE</seg>
+			</tuv>
+		</tu>
+		<tu tuid="sistema-boa-forma.instrutor-metodo-derose">
+			<tuv xml:lang="pt_BR">
+				<seg>Instrutor&nbsp;
+					do Método DeROSE
+				</seg>
+			</tuv>
+		</tu>
+		<tu tuid="sistema-boa-forma.mais">
+			<tuv xml:lang="pt_BR">
+				<seg>Mais</seg>
+			</tuv>
+		</tu>
+		<tu tuid="sistema-boa-forma.melhor-versao">
+			<tuv xml:lang="pt_BR">
+				<seg>Melhor Versão</seg>
+			</tuv>
+		</tu>
+		<tu tuid="sistema-boa-forma.melhor">
+			<tuv xml:lang="pt_BR">
+				<seg>Melhor</seg>
+			</tuv>
+		</tu>
+		<tu tuid="sistema-boa-forma.metodo-derose">
+			<tuv xml:lang="pt_BR">
+				<seg>MÉTODO DeROSE</seg>
+			</tuv>
+		</tu>
+		<tu tuid="sistema-boa-forma.metodo-derose">
+			<tuv xml:lang="pt_BR">
+				<seg>Método DeROSE</seg>
+			</tuv>
+		</tu>
+		<tu tuid="sistema-boa-forma.mural-de-fotos">
+			<tuv xml:lang="pt_BR">
+				<seg>MURAL DE FOTOS</seg>
+			</tuv>
+		</tu>
+		<tu tuid="sistema-boa-forma.nome-sobrenome">
+			<tuv xml:lang="pt_BR">
+				<seg>Nome/SOBRENOME</seg>
+			</tuv>
+		</tu>
+		<tu tuid="sistema-boa-forma.nos-selecionamos-escola-mais-proxima">
+			<tuv xml:lang="pt_BR">
+				<seg>Nós selecionaremos a escola mais próxima do bairro que você
+					escolheu</seg>
+			</tuv>
+		</tu>
+		<tu tuid="sistema-boa-forma.nosso-metodo-possui-duas-mil-tecnicas">
+			<tuv xml:lang="pt_BR">
+				<seg>Nosso Método possui mais de duas mil técnicas, que desenvolvem
+					flexibilidade articular, alongamento e tônus muscular, e uma
+					consciência corporal expressiva. Em nosso acervo temos:
+					anteflexões, retroflexões, lateroflexões, torções, além dos
+					recursos de fortalecimento muscular, tração, abertura pélvica e
+					equilíbrio vertebral.</seg>
+			</tuv>
+		</tu>
+		<tu tuid="sistema-boa-forma.nuno-crames">
+			<tuv xml:lang="pt_BR">
+				<seg>NUNO CRAMÊS</seg>
+			</tuv>
+		</tu>
+		<tu tuid="sistema-boa-forma.o-desenvolvimento-do-individuo-e-multilateral">
+			<tuv xml:lang="pt_BR">
+				<seg> o desenvolvimento do indivíduo é multilateral e dentre os
+					diferentes aspectos aprimorados está a boa forma.</seg>
+			</tuv>
+		</tu>
+		<tu tuid="sistema-boa-forma.o-que-fazemos-e-um-treinamento-intenso">
+			<tuv xml:lang="pt_BR">
+				<seg>O que fazemos é um treinamento intenso e, ao mesmo tempo,
+					seguro, para desenvolver destreza, precisão, flexibilidade, força,
+					resistência etc. que, em última instância e naturalmente, levarão o
+					corpo a ter a boa forma como um dos inúmeros resultados positivos
+					de todo o empenho do praticante.</seg>
+			</tuv>
+		</tu>
+		<tu tuid="sistema-boa-forma.onde-deseja-agendar-sua-visita">
+			<tuv xml:lang="pt_BR">
+				<seg>Onde deseja agendar a sua visita?</seg>
+			</tuv>
+		</tu>
+		<tu tuid="sistema-boa-forma.onde-deseja-agendar-sua-visita">
+			<tuv xml:lang="pt_BR">
+				<seg>Onde deseja agendar a sua visita?*</seg>
+			</tuv>
+		</tu>
+		<tu tuid="sistema-boa-forma.os-desafios-grandes-lideres-enfrentam">
+			<tuv xml:lang="pt_BR">
+				<seg>Os desafios que os grandes líderes enfrentam todos os dias vão
+					além do domínio sobre o negócio em que atuam.</seg>
+			</tuv>
+		</tu>
+		<tu tuid="sistema-boa-forma.profissional">
+			<tuv xml:lang="pt_BR">
+				<seg>PROFISSIONAL</seg>
+			</tuv>
+		</tu>
+		<tu tuid="sistema-boa-forma.profissional">
+			<tuv xml:lang="pt_BR">
+				<seg>profissional</seg>
+			</tuv>
+		</tu>
+		<tu tuid="sistema-boa-forma.qualidade-e">
+			<tuv xml:lang="pt_BR">
+				<seg>QUALIDADE E</seg>
+			</tuv>
+		</tu>
+		<tu tuid="sistema-boa-forma.qualidade-e">
+			<tuv xml:lang="pt_BR">
+				<seg>qualidade e</seg>
+			</tuv>
+		</tu>
+		<tu tuid="sistema-boa-forma.rafael-ramos">
+			<tuv xml:lang="pt_BR">
+				<seg>Rafael Ramos</seg>
+			</tuv>
+		</tu>
+		<tu tuid="sistema-boa-forma.sebastian-carvallo">
+			<tuv xml:lang="pt_BR">
+				<seg>SEBASTIAN CARVALLO</seg>
+			</tuv>
+		</tu>
+		<tu tuid="sistema-boa-forma.sebastian-carvallo">
+			<tuv xml:lang="pt_BR">
+				<seg>Sebastian Carvallo</seg>
+			</tuv>
+		</tu>
+		<tu tuid="sistema-boa-forma.sistema-de">
+			<tuv xml:lang="pt_BR">
+				<seg>SISTEMA DE</seg>
+			</tuv>
+		</tu>
+		<tu tuid="sistema-boa-forma.sistema-de">
+			<tuv xml:lang="pt_BR">
+				<seg>Sistema de</seg>
+			</tuv>
+		</tu>
+		<tu tuid="sistema-boa-forma.sistema-de">
+			<tuv xml:lang="pt_BR">
+				<seg>sistema de</seg>
+			</tuv>
+		</tu>
+		<tu tuid="sistema-boa-forma.tecnicas">
+			<tuv xml:lang="pt_BR">
+				<seg>Técnicas</seg>
+			</tuv>
+		</tu>
+		<tu tuid="sistema-boa-forma.telefone">
+			<tuv xml:lang="pt_BR">
+				<seg>telefone</seg>
+			</tuv>
+		</tu>
+		<tu tuid="sistema-boa-forma.ter-boa-forma-e-muito-mais">
+			<tuv xml:lang="pt_BR">
+				<seg>Ter boa forma é muito mais do que uma simples questão estética.</seg>
+			</tuv>
+		</tu>
+		<tu tuid="sistema-boa-forma.ter-boa-forma-mais-que-simples">
+			<tuv xml:lang="pt_BR">
+				<seg>Ter boa forma é muito mais do que uma simples questão estética.
+					É desenvolver as características que se deseja para estar mais
+					satisfeito com o próprio corpo e, assim, poder ter a melhor
+					performance em tudo o que se propuser a fazer.</seg>
+			</tuv>
+		</tu>
+		<tu tuid="sistema-boa-forma.um-sistema-de">
+			<tuv xml:lang="pt_BR">
+				<seg>Um sistema de</seg>
+			</tuv>
+		</tu>
+		<tu tuid="sistema-boa-forma.veja-algumas-demonstracoes">
+			<tuv xml:lang="pt_BR">
+				<seg>Veja algumas demonstrações de técnicas do nosso Método e as
+					modalidades de treinamento.</seg>
+			</tuv>
+		</tu>
+		<tu tuid="sistema-boa-forma.voce-no-seu">
+			<tuv xml:lang="pt_BR">
+				<seg>Você no seu</seg>
+			</tuv>
+		</tu>
+		<tu tuid="sistema-boa-forma.voltar">
+			<tuv xml:lang="pt_BR">
+				<seg>&lt; Voltar</seg>
+			</tuv>
+		</tu>
+		<tu tuid="sistema-boa-forma.x">
+			<tuv xml:lang="pt_BR">
+				<seg>x</seg>
+			</tuv>
+		</tu>
+		<tu tuid="sistema-boa-forma.yael-barcesat">
+			<tuv xml:lang="pt_BR">
+				<seg>Yael Barcesat</seg>
+			</tuv>
+		</tu>
+		<tu tuid="sobre-o-metodo.6-12">
+			<tuv xml:lang="pt_BR">
+				<seg>6 - 12</seg>
+			</tuv>
+		</tu>
+		<tu tuid="sobre-o-metodo.administracao-do-stress">
+			<tuv xml:lang="pt_BR">
+				<seg>Administração do stress</seg>
+			</tuv>
+		</tu>
+		<tu tuid="sobre-o-metodo.all-over-the-world">
+			<tuv xml:lang="pt_BR">
+				<seg>ALL OVER THE WORLD</seg>
+			</tuv>
+		</tu>
+		<tu tuid="sobre-o-metodo.alta-performance">
+			<tuv xml:lang="pt_BR">
+				<seg>ALTA PERFORMANCE</seg>
+			</tuv>
+		</tu>
+		<tu tuid="sobre-o-metodo.alta-performance">
+			<tuv xml:lang="pt_BR">
+				<seg>alta performance</seg>
+			</tuv>
+		</tu>
+		<tu tuid="sobre-o-metodo.boa-alimentacao">
+			<tuv xml:lang="pt_BR">
+				<seg>&nbsp;Boa
+					Alimentação
+				</seg>
+			</tuv>
+		</tu>
+		<tu tuid="sobre-o-metodo.boa-alimentacao">
+			<tuv xml:lang="pt_BR">
+				<seg>Boa alimentação</seg>
+			</tuv>
+		</tu>
+		<tu tuid="sobre-o-metodo.boa-cultura">
+			<tuv xml:lang="pt_BR">
+				<seg>Boa Cultura</seg>
+			</tuv>
+		</tu>
+		<tu tuid="sobre-o-metodo.boa-cultura">
+			<tuv xml:lang="pt_BR">
+				<seg>Boa cultura</seg>
+			</tuv>
+		</tu>
+		<tu tuid="sobre-o-metodo.boa-forma">
+			<tuv xml:lang="pt_BR">
+				<seg>BOA FORMA</seg>
+			</tuv>
+		</tu>
+		<tu tuid="sobre-o-metodo.boa-forma">
+			<tuv xml:lang="pt_BR">
+				<seg>Boa Forma</seg>
+			</tuv>
+		</tu>
+		<tu tuid="sobre-o-metodo.boa-forma">
+			<tuv xml:lang="pt_BR">
+				<seg>Boa forma</seg>
+			</tuv>
+		</tu>
+		<tu tuid="sobre-o-metodo.boa-forma">
+			<tuv xml:lang="pt_BR">
+				<seg>boa forma</seg>
+			</tuv>
+		</tu>
+		<tu tuid="sobre-o-metodo.boa-qualidade-de-vida">
+			<tuv xml:lang="pt_BR">
+				<seg>Boa Qualidade de Vida</seg>
+			</tuv>
+		</tu>
+		<tu tuid="sobre-o-metodo.boa-qualidade-de-vida">
+			<tuv xml:lang="pt_BR">
+				<seg>boa qualidade de vida</seg>
+			</tuv>
+		</tu>
+		<tu tuid="sobre-o-metodo.boas-maneiras">
+			<tuv xml:lang="pt_BR">
+				<seg>Boas Maneiras</seg>
+			</tuv>
+		</tu>
+		<tu tuid="sobre-o-metodo.boas-maneiras">
+			<tuv xml:lang="pt_BR">
+				<seg>Boas maneiras</seg>
+			</tuv>
+		</tu>
+		<tu tuid="sobre-o-metodo.boas-relacoes-humanas">
+			<tuv xml:lang="pt_BR">
+				<seg>Boas Relações Humanas</seg>
+			</tuv>
+		</tu>
+		<tu tuid="sobre-o-metodo.boas-relacoes-humanas">
+			<tuv xml:lang="pt_BR">
+				<seg>Boas relações humanas</seg>
+			</tuv>
+		</tu>
+		<tu tuid="sobre-o-metodo.canal-do-youtube">
+			<tuv xml:lang="pt_BR">
+				<seg>Canal do Youtube</seg>
+			</tuv>
+		</tu>
+		<tu tuid="sobre-o-metodo.clique-nas-fotos-para-ver">
+			<tuv xml:lang="pt_BR">
+				<seg>Clique nas fotos para ver alguns dos reconhecimentos e
+					homenagens recebidos pelo Comendador DeR</seg>
+			</tuv>
+		</tu>
+		<tu tuid="sobre-o-metodo.comendador-derose">
+			<tuv xml:lang="pt_BR">
+				<seg>COMENDADOR DeROSE</seg>
+			</tuv>
+		</tu>
+		<tu tuid="sobre-o-metodo.conceitos">
+			<tuv xml:lang="pt_BR">
+				<seg>CONCEITOS</seg>
+			</tuv>
+		</tu>
+		<tu tuid="sobre-o-metodo.concentracao-e-meditacao">
+			<tuv xml:lang="pt_BR">
+				<seg>Concentração e meditação</seg>
+			</tuv>
+		</tu>
+		<tu tuid="sobre-o-metodo.concentracao-meditacao">
+			<tuv xml:lang="pt_BR">
+				<seg>Concentração e meditação</seg>
+			</tuv>
+		</tu>
+		<tu tuid="sobre-o-metodo.conderacoes">
+			<tuv xml:lang="pt_BR">
+				<seg>CONDECORAÇÕES</seg>
+			</tuv>
+		</tu>
+		<tu tuid="sobre-o-metodo.construa-sua-melhor-versao">
+			<tuv xml:lang="pt_BR">
+				<seg>CONSTRUA A SUA MELHOR VERSÃO</seg>
+			</tuv>
+		</tu>
+		<tu tuid="sobre-o-metodo.desportiva">
+			<tuv xml:lang="pt_BR">
+				<seg>DESPORTIVA</seg>
+			</tuv>
+		</tu>
+		<tu tuid="sobre-o-metodo.desportiva">
+			<tuv xml:lang="pt_BR">
+				<seg>desportiva</seg>
+			</tuv>
+		</tu>
+		<tu tuid="sobre-o-metodo.dominada-a-tecnica-do-esporte">
+			<tuv xml:lang="pt_BR">
+				<seg>Dominada a técnica do esporte, o atleta precisa encontrar o seu
+					diferencial, desenvolvendo outros tipos de capacidades.</seg>
+			</tuv>
+		</tu>
+		<tu tuid="sobre-o-metodo.dominada-tecnica-do-esporte">
+			<tuv xml:lang="pt_BR">
+				<seg>Dominada a técnica do esporte, o atleta precisa encontrar o seu
+					diferencial, desenvolvendo outros tipos de capacidades.</seg>
+			</tuv>
+		</tu>
+		<tu tuid="sobre-o-metodo.estilo-de-vida">
+			<tuv xml:lang="pt_BR">
+				<seg>ESTILO DE VIDA</seg>
+			</tuv>
+		</tu>
+		<tu tuid="sobre-o-metodo.estilo-de-vida">
+			<tuv xml:lang="pt_BR">
+				<seg>estilo de vida</seg>
+			</tuv>
+		</tu>
+		<tu tuid="sobre-o-metodo.explore">
+			<tuv xml:lang="pt_BR">
+				<seg>EXPLORE&nbsp;
+					&gt;
+				</seg>
+			</tuv>
+		</tu>
+		<tu tuid="sobre-o-metodo.facebook">
+			<tuv xml:lang="pt_BR">
+				<seg>Facebook</seg>
+			</tuv>
+		</tu>
+		<tu tuid="sobre-o-metodo.forca-e-flexibilidade">
+			<tuv xml:lang="pt_BR">
+				<seg>Força e flexibilidade</seg>
+			</tuv>
+		</tu>
+		<tu tuid="sobre-o-metodo.forca-flexibilidade">
+			<tuv xml:lang="pt_BR">
+				<seg>Força e flexibilidade</seg>
+			</tuv>
+		</tu>
+		<tu tuid="sobre-o-metodo.garantimos-a-excelencia-dos-nossos-profissionais">
+			<tuv xml:lang="pt_BR">
+				<seg>Garantimos a excelência dos nossos profissionais: eles têm
+					certificado de extensão universitária expedido por uma Universidade
+					Federal, Estadual, Católica ou outra boa entidade particular. São
+					avaliados e revalidados anualmente pelas suas Federações e podem
+					dar as aulas em oito idiomas.</seg>
+			</tuv>
+		</tu>
+		<tu tuid="sobre-o-metodo.incentivamos-um-estilo-de-vida-saudavel">
+			<tuv xml:lang="pt_BR">
+				<seg>Iincentivamos um estilo de vida saudável, por meio dos
+					conceitos de boas relações humanas, boas maneiras, boa forma, boa
+					alimentação e boa cultura.</seg>
+			</tuv>
+		</tu>
+		<tu tuid="sobre-o-metodo.incentivamos-um-estilo-de-vida-saudavel">
+			<tuv xml:lang="pt_BR">
+				<seg>Incentivamos um estilo de vida saudável, por meio dos conceitos
+					de boas relações humanas, boas maneiras, boa forma, boa alimentação
+					e boa cultura.</seg>
+			</tuv>
+		</tu>
+		<tu tuid="sobre-o-metodo.inspire-sua-essencia">
+			<tuv xml:lang="pt_BR">
+				<seg>Inspire sua essência</seg>
+			</tuv>
+		</tu>
+		<tu tuid="sobre-o-metodo.instagram">
+			<tuv xml:lang="pt_BR">
+				<seg>Instagram</seg>
+			</tuv>
+		</tu>
+		<tu tuid="sobre-o-metodo.links">
+			<tuv xml:lang="pt_BR">
+				<seg>Links</seg>
+			</tuv>
+		</tu>
+		<tu tuid="sobre-o-metodo.metodo-derose">
+			<tuv xml:lang="pt_BR">
+				<seg>MÉTODO DeROSE</seg>
+			</tuv>
+		</tu>
+		<tu tuid="sobre-o-metodo.modalidades">
+			<tuv xml:lang="pt_BR">
+				<seg>modalidades</seg>
+			</tuv>
+		</tu>
+		<tu tuid="sobre-o-metodo.mter-boa-forma-e-muito-mais">
+			<tuv xml:lang="pt_BR">
+				<seg>Ter boa forma é muito mais do que uma simples questão estética.</seg>
+			</tuv>
+		</tu>
+		<tu tuid="sobre-o-metodo.nossa-cultura-metodo-derose">
+			<tuv xml:lang="pt_BR">
+				<seg>Nossa Cultura - Método DeROSE</seg>
+			</tuv>
+		</tu>
+		<tu tuid="sobre-o-metodo.nossa-presenca-no-mundo">
+			<tuv xml:lang="pt_BR">
+				<seg>NOSSA PRESENÇA PELO MUNDO</seg>
+			</tuv>
+		</tu>
+		<tu tuid="sobre-o-metodo.o-que-e">
+			<tuv xml:lang="pt_BR">
+				<seg>O que é?</seg>
+			</tuv>
+		</tu>
+		<tu tuid="sobre-o-metodo.os-desafios-com-que-grandes-lideres">
+			<tuv xml:lang="pt_BR">
+				<seg>Os desafios com que os grandes líderes têm de lidar diariamente
+					vão mais além do domínio sobre o negócio em que atuam.</seg>
+			</tuv>
+		</tu>
+		<tu tuid="sobre-o-metodo.os-desafios-que-os-grandes-lideres">
+			<tuv xml:lang="pt_BR">
+				<seg>Os desafios que os grandes líderes enfrentam todos os dias vão
+					além do domínio sobre o negócio em que atuam.</seg>
+			</tuv>
+		</tu>
+		<tu tuid="sobre-o-metodo.pagina-oficial">
+			<tuv xml:lang="pt_BR">
+				<seg>(Página Oficial)</seg>
+			</tuv>
+		</tu>
+		<tu tuid="sobre-o-metodo.paris-londres-nova-york-roma">
+			<tuv xml:lang="pt_BR">
+				<seg>Paris - London - New York - Roma - Barcelona - Buenos Aires -
+					Lisboa - Porto - Rio - São Paulo</seg>
+			</tuv>
+		</tu>
+		<tu tuid="sobre-o-metodo.professor-doutor-honoris-causa">
+			<tuv xml:lang="pt_BR">
+				<seg>Professor Doutor Honoris Causa (título concedido pelo Complexo
+					de Ensino Superior de Santa Catarina), DeRose é autor de trinta
+					livros. Ao longo de cinquenta e tantos anos de magistério,
+					tornou-se o mais expressivo e hoje, também, o mais antigo
+					profissional da sua área.</seg>
+			</tuv>
+		</tu>
+		<tu tuid="sobre-o-metodo.profissional">
+			<tuv xml:lang="pt_BR">
+				<seg>PROFISSIONAL</seg>
+			</tuv>
+		</tu>
+		<tu tuid="sobre-o-metodo.profissional">
+			<tuv xml:lang="pt_BR">
+				<seg>profissional</seg>
+			</tuv>
+		</tu>
+		<tu tuid="sobre-o-metodo.qualidade-e">
+			<tuv xml:lang="pt_BR">
+				<seg>QUALIDADE E</seg>
+			</tuv>
+		</tu>
+		<tu tuid="sobre-o-metodo.qualidade-e">
+			<tuv xml:lang="pt_BR">
+				<seg>qualidade e</seg>
+			</tuv>
+		</tu>
+		<tu tuid="sobre-o-metodo.reeducacao-respiratoria">
+			<tuv xml:lang="pt_BR">
+				<seg>Reeducação respiratória</seg>
+			</tuv>
+		</tu>
+		<tu tuid="sobre-o-metodo.reeducao-respiratoria">
+			<tuv xml:lang="pt_BR">
+				<seg>Reeducação respiratória</seg>
+			</tuv>
+		</tu>
+		<tu tuid="sobre-o-metodo.responsavel-por-uma-verdadeira-revolucao">
+			<tuv xml:lang="pt_BR">
+				<seg>Responsável por uma verdadeira revolução cultural que se
+					iniciou em 1960 e já se estende a várias regiões do planeta, o
+					Comendador DeRose vem sendo agraciado, pelas mais diversas
+					instituições, com incontáveis condecorações, cujo mérito divide com
+					seus supervisionados e alunos.</seg>
+			</tuv>
+		</tu>
+		<tu tuid="sobre-o-metodo.sistema-de">
+			<tuv xml:lang="pt_BR">
+				<seg>SISTEMA DE</seg>
+			</tuv>
+		</tu>
+		<tu tuid="sobre-o-metodo.sistema-de">
+			<tuv xml:lang="pt_BR">
+				<seg>sistema de</seg>
+			</tuv>
+		</tu>
+		<tu tuid="sobre-o-metodo.sobre-o-metodo">
+			<tuv xml:lang="pt_BR">
+				<seg>sobre o Método</seg>
+			</tuv>
+		</tu>
+		<tu tuid="sobre-o-metodo.sobre-o">
+			<tuv xml:lang="pt_BR">
+				<seg>SOBRE O</seg>
+			</tuv>
+		</tu>
+		<tu tuid="sobre-o-metodo.sobre-qualidade-de-vida">
+			<tuv xml:lang="pt_BR">
+				<seg>Sobre Qualidade de Vida</seg>
+			</tuv>
+		</tu>
+		<tu tuid="sobre-o-metodo.tecnicas-corporais">
+			<tuv xml:lang="pt_BR">
+				<seg>Técnicas corporais</seg>
+			</tuv>
+		</tu>
+		<tu tuid="sobre-o-metodo.tecnicas">
+			<tuv xml:lang="pt_BR">
+				<seg>TÉCNICAS</seg>
+			</tuv>
+		</tu>
+		<tu tuid="sobre-o-metodo.ter-boa-forma-fisica">
+			<tuv xml:lang="pt_BR">
+				<seg>Ter boa forma física é muito mais do que uma simples questão
+					estética.</seg>
+			</tuv>
+		</tu>
+		<tu tuid="sobre-o-metodo.uma-proposta-alta-performance">
+			<tuv xml:lang="pt_BR">
+				<seg>Uma proposta de alta performance e qualidade de vida para
+					empresários e desportistas.</seg>
+			</tuv>
+		</tu>
+		<tu tuid="sobre-o-metodo.videos">
+			<tuv xml:lang="pt_BR">
+				<seg>VÍDEOS</seg>
+			</tuv>
+		</tu>
+		<tu tuid="sobre-o-metodo.voltar">
+			<tuv xml:lang="pt_BR">
+				<seg>&lt; Voltar</seg>
+			</tuv>
+		</tu>
+		<tu tuid="sobre-o-metodo.x">
+			<tuv xml:lang="pt_BR">
+				<seg>x</seg>
+			</tuv>
+		</tu>
+	</body>
+</tmx>
