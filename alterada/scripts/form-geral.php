@@ -32,8 +32,8 @@ $form = array(
 
 	),
 	'email' => array(
-		'from' => 'comite.marketing@metododelrose.org',
-		'to' => 'professorwillians@gmail.com'
+		'from' => 'comite.marketing@metododerose.org',
+		'to' => 'comite.marketing@metododerose.org'
 	),
 	'fields' => array(
 		'custom_nome' => array(
