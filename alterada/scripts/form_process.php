@@ -46,6 +46,8 @@ function check_captcha($form) {
     if(isset($form['captcha']) && $form['captcha'] != "")
     {
     	$bate = json_encode(strtolower($form['captcha']) == strtolower($_SESSION['captcha']));
+    	// echo "digitado>>>".$form['captcha']."\t";
+    	// echo "sessao>>>".$_SESSION['captcha']."\t";
 
         if($bate == "false"){
 			die(get_form_error_response($form['resources']['captcha_errado']));
