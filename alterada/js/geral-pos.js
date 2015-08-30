@@ -27,11 +27,13 @@ $(document).ready(function() {
 			$(".captcha input").parent().css('text-indent', '0px');
 
 			//definir valores para apoio em desenvolvimento
-			$("input[name = 'custom_nome']").val("Willians martins");
-			$("input[name = 'custom_email']").val("meu@email.com");
-			$("input[name = 'custom_telefone']").val("4141-9988");
-			$("textarea[name = 'custom_cidade']").val("Jandira");
-			$("textarea[name = 'custom_bairro']").val("Sagrado");
+			// $("input[name = 'custom_nome']").val("Willians martins");
+			// $("input[name = 'custom_email']").val("meu@email.com");
+			// $("input[name = 'custom_telefone']").val("4141-9988");
+			// $("textarea[name = 'custom_cidade']").val("Jandira");
+			// $("textarea[name = 'custom_bairro']").val("Sagrado");
+			// $('.ContainerGroup').show();
+			// $('.ContainerGroup').children().css('visibility', 'initial');
 	    },
 	    error: function(e) {
 	        console.info("erro ao buscar " + "menu-form.html");
