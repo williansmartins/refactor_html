@@ -27,11 +27,11 @@ $(document).ready(function() {
 			$(".captcha input").parent().css('text-indent', '0px');
 
 			//definir valores para apoio em desenvolvimento
-			// $("input[name = 'custom_nome']").val("Willians martins");
-			// $("input[name = 'custom_email']").val("meu@email.com");
-			// $("input[name = 'custom_telefone']").val("4141-9988");
-			// $("textarea[name = 'custom_cidade']").val("Jandira");
-			// $("textarea[name = 'custom_bairro']").val("Sagrado");
+			$("input[name = 'custom_nome']").val("Willians martins");
+			$("input[name = 'custom_email']").val("meu@email.com");
+			$("input[name = 'custom_telefone']").val("4141-9988");
+			$("textarea[name = 'custom_cidade']").val("Jandira");
+			$("textarea[name = 'custom_bairro']").val("Sagrado");
 	    },
 	    error: function(e) {
 	        console.info("erro ao buscar " + "menu-form.html");
@@ -41,7 +41,7 @@ $(document).ready(function() {
 	});
 
    //acao do menu, agendar uma visita
-   $("#agende_uma_visita").mouseenter(function(){
+   $("#agende_uma_visita, .clique").mouseenter(function(){
        //definir elementos
        var $container = $('.aqui').find(".Container");
        var $containerGroup = $('.aqui').find(".ContainerGroup");
@@ -59,57 +59,57 @@ $(document).ready(function() {
    });
 
 	//busca do formulario externo - footer
-	$.ajax({
-	    url: "footer-form.html",
-	    type: "POST",
-	    success: function(result) {
-	        //guardar o conteudo do html
-	        var form = result;
-			//carrega menu-form.html dentro de aqui
-			var $alvo = $('.aqui_footer');
-			$alvo.html("");
-			$alvo.append( form );
-			$alvo.children().hide();
+	// $.ajax({
+	//     url: "footer-form.html",
+	//     type: "POST",
+	//     success: function(result) {
+	//         //guardar o conteudo do html
+	//         var form = result;
+	// 		//carrega menu-form.html dentro de aqui
+	// 		var $alvo = $('.aqui_footer');
+	// 		$alvo.html("");
+	// 		$alvo.append( form );
+	// 		$alvo.children().hide();
 
-			//aplica a validação dos campos, via muse
-			Muse.Utils.initWidget('#widgetu15350', function(elem) { new WebPro.Widget.Form(elem, {validationEvent:'submit',errorStateSensitivity:'high',fieldWrapperClass:'fld-grp',formSubmittedClass:'frm-sub-st',formErrorClass:'frm-subm-err-st',formDeliveredClass:'frm-subm-ok-st',notEmptyClass:'non-empty-st',focusClass:'focus-st',invalidClass:'fld-err-st',requiredClass:'fld-err-st',ajaxSubmit:true}); });/* #widgetu14051 */
+	// 		//aplica a validação dos campos, via muse
+	// 		Muse.Utils.initWidget('#widgetu15350', function(elem) { new WebPro.Widget.Form(elem, {validationEvent:'submit',errorStateSensitivity:'high',fieldWrapperClass:'fld-grp',formSubmittedClass:'frm-sub-st',formErrorClass:'frm-subm-err-st',formDeliveredClass:'frm-subm-ok-st',notEmptyClass:'non-empty-st',focusClass:'focus-st',invalidClass:'fld-err-st',requiredClass:'fld-err-st',ajaxSubmit:true}); });/* #widgetu14051 */
 
-			//aplicar o assunto no form
-			var assunto = $("title").html();
-			$("#assunto").val(assunto + " - menu");
+	// 		//aplicar o assunto no form
+	// 		var assunto = $("title").html();
+	// 		$("#assunto").val(assunto + " - menu");
 
-			//add mouseover no botao fechar
-			$alvo.find('.fechar').css('cursos', 'pointer');
-			$alvo.find('.fechar').css("background-image", 'images/fechar.png');
+	// 		//add mouseover no botao fechar
+	// 		$alvo.find('.fechar').css('cursos', 'pointer');
+	// 		$alvo.find('.fechar').css("background-image", 'images/fechar.png');
 
-			//aplicar o UPPER CASE
-			$(".wrapped-input").css('text-transform', 'uppercase');
-	    },
-	    error: function(e) {
-	        console.info("erro ao buscar " + "footer-form.html");
-	        console.info(e);
-	        debugger;
-	    },
-	});
+	// 		//aplicar o UPPER CASE
+	// 		$(".wrapped-input").css('text-transform', 'uppercase');
+	//     },
+	//     error: function(e) {
+	//         console.info("erro ao buscar " + "footer-form.html");
+	//         console.info(e);
+	//         debugger;
+	//     },
+	// });
 
 	//acao do menu, agendar uma visita
-	$(".clique").click(function(){
-		//definir elementos
-		var $container = $('.aqui_footer').find(".Container");
-		var $containerGroup = $('.aqui_footer').find(".ContainerGroup");
+	// $(".clique").click(function(){
+	// 	//definir elementos
+	// 	var $container = $('.aqui_footer').find(".Container");
+	// 	var $containerGroup = $('.aqui_footer').find(".ContainerGroup");
 
-		//apresenta o form
-		$container.css('visibility', 'initial');
-		$containerGroup.show();
+	// 	//apresenta o form
+	// 	$container.css('visibility', 'initial');
+	// 	$containerGroup.show();
 	    
-	    //aplica o leave para fechar o form
-	    $container.find('.fechar').click(function(){
-			$containerGroup.css('visibility', 'hidden');
-			$containerGroup.hide();
-			// console.log($containerGroup.id);
-		});
+	//     //aplica o leave para fechar o form
+	//     $container.find('.fechar').click(function(){
+	// 		$containerGroup.css('visibility', 'hidden');
+	// 		$containerGroup.hide();
+	// 		// console.log($containerGroup.id);
+	// 	});
 
-	});
+	// });
 	
 //	$.ajax({
 //	    url: "menu.html",
