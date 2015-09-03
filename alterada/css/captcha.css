@@ -89,12 +89,16 @@
     margin-left: 30px!important;
 }
 
+.qualidade .msg-erro p{
+    color: black!important;
+}
+
 .qualidade .captcha .dica{
-    color: black;
+    color: black!important;
 }
 
 .qualidade .captcha .input{
-    color: white;
-    background-color: transparent;
+    color: black!important;
+    background-color: transparent!important;
 }  
 /* FIM DO BLOCO DE ESTILO DE CAPTCHA INTERNO*/
