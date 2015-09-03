@@ -66,3 +66,35 @@
     margin-left: 30px!important;
 }
 /* FIM DO BLOCO DE ESTILO DE CAPTCHA INTERNO*/
+
+/* BLOCO DE ESTILO DE CAPTCHA INTERNO - DESKTOP - DESPORTIVA*/
+.desportiva .msg-erro{
+    margin-top: 371px!important;
+    margin-left: 30px!important;
+}
+
+.desportiva .captcha .dica{
+    color: white;
+}
+
+.desportiva .captcha .input{
+    color: white;
+    background-color: black;
+}  
+/* FIM DO BLOCO DE ESTILO DE CAPTCHA INTERNO*/
+
+/* BLOCO DE ESTILO DE CAPTCHA INTERNO - DESKTOP - DESPORTIVA*/
+.qualidade .msg-erro{
+    margin-top: 371px!important;
+    margin-left: 30px!important;
+}
+
+.qualidade .captcha .dica{
+    color: black;
+}
+
+.qualidade .captcha .input{
+    color: white;
+    background-color: transparent;
+}  
+/* FIM DO BLOCO DE ESTILO DE CAPTCHA INTERNO*/
