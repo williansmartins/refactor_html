@@ -56,6 +56,10 @@
 .profissional .captcha.phone .code{
     color: black;
 }    
+.profissional .captcha .input{
+    color: black!important;
+    background-color: transparent!important;
+}  
 
 /* FIM DO BLOCO DE ESTILO DE CAPTCHA INTERNO*/
 
