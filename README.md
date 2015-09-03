@@ -2,11 +2,10 @@
 2:00 - Análise (willians e fabiano)
 2:00 - Unir arquivos php (willians)
 4:00 - Externalizar conteúdo JS (willians(15%) e fabiano(85%))
-4:00 - Testes
-
-3:50 - Internacionalizar o html somente(440 frases/palavras)
-0:30 - Unificar formulários (desktop ok, phone index, tablet nao sera feito)
-6:30 - AJAX (Remover menu rodapé + chamadas dinâmicas)
+4:00 - Testes (willians e fabiano)
+3:50 - Internacionalizar o html somente(440 frases/palavras) (willians(15)% e fabiano(85%)
+0:30 - Unificar formulários (desktop ok, phone index, tablet nao sera feito)(Willians)
+6:30 - AJAX (Remover menu rodapé + chamadas dinâmicas) (willians)
 22:20
 
 //etapas para resolver os js's
@@ -195,7 +194,6 @@ sobre o metodo - fabiano
 porque modalidades tinha redirect?
 porque parabens tinha redirect?
 porque sobre-o-metodo tinha redirect?
-
 porque o alta-performance-desportiva.html do tablet tinha redirect?
 porque o alta-performance-profissional.html do tablet tinha redirect?
 porque o boa-forma.html do tablet tinha redirect?
@@ -210,7 +208,7 @@ arquivos diferentes estavam chamando o mesmo php - corrigi
 
 os placeholders nao estavam legal, não eram place holders, eu corrigi
 
-//porque está usando Adobe Air como use agent?
+//porque está usando Adobe Air como user-agent?
 <!--HTML Widget code-->
 <!-- <script type="text/javascript">
 	if( navigator.userAgent.indexOf("AdobeAIR") >= 0)

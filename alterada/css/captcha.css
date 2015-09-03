@@ -56,6 +56,10 @@
 .profissional .captcha.phone .code{
     color: black;
 }    
+.profissional .captcha .input{
+    color: black!important;
+    background-color: transparent!important;
+}  
 
 /* FIM DO BLOCO DE ESTILO DE CAPTCHA INTERNO*/
 
@@ -65,4 +69,56 @@
     margin-top: 271px!important;
     margin-left: 30px!important;
 }
+/* FIM DO BLOCO DE ESTILO DE CAPTCHA INTERNO*/
+
+/* BLOCO DE ESTILO DE CAPTCHA INTERNO - DESKTOP - DESPORTIVA*/
+.desportiva .msg-erro{
+    margin-top: 273px!important;
+    margin-left: 90px!important;
+}
+
+.desportiva .captcha .dica{
+    color: white;
+}
+
+.desportiva .captcha .input{
+    color: white;
+    background-color: black;
+}  
+/* FIM DO BLOCO DE ESTILO DE CAPTCHA INTERNO*/
+
+/* BLOCO DE ESTILO DE CAPTCHA INTERNO - DESKTOP - DESPORTIVA*/
+.qualidade .msg-erro{
+    margin-top: 371px!important;
+    margin-left: 30px!important;
+}
+
+.qualidade .msg-erro p{
+    color: black!important;
+}
+
+.qualidade .captcha .dica{
+    color: black!important;
+}
+
+.qualidade .captcha .input{
+    color: black!important;
+    background-color: transparent!important;
+}  
+/* FIM DO BLOCO DE ESTILO DE CAPTCHA INTERNO*/
+
+/* BLOCO DE ESTILO DE CAPTCHA INTERNO - DESKTOP - DESPORTIVA*/
+.sistema .msg-erro{
+    margin-top: 273px!important;
+    margin-left: 90px!important;
+}
+
+.sistema .captcha .dica{
+    /*color: black!important;*/
+}
+
+.sistema .captcha .input{
+    color: white!important;
+    background-color: transparent!important;
+}  
 /* FIM DO BLOCO DE ESTILO DE CAPTCHA INTERNO*/

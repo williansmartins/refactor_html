@@ -26,7 +26,7 @@ define([
 
                 //DOM cache
                 this.cache.$form = $('#captcha-form');
-                this.cache.$refreshCaptcha = $('#refresh-captcha');
+                this.cache.$refreshCaptcha = $('.refresh-captcha');
                 this.cache.$captchaImg = $('img#captcha');
                 this.cache.$captchaInput = $(':input[name="captcha"]');
 
