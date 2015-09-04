@@ -1,0 +1,30 @@
+.ribbon {
+  position: fixed;
+  z-index: 999;
+  color: transparent;
+}
+
+.ribbon-bandeiras{
+  width: 160px;
+  height: 30px;
+  bottom: 2px;
+  color:white;
+}
+
+.ribbon-bandeiras .brasil{
+  text-indent: -99999px;
+}
+
+.ribbon-bandeiras .usa{
+  text-indent: -99999px;
+}
+
+.ribbon-bandeiras ul{
+    margin: 0px;
+    padding: 0px;
+}
+
+.ribbon-bandeiras li{
+    display: inline;
+    margin-left: 4px;
+}
