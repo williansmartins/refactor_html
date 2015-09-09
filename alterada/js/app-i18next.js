@@ -9,7 +9,7 @@ $(document).ready(function() {
 
 	// Iniciando a lib i18n
 	i18n.init({
-		fallbackLng: 'en-US' //fallback quando não definir linguagem
+		fallbackLng: 'pt-BR' //fallback quando não definir linguagem
 		,debug: true //debug do plugin
 		,fixLng: true //preserva o cookie quando a linguagem for definida
 		,load: 'current' //define a forma correta de declarar linguagens
