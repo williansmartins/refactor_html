@@ -1,67 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?><!DOCTYPE tmx SYSTEM "tmx14.dtd">
 <tmx version="1.4">
 	<body>
-		<tu tuid="ap.desportiva.agende-sua-visita.bairro">
-			<tuv xml:lang="pt_BR">
-				<seg>bairro</seg>
-			</tuv>
-		</tu>
-		<tu tuid="ap.desportiva.agende-sua-visita.cidade">
-			<tuv xml:lang="pt_BR">
-				<seg>CIDADE</seg>
-			</tuv>
-		</tu>
-		<tu tuid="ap.desportiva.agende-sua-visita.digite-letras-abaixo">
-			<tuv xml:lang="pt_BR">
-				<seg>*Digite as letras abaixo.</seg>
-			</tuv>
-		</tu>
-		<tu tuid="ap.desportiva.agende-sua-visita.enviando-formulario">
-			<tuv xml:lang="pt_BR">
-				<seg>Enviando Formulário...</seg>
-			</tuv>
-		</tu>
-		<tu tuid="ap.desportiva.agende-sua-visita.enviando-formulario">
-			<tuv xml:lang="pt_BR">
-				<seg>Submitting Form...</seg>
-			</tuv>
-		</tu>
-		<tu tuid="ap.desportiva.agende-sua-visita.erro-preenchimento">
-			<tuv xml:lang="pt_BR">
-				<seg>Observe se não há erros de preenchimento...</seg>
-			</tuv>
-		</tu>
-		<tu tuid="ap.desportiva.agende-sua-visita.erro-preenchimento">
-			<tuv xml:lang="pt_BR">
-				<seg>The server encountered an error.</seg>
-			</tuv>
-		</tu>
-		<tu tuid="ap.desportiva.agende-sua-visita.formulario-recebido">
-			<tuv xml:lang="pt_BR">
-				<seg>Form received.</seg>
-			</tuv>
-		</tu>
-		<tu tuid="ap.desportiva.agende-sua-visita.formulario-recebido">
-			<tuv xml:lang="pt_BR">
-				<seg>Formulário recebido.</seg>
-			</tuv>
-		</tu>
-		<tu tuid="ap.desportiva.agende-sua-visita.onde-deseja-agendar-visita">
-			<tuv xml:lang="pt_BR">
-				<seg>Onde deseja agendar a sua visita?</seg>
-			</tuv>
-		</tu>
-		<tu tuid="ap.desportiva.agende-sua-visita.telefone">
-			<tuv xml:lang="pt_BR">
-				<seg>telefone</seg>
-			</tuv>
-		</tu>
 		<tu tuid="ap.desportiva.agende-sua-visita">
 			<tuv xml:lang="pt_BR">
 				<seg>agende sua visita</seg>
 			</tuv>
 		</tu>
-		<tu tuid="ap.desportiva.agende-sua-visita">
+		<tu tuid="ap.desportiva.agende-uma-visita">
 			<tuv xml:lang="pt_BR">
 				<seg>agende uma visita</seg>
 			</tuv>
@@ -91,11 +36,6 @@
 				<seg>Aluno do </seg>
 			</tuv>
 		</tu>
-		<tu tuid="ap.desportiva.aluno-do">
-			<tuv xml:lang="pt_BR">
-				<seg>“The DeROSE</seg>
-			</tuv>
-		</tu>
 		<tu tuid="ap.desportiva.apos-cinco-meses-treinamento">
 			<tuv xml:lang="pt_BR">
 				<seg>&nbsp;“Após
@@ -121,6 +61,11 @@
 				<seg>atletas</seg>
 			</tuv>
 		</tu>
+		<tu tuid="ap.desportiva.bairro">
+			<tuv xml:lang="pt_BR">
+				<seg>bairro</seg>
+			</tuv>
+		</tu>
 		<tu tuid="ap.desportiva.boa-forma">
 			<tuv xml:lang="pt_BR">
 				<seg>BOA FORMA</seg>
@@ -144,6 +89,11 @@
 		<tu tuid="ap.desportiva.campinas-sp-br">
 			<tuv xml:lang="pt_BR">
 				<seg>Campinas/SP - BR</seg>
+			</tuv>
+		</tu>
+		<tu tuid="ap.desportiva.cidade">
+			<tuv xml:lang="pt_BR">
+				<seg>CIDADE</seg>
 			</tuv>
 		</tu>
 		<tu tuid="ap.desportiva.com-exercicios-concentracao-meditacao">
@@ -202,6 +152,11 @@
 				<seg>desportiva</seg>
 			</tuv>
 		</tu>
+		<tu tuid="ap.desportiva.digite-letras-abaixo">
+			<tuv xml:lang="pt_BR">
+				<seg>*Digite as letras abaixo.</seg>
+			</tuv>
+		</tu>
 		<tu tuid="ap.desportiva.dominada-tecnica-esporte">
 			<tuv xml:lang="pt_BR">
 				<seg>Dominada a técnica do esporte, o atleta precisa encontrar o seu
@@ -218,6 +173,16 @@
 		<tu tuid="ap.desportiva.email">
 			<tuv xml:lang="pt_BR">
 				<seg>Email</seg>
+			</tuv>
+		</tu>
+		<tu tuid="ap.desportiva.enviando-formulario">
+			<tuv xml:lang="pt_BR">
+				<seg>Enviando Formulário...</seg>
+			</tuv>
+		</tu>
+		<tu tuid="ap.desportiva.erro-preenchimento">
+			<tuv xml:lang="pt_BR">
+				<seg>Observe se não há erros de preenchimento...</seg>
 			</tuv>
 		</tu>
 		<tu tuid="ap.desportiva.estilo-de-vida">
@@ -254,6 +219,11 @@
 		<tu tuid="ap.desportiva.formula-renault">
 			<tuv xml:lang="pt_BR">
 				<seg>Formula Renault</seg>
+			</tuv>
+		</tu>
+		<tu tuid="ap.desportiva.formulario-recebido">
+			<tuv xml:lang="pt_BR">
+				<seg>Formulário recebido.</seg>
 			</tuv>
 		</tu>
 		<tu tuid="ap.desportiva.formulario">
@@ -451,6 +421,11 @@
 		</tu>
 		<tu tuid="ap.desportiva.o-derose">
 			<tuv xml:lang="pt_BR">
+				<seg>“The DeROSE</seg>
+			</tuv>
+		</tu>
+		<tu tuid="ap.desportiva.o-derose">
+			<tuv xml:lang="pt_BR">
 				<seg>“The DeROSE </seg>
 			</tuv>
 		</tu>
@@ -487,6 +462,11 @@
 					de metas e objetivos, e traçar com clareza as ações necessárias
 					para atingi-los.
 				</seg>
+			</tuv>
+		</tu>
+		<tu tuid="ap.desportiva.onde-deseja-agendar-visita">
+			<tuv xml:lang="pt_BR">
+				<seg>Onde deseja agendar a sua visita?</seg>
 			</tuv>
 		</tu>
 		<tu tuid="ap.desportiva.os-desafios-grandes-lideres-enfrentam">
@@ -615,6 +595,11 @@
 				<seg>Taís Rochel</seg>
 			</tuv>
 		</tu>
+		<tu tuid="ap.desportiva.telefone">
+			<tuv xml:lang="pt_BR">
+				<seg>telefone</seg>
+			</tuv>
+		</tu>
 		<tu tuid="ap.desportiva.tenis">
 			<tuv xml:lang="pt_BR">
 				<seg>Ténis</seg>
@@ -669,6 +654,21 @@
 		<tu tuid="ap.estilo-de-vida.estilo-de-vida">
 			<tuv xml:lang="pt_BR">
 				<seg>Estilo de vida</seg>
+			</tuv>
+		</tu>
+		<tu tuid="ap.estilo-de-vida.nossa-definicao-de">
+			<tuv xml:lang="pt_BR">
+				<seg>Nossa definição de</seg>
+			</tuv>
+		</tu>
+		<tu tuid="ap.estilo-de-vida.qualidade-de-vida">
+			<tuv xml:lang="pt_BR">
+				<seg>qualidade de vida</seg>
+			</tuv>
+		</tu>
+		<tu tuid="ap.estilo-de-vida.qualidade-e">
+			<tuv xml:lang="pt_BR">
+				<seg>Qualidade e</seg>
 			</tuv>
 		</tu>
 		<tu tuid="ap.estilo-de-vida.que-tal-adotar-estilo">
@@ -807,100 +807,19 @@
 				<seg>SOBRE O</seg>
 			</tuv>
 		</tu>
-		<tu tuid="ap.menu.agende-uma-visita ">
-			<tuv xml:lang="pt_BR">
-				<seg>Agende uma visita</seg>
-			</tuv>
-		</tu>
-		<tu tuid="ap.menu.agende-uma-visita.agendar-visita">
+		<tu tuid="ap.menu.agendar-visita">
 			<tuv xml:lang="pt_BR">
 				<seg>Onde deseja agendar a sua visita?*</seg>
 			</tuv>
 		</tu>
-		<tu tuid="ap.menu.agende-uma-visita.agende-sua-visita">
+		<tu tuid="ap.menu.agende-sua-visita">
 			<tuv xml:lang="pt_BR">
 				<seg>agende sua visita</seg>
 			</tuv>
 		</tu>
-		<tu tuid="ap.menu.agende-uma-visita.bairro">
+		<tu tuid="ap.menu.agende-uma-visita ">
 			<tuv xml:lang="pt_BR">
-				<seg>bairro</seg>
-			</tuv>
-		</tu>
-		<tu tuid="ap.menu.agende-uma-visita.cidade">
-			<tuv xml:lang="pt_BR">
-				<seg>CIDADE</seg>
-			</tuv>
-		</tu>
-		<tu tuid="ap.menu.agende-uma-visita.digite-letras-abaixo">
-			<tuv xml:lang="pt_BR">
-				<seg>*Digite as letras abaixo.</seg>
-			</tuv>
-		</tu>
-		<tu tuid="ap.menu.agende-uma-visita.email">
-			<tuv xml:lang="pt_BR">
-				<seg>Email</seg>
-			</tuv>
-		</tu>
-		<tu tuid="ap.menu.agende-uma-visita.enviando-formulario">
-			<tuv xml:lang="pt_BR">
-				<seg>Enviando Formulário...</seg>
-			</tuv>
-		</tu>
-		<tu tuid="ap.menu.agende-uma-visita.erro-preenchimento">
-			<tuv xml:lang="pt_BR">
-				<seg>Observe se não há erros de preenchimento...</seg>
-			</tuv>
-		</tu>
-		<tu tuid="ap.menu.agende-uma-visita.formulario-recebido">
-			<tuv xml:lang="pt_BR">
-				<seg>Form received.</seg>
-			</tuv>
-		</tu>
-		<tu tuid="ap.menu.agende-uma-visita.formulario-recebido">
-			<tuv xml:lang="pt_BR">
-				<seg>Formulário recebido.</seg>
-			</tuv>
-		</tu>
-		<tu tuid="ap.menu.agende-uma-visita.formulario">
-			<tuv xml:lang="pt_BR">
-				<seg>Formulário</seg>
-			</tuv>
-		</tu>
-		<tu tuid="ap.menu.agende-uma-visita.nome-sobrenome">
-			<tuv xml:lang="pt_BR">
-				<seg>Nome/SOBRENOME</seg>
-			</tuv>
-		</tu>
-		<tu tuid="ap.menu.agende-uma-visita.selecionamos-escola">
-			<tuv xml:lang="pt_BR">
-				<seg>Nós selecionaremos a escola mais próxima do bairro que você
-					escolheu</seg>
-			</tuv>
-		</tu>
-		<tu tuid="ap.menu.agende-uma-visita.servidor-encontrou-erro">
-			<tuv xml:lang="pt_BR">
-				<seg>Observe se não há erros de preenchimento...</seg>
-			</tuv>
-		</tu>
-		<tu tuid="ap.menu.agende-uma-visita.servidor-encontrou-erro">
-			<tuv xml:lang="pt_BR">
-				<seg>The server encountered an error.</seg>
-			</tuv>
-		</tu>
-		<tu tuid="ap.menu.agende-uma-visita.submetendo-formulario">
-			<tuv xml:lang="pt_BR">
-				<seg>Enviando Formulário...</seg>
-			</tuv>
-		</tu>
-		<tu tuid="ap.menu.agende-uma-visita.submetendo-formulario">
-			<tuv xml:lang="pt_BR">
-				<seg>Submitting Form...</seg>
-			</tuv>
-		</tu>
-		<tu tuid="ap.menu.agende-uma-visita.telefone">
-			<tuv xml:lang="pt_BR">
-				<seg>telefone</seg>
+				<seg>Agende uma visita</seg>
 			</tuv>
 		</tu>
 		<tu tuid="ap.menu.agende-uma-visita">
@@ -918,9 +837,19 @@
 				<seg>alta performance</seg>
 			</tuv>
 		</tu>
+		<tu tuid="ap.menu.bairro">
+			<tuv xml:lang="pt_BR">
+				<seg>bairro</seg>
+			</tuv>
+		</tu>
 		<tu tuid="ap.menu.boa-forma">
 			<tuv xml:lang="pt_BR">
 				<seg>boa forma</seg>
+			</tuv>
+		</tu>
+		<tu tuid="ap.menu.cidade">
+			<tuv xml:lang="pt_BR">
+				<seg>CIDADE</seg>
 			</tuv>
 		</tu>
 		<tu tuid="ap.menu.desportiva">
@@ -933,9 +862,39 @@
 				<seg>*Digite as letras abaixo.</seg>
 			</tuv>
 		</tu>
+		<tu tuid="ap.menu.digite-letras-abaixo">
+			<tuv xml:lang="pt_BR">
+				<seg>*Digite as letras abaixo.</seg>
+			</tuv>
+		</tu>
+		<tu tuid="ap.menu.email">
+			<tuv xml:lang="pt_BR">
+				<seg>Email</seg>
+			</tuv>
+		</tu>
+		<tu tuid="ap.menu.enviando-formulario">
+			<tuv xml:lang="pt_BR">
+				<seg>Enviando Formulário...</seg>
+			</tuv>
+		</tu>
+		<tu tuid="ap.menu.erro-preenchimento">
+			<tuv xml:lang="pt_BR">
+				<seg>Observe se não há erros de preenchimento...</seg>
+			</tuv>
+		</tu>
 		<tu tuid="ap.menu.estilo-de-vida">
 			<tuv xml:lang="pt_BR">
 				<seg>estilo de vida</seg>
+			</tuv>
+		</tu>
+		<tu tuid="ap.menu.formulario-recebido">
+			<tuv xml:lang="pt_BR">
+				<seg>Formulário recebido.</seg>
+			</tuv>
+		</tu>
+		<tu tuid="ap.menu.formulario">
+			<tuv xml:lang="pt_BR">
+				<seg>Formulário</seg>
 			</tuv>
 		</tu>
 		<tu tuid="ap.menu.home">
@@ -963,6 +922,11 @@
 				<seg>modalidades</seg>
 			</tuv>
 		</tu>
+		<tu tuid="ap.menu.nome-sobrenome">
+			<tuv xml:lang="pt_BR">
+				<seg>Nome/SOBRENOME</seg>
+			</tuv>
+		</tu>
 		<tu tuid="ap.menu.ose">
 			<tuv xml:lang="pt_BR">
 				<seg>OSE</seg>
@@ -976,6 +940,17 @@
 		<tu tuid="ap.menu.qualidade-e">
 			<tuv xml:lang="pt_BR">
 				<seg>qualidade e</seg>
+			</tuv>
+		</tu>
+		<tu tuid="ap.menu.selecionamos-escola">
+			<tuv xml:lang="pt_BR">
+				<seg>Nós selecionaremos a escola mais próxima do bairro que você
+					escolheu</seg>
+			</tuv>
+		</tu>
+		<tu tuid="ap.menu.servidor-encontrou-erro">
+			<tuv xml:lang="pt_BR">
+				<seg>Observe se não há erros de preenchimento...</seg>
 			</tuv>
 		</tu>
 		<tu tuid="ap.menu.siga-nos-nas-redes-sociais">
@@ -1006,6 +981,16 @@
 		<tu tuid="ap.menu.sobre-o-metodo">
 			<tuv xml:lang="pt_BR">
 				<seg>sobre o Método</seg>
+			</tuv>
+		</tu>
+		<tu tuid="ap.menu.submetendo-formulario">
+			<tuv xml:lang="pt_BR">
+				<seg>Enviando Formulário...</seg>
+			</tuv>
+		</tu>
+		<tu tuid="ap.menu.telefone">
+			<tuv xml:lang="pt_BR">
+				<seg>telefone</seg>
 			</tuv>
 		</tu>
 		<tu tuid="ap.modalidades.alta-performance">
@@ -1260,11 +1245,6 @@
 		<tu tuid="ap.parabens.conheca-mais-e-faca-download">
 			<tuv xml:lang="pt_BR">
 				<seg>Conheça mais e faça download de um livro sem custo!</seg>
-			</tuv>
-		</tu>
-		<tu tuid="ap.parabens.de-alta-performance">
-			<tuv xml:lang="pt_BR">
-				<seg>ALTA PERFORMANCE</seg>
 			</tuv>
 		</tu>
 		<tu tuid="ap.parabens.de-alta-performance">
@@ -1575,19 +1555,9 @@
 				<seg>Enviando Formulário...</seg>
 			</tuv>
 		</tu>
-		<tu tuid="ap.profissional.enviando-formulario">
-			<tuv xml:lang="pt_BR">
-				<seg>Submitting Form...</seg>
-			</tuv>
-		</tu>
 		<tu tuid="ap.profissional.erro-preenchimento">
 			<tuv xml:lang="pt_BR">
 				<seg>Observe se não há erros de preenchimento...</seg>
-			</tuv>
-		</tu>
-		<tu tuid="ap.profissional.erro-preenchimento">
-			<tuv xml:lang="pt_BR">
-				<seg>The server encountered an error.</seg>
 			</tuv>
 		</tu>
 		<tu tuid="ap.profissional.estilo-de-vida">
@@ -1598,11 +1568,6 @@
 		<tu tuid="ap.profissional.foco">
 			<tuv xml:lang="pt_BR">
 				<seg>foco</seg>
-			</tuv>
-		</tu>
-		<tu tuid="ap.profissional.formulario-recebido">
-			<tuv xml:lang="pt_BR">
-				<seg>Form received.</seg>
 			</tuv>
 		</tu>
 		<tu tuid="ap.profissional.formulario-recebido">
@@ -1952,24 +1917,9 @@
 				<seg>agende sua visita</seg>
 			</tuv>
 		</tu>
-		<tu tuid="ap.qualidade-estilo-de-vida.agende-uma-visita">
-			<tuv xml:lang="pt_BR">
-				<seg>Agende uma visita</seg>
-			</tuv>
-		</tu>
-		<tu tuid="ap.qualidade-estilo-de-vida.agende-uma-visita">
-			<tuv xml:lang="pt_BR">
-				<seg>agende uma visita</seg>
-			</tuv>
-		</tu>
 		<tu tuid="ap.qualidade-estilo-de-vida.alta-performance">
 			<tuv xml:lang="pt_BR">
 				<seg>ALTA PERFORMANCE</seg>
-			</tuv>
-		</tu>
-		<tu tuid="ap.qualidade-estilo-de-vida.alta-performance">
-			<tuv xml:lang="pt_BR">
-				<seg>alta performance</seg>
 			</tuv>
 		</tu>
 		<tu tuid="ap.qualidade-estilo-de-vida.alto-rendimento">
@@ -1978,11 +1928,6 @@
 			</tuv>
 		</tu>
 		<tu tuid="ap.qualidade-estilo-de-vida.alunos-e-instrutores">
-			<tuv xml:lang="pt_BR">
-				<seg>alunos e instrutores</seg>
-			</tuv>
-		</tu>
-		<tu tuid="ap.qualidade-estilo-de-vida.alunos-instrutores">
 			<tuv xml:lang="pt_BR">
 				<seg>alunos e instrutores</seg>
 			</tuv>
@@ -1999,19 +1944,9 @@
 				<seg>ASSISTA AO VÍDEO</seg>
 			</tuv>
 		</tu>
-		<tu tuid="ap.qualidade-estilo-de-vida.assista-ao-video">
-			<tuv xml:lang="pt_BR">
-				<seg>assista ao vídeo</seg>
-			</tuv>
-		</tu>
 		<tu tuid="ap.qualidade-estilo-de-vida.atividades">
 			<tuv xml:lang="pt_BR">
 				<seg>atividades</seg>
-			</tuv>
-		</tu>
-		<tu tuid="ap.qualidade-estilo-de-vida.bairro">
-			<tuv xml:lang="pt_BR">
-				<seg>bairro</seg>
 			</tuv>
 		</tu>
 		<tu tuid="ap.qualidade-estilo-de-vida.boa-forma">
@@ -2019,24 +1954,9 @@
 				<seg>BOA FORMA</seg>
 			</tuv>
 		</tu>
-		<tu tuid="ap.qualidade-estilo-de-vida.boa-forma">
-			<tuv xml:lang="pt_BR">
-				<seg>boa forma</seg>
-			</tuv>
-		</tu>
-		<tu tuid="ap.qualidade-estilo-de-vida.cidade">
-			<tuv xml:lang="pt_BR">
-				<seg>CIDADE</seg>
-			</tuv>
-		</tu>
 		<tu tuid="ap.qualidade-estilo-de-vida.construa-a-sua">
 			<tuv xml:lang="pt_BR">
 				<seg>construa a sua</seg>
-			</tuv>
-		</tu>
-		<tu tuid="ap.qualidade-estilo-de-vida.construa-sua">
-			<tuv xml:lang="pt_BR">
-				<seg>Construa sua</seg>
 			</tuv>
 		</tu>
 		<tu tuid="ap.qualidade-estilo-de-vida.culturais">
@@ -2044,24 +1964,9 @@
 				<seg>culturais</seg>
 			</tuv>
 		</tu>
-		<tu tuid="ap.qualidade-estilo-de-vida.derose">
-			<tuv xml:lang="pt_BR">
-				<seg>DeRose</seg>
-			</tuv>
-		</tu>
 		<tu tuid="ap.qualidade-estilo-de-vida.desportiva">
 			<tuv xml:lang="pt_BR">
 				<seg>DESPORTIVA</seg>
-			</tuv>
-		</tu>
-		<tu tuid="ap.qualidade-estilo-de-vida.desportiva">
-			<tuv xml:lang="pt_BR">
-				<seg>desportiva</seg>
-			</tuv>
-		</tu>
-		<tu tuid="ap.qualidade-estilo-de-vida.digite-as-letras-abaixo">
-			<tuv xml:lang="pt_BR">
-				<seg>*Digite as letras abaixo.</seg>
 			</tuv>
 		</tu>
 		<tu tuid="ap.qualidade-estilo-de-vida.diversas-opcoes-para-todos-os-gostos">
@@ -2072,23 +1977,10 @@
 					conceitos do Método DeR</seg>
 			</tuv>
 		</tu>
-		<tu tuid="ap.qualidade-estilo-de-vida.diversas-opcoes-para-todos-os-gostos">
-			<tuv xml:lang="pt_BR">
-				<seg>Diversas opções para todos os gostos: passeios, aulas teóricas,
-					treinamentos de técnicas específicas, entre muitas outras
-					atividades. E sempre, os momentos ideais para vivenciar os
-					conceitos do Método DeROSE</seg>
-			</tuv>
-		</tu>
 		<tu tuid="ap.qualidade-estilo-de-vida.dominada-a-tecnica-do-esporte">
 			<tuv xml:lang="pt_BR">
 				<seg>Dominada a técnica do esporte, o atleta precisa encontrar o seu
 					diferencial, desenvolvendo outros tipos de capacidades.</seg>
-			</tuv>
-		</tu>
-		<tu tuid="ap.qualidade-estilo-de-vida.email">
-			<tuv xml:lang="pt_BR">
-				<seg>Email</seg>
 			</tuv>
 		</tu>
 		<tu tuid="ap.qualidade-estilo-de-vida.enviando-formulario">
@@ -2096,19 +1988,9 @@
 				<seg>Enviando Formulário...</seg>
 			</tuv>
 		</tu>
-		<tu tuid="ap.qualidade-estilo-de-vida.enviando-formulario">
-			<tuv xml:lang="pt_BR">
-				<seg>Submitting Form...</seg>
-			</tuv>
-		</tu>
 		<tu tuid="ap.qualidade-estilo-de-vida.erro-preenchimento">
 			<tuv xml:lang="pt_BR">
 				<seg>Observe se não há erros de preenchimento...</seg>
-			</tuv>
-		</tu>
-		<tu tuid="ap.qualidade-estilo-de-vida.erro-preenchimento">
-			<tuv xml:lang="pt_BR">
-				<seg>The server encountered an error.</seg>
 			</tuv>
 		</tu>
 		<tu tuid="ap.qualidade-estilo-de-vida.estilo-de-vida">
@@ -2128,11 +2010,6 @@
 		</tu>
 		<tu tuid="ap.qualidade-estilo-de-vida.formulario-recebido">
 			<tuv xml:lang="pt_BR">
-				<seg>Form received.</seg>
-			</tuv>
-		</tu>
-		<tu tuid="ap.qualidade-estilo-de-vida.formulario-recebido">
-			<tuv xml:lang="pt_BR">
 				<seg>Formulário recebido.</seg>
 			</tuv>
 		</tu>
@@ -2144,11 +2021,6 @@
 		<tu tuid="ap.qualidade-estilo-de-vida.foto-jeanine-padilha">
 			<tuv xml:lang="pt_BR">
 				<seg>Foto: ©Jeanine Padilha</seg>
-			</tuv>
-		</tu>
-		<tu tuid="ap.qualidade-estilo-de-vida.foto-rob-langhammer">
-			<tuv xml:lang="pt_BR">
-				<seg>Foto: ©Rob Langhammer</seg>
 			</tuv>
 		</tu>
 		<tu tuid="ap.qualidade-estilo-de-vida.foto-rob-longhammer">
@@ -2194,11 +2066,6 @@
 				<seg>melhor versão</seg>
 			</tuv>
 		</tu>
-		<tu tuid="ap.qualidade-estilo-de-vida.menu">
-			<tuv xml:lang="pt_BR">
-				<seg>MENU</seg>
-			</tuv>
-		</tu>
 		<tu tuid="ap.qualidade-estilo-de-vida.metodo-derose-copacabana">
 			<tuv xml:lang="pt_BR">
 				<seg>Método DeROSE Copacabana</seg>
@@ -2207,16 +2074,6 @@
 		<tu tuid="ap.qualidade-estilo-de-vida.metodo-derose">
 			<tuv xml:lang="pt_BR">
 				<seg>MÉTODO DeROSE</seg>
-			</tuv>
-		</tu>
-		<tu tuid="ap.qualidade-estilo-de-vida.modalidades">
-			<tuv xml:lang="pt_BR">
-				<seg>modalidades</seg>
-			</tuv>
-		</tu>
-		<tu tuid="ap.qualidade-estilo-de-vida.multipclidade-de">
-			<tuv xml:lang="pt_BR">
-				<seg>Multiplicidade de</seg>
 			</tuv>
 		</tu>
 		<tu tuid="ap.qualidade-estilo-de-vida.multiplicidade-de">
@@ -2231,11 +2088,6 @@
 					sempre buscaram para ter sucesso em todos os âmbitos.</seg>
 			</tuv>
 		</tu>
-		<tu tuid="ap.qualidade-estilo-de-vida.nome-sobrenome">
-			<tuv xml:lang="pt_BR">
-				<seg>Nome/SOBRENOME</seg>
-			</tuv>
-		</tu>
 		<tu tuid="ap.qualidade-estilo-de-vida.nos-selecionamos-escola-mais-proxima">
 			<tuv xml:lang="pt_BR">
 				<seg>Nós selecionaremos a escola mais próxima do bairro que você
@@ -2245,11 +2097,6 @@
 		<tu tuid="ap.qualidade-estilo-de-vida.nossa-definicao-de">
 			<tuv xml:lang="pt_BR">
 				<seg>Nossa definição de</seg>
-			</tuv>
-		</tu>
-		<tu tuid="ap.qualidade-estilo-de-vida.onde-deseja-agendar-sua-visita">
-			<tuv xml:lang="pt_BR">
-				<seg>Onde deseja agendar a sua visita?</seg>
 			</tuv>
 		</tu>
 		<tu tuid="ap.qualidade-estilo-de-vida.onde-deseja-agendar-sua-visita">
@@ -2269,19 +2116,9 @@
 				<seg>Premium Lifestyle</seg>
 			</tuv>
 		</tu>
-		<tu tuid="ap.qualidade-estilo-de-vida.premium-lifestyle">
-			<tuv xml:lang="pt_BR">
-				<seg>Premium lifestyle</seg>
-			</tuv>
-		</tu>
 		<tu tuid="ap.qualidade-estilo-de-vida.profissional">
 			<tuv xml:lang="pt_BR">
 				<seg>PROFISSIONAL</seg>
-			</tuv>
-		</tu>
-		<tu tuid="ap.qualidade-estilo-de-vida.profissional">
-			<tuv xml:lang="pt_BR">
-				<seg>profissional</seg>
 			</tuv>
 		</tu>
 		<tu
@@ -2338,19 +2175,9 @@
 				<seg>Qualidade e</seg>
 			</tuv>
 		</tu>
-		<tu tuid="ap.qualidade-estilo-de-vida.qualidade-e">
-			<tuv xml:lang="pt_BR">
-				<seg>qualidade e</seg>
-			</tuv>
-		</tu>
 		<tu tuid="ap.qualidade-estilo-de-vida.que-tal-adota-um-estilo">
 			<tuv xml:lang="pt_BR">
 				<seg>Que tal adotar um estilo de vida saudável e descomplicado?</seg>
-			</tuv>
-		</tu>
-		<tu tuid="ap.qualidade-estilo-de-vida.siga-nos-redes-sociais">
-			<tuv xml:lang="pt_BR">
-				<seg>siga-nos nas redes sociais</seg>
 			</tuv>
 		</tu>
 		<tu tuid="ap.qualidade-estilo-de-vida.sistema-de">
@@ -2358,29 +2185,14 @@
 				<seg>SISTEMA DE</seg>
 			</tuv>
 		</tu>
-		<tu tuid="ap.qualidade-estilo-de-vida.sistema-de">
-			<tuv xml:lang="pt_BR">
-				<seg>sistema de</seg>
-			</tuv>
-		</tu>
 		<tu tuid="ap.qualidade-estilo-de-vida.sistematizador-derose">
 			<tuv xml:lang="pt_BR">
 				<seg>Sistematizador DeRose</seg>
 			</tuv>
 		</tu>
-		<tu tuid="ap.qualidade-estilo-de-vida.sobre-o-metodo">
-			<tuv xml:lang="pt_BR">
-				<seg>sobre o Método</seg>
-			</tuv>
-		</tu>
 		<tu tuid="ap.qualidade-estilo-de-vida.sua-essencia">
 			<tuv xml:lang="pt_BR">
 				<seg>sua essência</seg>
-			</tuv>
-		</tu>
-		<tu tuid="ap.qualidade-estilo-de-vida.telefone">
-			<tuv xml:lang="pt_BR">
-				<seg>telefone</seg>
 			</tuv>
 		</tu>
 		<tu tuid="ap.qualidade-estilo-de-vida.ter-boa-forma-e-muito-mais">
@@ -2396,32 +2208,6 @@
 		<tu tuid="ap.qualidade-estilo-de-vida.x">
 			<tuv xml:lang="pt_BR">
 				<seg>x</seg>
-			</tuv>
-		</tu>
-		<tu tuid="ap.rodape.agende-sua-visita.enviando-formulario">
-			<tuv xml:lang="pt_BR">
-				<seg>Submitting Form...</seg>
-			</tuv>
-		</tu>
-		<tu tuid="ap.rodape.agende-sua-visita.erro-preenchimento">
-			<tuv xml:lang="pt_BR">
-				<seg>The server encountered an error.</seg>
-			</tuv>
-		</tu>
-		<tu tuid="ap.rodape.agende-sua-visita.formulario-recebido">
-			<tuv xml:lang="pt_BR">
-				<seg>Form received.</seg>
-			</tuv>
-		</tu>
-		<tu tuid="ap.rodape.agende-sua-visita.onde-agendar-visita">
-			<tuv xml:lang="pt_BR">
-				<seg>Onde deseja agendar a sua visita?*</seg>
-			</tuv>
-		</tu>
-		<tu tuid="ap.rodape.agende-sua-visita.selecionamos-escola-mais-proxima">
-			<tuv xml:lang="pt_BR">
-				<seg>Nós selecionaremos a escola mais próxima do bairro que você
-					escolheu</seg>
 			</tuv>
 		</tu>
 		<tu tuid="ap.rodape.agende-sua-visita">
@@ -2444,6 +2230,16 @@
 				<seg>by </seg>
 			</tuv>
 		</tu>
+		<tu tuid="ap.rodape.enviando-formulario">
+			<tuv xml:lang="pt_BR">
+				<seg>Submitting Form...</seg>
+			</tuv>
+		</tu>
+		<tu tuid="ap.rodape.erro-preenchimento">
+			<tuv xml:lang="pt_BR">
+				<seg>The server encountered an error.</seg>
+			</tuv>
+		</tu>
 		<tu tuid="ap.rodape.facebook">
 			<tuv xml:lang="pt_BR">
 				<seg>facebook</seg>
@@ -2452,6 +2248,11 @@
 		<tu tuid="ap.rodape.fechar">
 			<tuv xml:lang="pt_BR">
 				<seg>fechar</seg>
+			</tuv>
+		</tu>
+		<tu tuid="ap.rodape.formulario-recebido">
+			<tuv xml:lang="pt_BR">
+				<seg>Form received.</seg>
 			</tuv>
 		</tu>
 		<tu tuid="ap.rodape.formulario">
@@ -2464,9 +2265,14 @@
 				<seg>instagram</seg>
 			</tuv>
 		</tu>
-		<tu tuid="ap.rodape.metodo-derose-2015">
+		<tu tuid="ap.rodape.metodo-derose-2015 class=copy">
 			<tuv xml:lang="pt_BR">
-				<seg>Método DeROSE ® 2015</seg>
+				<seg>® Método DeROSE - 2015</seg>
+			</tuv>
+		</tu>
+		<tu tuid="ap.rodape.metodo-derose-2015 class=copy">
+			<tuv xml:lang="pt_BR">
+				<seg>® Método DeROSE ® 2015</seg>
 			</tuv>
 		</tu>
 		<tu tuid="ap.rodape.metodo-derose-2015">
@@ -2479,14 +2285,15 @@
 				<seg>® Método DeROSE - 2015</seg>
 			</tuv>
 		</tu>
-		<tu tuid="ap.rodape.metodo-derose-2015">
+		<tu tuid="ap.rodape.onde-agendar-visita">
 			<tuv xml:lang="pt_BR">
-				<seg>® Método DeROSE ® 2015</seg>
+				<seg>Onde deseja agendar a sua visita?*</seg>
 			</tuv>
 		</tu>
-		<tu tuid="ap.rodape.office-powered">
+		<tu tuid="ap.rodape.selecionamos-escola-mais-proxima">
 			<tuv xml:lang="pt_BR">
-				<seg>Office Powered</seg>
+				<seg>Nós selecionaremos a escola mais próxima do bairro que você
+					escolheu</seg>
 			</tuv>
 		</tu>
 		<tu tuid="ap.rodape.x">
@@ -2707,19 +2514,9 @@
 				<seg>Enviando Formulário...</seg>
 			</tuv>
 		</tu>
-		<tu tuid="ap.sistema-boa-forma.enviando-formulario">
-			<tuv xml:lang="pt_BR">
-				<seg>Submitting Form...</seg>
-			</tuv>
-		</tu>
 		<tu tuid="ap.sistema-boa-forma.erro-preenchimento">
 			<tuv xml:lang="pt_BR">
 				<seg>Observe se não há erros de preenchimento...</seg>
-			</tuv>
-		</tu>
-		<tu tuid="ap.sistema-boa-forma.erro-preenchimento">
-			<tuv xml:lang="pt_BR">
-				<seg>The server encountered an error.</seg>
 			</tuv>
 		</tu>
 		<tu tuid="ap.sistema-boa-forma.este-conjunto-ferramentas-executado">
@@ -2740,11 +2537,6 @@
 		<tu tuid="ap.sistema-boa-forma.estilo-de-vida">
 			<tuv xml:lang="pt_BR">
 				<seg>estilo de vida</seg>
-			</tuv>
-		</tu>
-		<tu tuid="ap.sistema-boa-forma.formulario-recebido">
-			<tuv xml:lang="pt_BR">
-				<seg>Form received.</seg>
 			</tuv>
 		</tu>
 		<tu tuid="ap.sistema-boa-forma.formulario-recebido">

@@ -18,9 +18,6 @@
                "conheca-mais-e-faca-download":"Conheça mais e faça download de um livro sem custo!"
             },
             {  
-               "de-alta-performance":"ALTA PERFORMANCE"
-            },
-            {  
                "de-alta-performance":"de Alta Performance"
             },
             {  
@@ -59,40 +56,7 @@
                "agende-sua-visita":"agende sua visita"
             },
             {  
-               "agende-sua-visita":"agende uma visita"
-            },
-            {  
-               "agende-sua-visita":"bairro"
-            },
-            {  
-               "agende-sua-visita":"cidade"
-            },
-            {  
-               "agende-sua-visita":"digite-letras-abaixo"
-            },
-            {  
-               "agende-sua-visita":"enviando-formulario"
-            },
-            {  
-               "agende-sua-visita":"enviando-formulario"
-            },
-            {  
-               "agende-sua-visita":"erro-preenchimento"
-            },
-            {  
-               "agende-sua-visita":"erro-preenchimento"
-            },
-            {  
-               "agende-sua-visita":"formulario-recebido"
-            },
-            {  
-               "agende-sua-visita":"formulario-recebido"
-            },
-            {  
-               "agende-sua-visita":"onde-deseja-agendar-visita"
-            },
-            {  
-               "agende-sua-visita":"telefone"
+               "agende-uma-visita":"agende uma visita"
             },
             {  
                "alta-performance":"ALTA PERFORMANCE"
@@ -110,9 +74,6 @@
                "aluno-do":"Aluno do "
             },
             {  
-               "aluno-do":"“The DeROSE"
-            },
-            {  
                "apos-cinco-meses-treinamento":"\u0026nbsp;“Após 5 meses de treinamento no Método DeROSE consegui melhorar minha velocidade média de remada em 10%"
             },
             {  
@@ -123,6 +84,9 @@
             },
             {  
                "atletas":"atletas"
+            },
+            {  
+               "bairro":"bairro"
             },
             {  
                "boa-forma":"BOA FORMA"
@@ -138,6 +102,9 @@
             },
             {  
                "campinas-sp-br":"Campinas/SP - BR"
+            },
+            {  
+               "cidade":"CIDADE"
             },
             {  
                "com-exercicios-concentracao-meditacao":"Com os exercícios de concentração e meditação, amplia-se o foco e a capacidade de organizar os pensamentos para a conquista do ideal projetado"
@@ -170,6 +137,9 @@
                "desportiva":"desportiva"
             },
             {  
+               "digite-letras-abaixo":"*Digite as letras abaixo"
+            },
+            {  
                "dominada-tecnica-esporte":"Dominada a técnica do esporte, o atleta precisa encontrar o seu diferencial, desenvolvendo outros tipos de capacidades"
             },
             {  
@@ -177,6 +147,12 @@
             },
             {  
                "email":"Email"
+            },
+            {  
+               "enviando-formulario":"Enviando Formulário"
+            },
+            {  
+               "erro-preenchimento":"Observe se não há erros de preenchimento"
             },
             {  
                "estilo-de-vida":"ESTILO DE VIDA"
@@ -195,6 +171,9 @@
             },
             {  
                "formula-renault":"Formula Renault"
+            },
+            {  
+               "formulario-recebido":"Formulário recebido"
             },
             {  
                "formulario":"formulário"
@@ -302,6 +281,9 @@
                "nove-vezes-campea-brasileira-esgrima":"9 vezes campeã brasileira de esgrima na categoria florete"
             },
             {  
+               "o-derose":"“The DeROSE"
+            },
+            {  
                "o-derose":"“The DeROSE "
             },
             {  
@@ -312,6 +294,9 @@
             },
             {  
                "o-treinamento-de-exercicios":"O treinamento de exercícios de descontração proposto ensina a voluntariamente distensionar músculos, nervos, tendões, enfim, o corpo todo, auxiliando na redução dos níveis de stress e ansiedade provocados pela expectativa por melhores resultados"
+            },
+            {  
+               "onde-deseja-agendar-visita":"Onde deseja agendar a sua visita?"
             },
             {  
                "os-desafios-grandes-lideres-enfrentam":"Os desafios que os grandes líderes enfrentam todos os dias vão além do domínio sobre o negócio em que atuam"
@@ -377,6 +362,9 @@
                "tais-rachel":"Taís Rochel"
             },
             {  
+               "telefone":"telefone"
+            },
+            {  
                "tenis":"Ténis"
             },
             {  
@@ -433,13 +421,7 @@
                "atividades":"atividades"
             },
             {  
-               "bairro":"bairro"
-            },
-            {  
                "boa-forma":"BOA FORMA"
-            },
-            {  
-               "cidade":"CIDADE"
             },
             {  
                "construa-a-sua":"construa a sua"
@@ -457,13 +439,10 @@
                "dominada-a-tecnica-do-esporte":"Dominada a técnica do esporte, o atleta precisa encontrar o seu diferencial, desenvolvendo outros tipos de capacidades"
             },
             {  
-               "email":"Email"
+               "enviando-formulario":"Enviando Formulário"
             },
             {  
-               "enviando-formulario":"Submitting Form"
-            },
-            {  
-               "erro-preenchimento":"The server encountered an error"
+               "erro-preenchimento":"Observe se não há erros de preenchimento"
             },
             {  
                "estilo-de-vida":"ESTILO DE VIDA"
@@ -475,7 +454,7 @@
                "estilo-de-vida":"estilo de vida"
             },
             {  
-               "formulario-recebido":"Form received"
+               "formulario-recebido":"Formulário recebido"
             },
             {  
                "formulario":"Formulário"
@@ -518,9 +497,6 @@
             },
             {  
                "nas-escolas-metodo-derose":"Nas escolas do Método DeROSE, os alunos têm a oportunidade de compartilhar momentos de aprendizagem e diversão, com tudo o que sempre buscaram para ter sucesso em todos os âmbitos"
-            },
-            {  
-               "nome-sobrenome":"Nome/SOBRENOME"
             },
             {  
                "nos-selecionamos-escola-mais-proxima":"Nós selecionaremos a escola mais próxima do bairro que você escolheu"
@@ -575,9 +551,6 @@
             },
             {  
                "sua-essencia":"sua essência"
-            },
-            {  
-               "telefone":"telefone"
             },
             {  
                "ter-boa-forma-e-muito-mais":"Ter boa forma é muito mais do que uma simples questão estética"
@@ -810,55 +783,16 @@
          ],
          "menu":[  
             {  
+               "agendar-visita":"Onde deseja agendar a sua visita?*"
+            },
+            {  
+               "agende-sua-visita":"agende sua visita"
+            },
+            {  
                "agende-uma-visita ":"Agende uma visita"
             },
             {  
                "agende-uma-visita":"Agende uma visita"
-            },
-            {  
-               "agende-uma-visita":"agendar-visita"
-            },
-            {  
-               "agende-uma-visita":"agende-sua-visita"
-            },
-            {  
-               "agende-uma-visita":"bairro"
-            },
-            {  
-               "agende-uma-visita":"cidade"
-            },
-            {  
-               "agende-uma-visita":"digite-letras-abaixo"
-            },
-            {  
-               "agende-uma-visita":"email"
-            },
-            {  
-               "agende-uma-visita":"enviando-formulario"
-            },
-            {  
-               "agende-uma-visita":"erro-preenchimento"
-            },
-            {  
-               "agende-uma-visita":"formulario-recebido"
-            },
-            {  
-               "agende-uma-visita":"formulario"
-            },
-            {  
-               "agende-uma-visita":"nome-sobrenome"
-            },
-            {  
-               "agende-uma-visita":"selecionamos-escola"
-            },
-            {  
-               "agende-uma-visita":"servidor-encontrou-erro"
-            },
-            {  
-               "agende-uma-visita":"submetendo-formulario"
-            },
-            {  
-               "agende-uma-visita":"telefone"
             },
             {  
                "agenede-uma-visita":"Agende uma visita"
@@ -867,7 +801,13 @@
                "alta-performance":"alta performance"
             },
             {  
+               "bairro":"bairro"
+            },
+            {  
                "boa-forma":"boa forma"
+            },
+            {  
+               "cidade":"CIDADE"
             },
             {  
                "desportiva":"desportiva"
@@ -876,7 +816,25 @@
                "digite-as-letras-abaixo":"*Digite as letras abaixo"
             },
             {  
+               "digite-letras-abaixo":"*Digite as letras abaixo"
+            },
+            {  
+               "email":"Email"
+            },
+            {  
+               "enviando-formulario":"Enviando Formulário"
+            },
+            {  
+               "erro-preenchimento":"Observe se não há erros de preenchimento"
+            },
+            {  
                "estilo-de-vida":"estilo de vida"
+            },
+            {  
+               "formulario-recebido":"Formulário recebido"
+            },
+            {  
+               "formulario":"Formulário"
             },
             {  
                "home":"HOME"
@@ -894,6 +852,9 @@
                "modalidades":"modalidades"
             },
             {  
+               "nome-sobrenome":"Nome/SOBRENOME"
+            },
+            {  
                "ose":"OSE"
             },
             {  
@@ -901,6 +862,12 @@
             },
             {  
                "qualidade-e":"qualidade e"
+            },
+            {  
+               "selecionamos-escola":"Nós selecionaremos a escola mais próxima do bairro que você escolheu"
+            },
+            {  
+               "servidor-encontrou-erro":"Observe se não há erros de preenchimento"
             },
             {  
                "siga-nos-nas-redes-sociais":"siga-nos nas redes sociais"
@@ -919,26 +886,17 @@
             },
             {  
                "sobre-o-metodo":"sobre o Método"
+            },
+            {  
+               "submetendo-formulario":"Enviando Formulário"
+            },
+            {  
+               "telefone":"telefone"
             }
          ],
          "rodape":[  
             {  
                "agende-sua-visita":"agende sua visita"
-            },
-            {  
-               "agende-sua-visita":"enviando-formulario"
-            },
-            {  
-               "agende-sua-visita":"erro-preenchimento"
-            },
-            {  
-               "agende-sua-visita":"formulario-recebido"
-            },
-            {  
-               "agende-sua-visita":"onde-agendar-visita"
-            },
-            {  
-               "agende-sua-visita":"selecionamos-escola-mais-proxima"
             },
             {  
                "agende-uma-visita":"Agende uma visita"
@@ -950,10 +908,19 @@
                "by":"by "
             },
             {  
+               "enviando-formulario":"Submitting Form"
+            },
+            {  
+               "erro-preenchimento":"The server encountered an error"
+            },
+            {  
                "facebook":"facebook"
             },
             {  
                "fechar":"fechar"
+            },
+            {  
+               "formulario-recebido":"Form received"
             },
             {  
                "formulario":"Formulário"
@@ -972,6 +939,12 @@
             },
             {  
                "metodo-derose-2015":"® Método DeROSE - 2015"
+            },
+            {  
+               "onde-agendar-visita":"Onde deseja agendar a sua visita?*"
+            },
+            {  
+               "selecionamos-escola-mais-proxima":"Nós selecionaremos a escola mais próxima do bairro que você escolheu"
             },
             {  
                "x":"x"
@@ -1096,13 +1069,7 @@
                "enviando-formulario":"Enviando Formulário"
             },
             {  
-               "enviando-formulario":"Submitting Form"
-            },
-            {  
                "erro-preenchimento":"Observe se não há erros de preenchimento"
-            },
-            {  
-               "erro-preenchimento":"The server encountered an error"
             },
             {  
                "este-conjunto-ferramentas-executado":"Este conjunto de ferramentas é executado sem repetição, respeitando-se o princípio da isometria, o que desenvolve o tônus muscular, sem reduzir o alongamento"
@@ -1112,9 +1079,6 @@
             },
             {  
                "estilo-de-vida":"estilo de vida"
-            },
-            {  
-               "formulario-recebido":"Form received"
             },
             {  
                "formulario-recebido":"Formulário recebido"
@@ -1613,22 +1577,13 @@
                "enviando-formulario":"Enviando Formulário"
             },
             {  
-               "enviando-formulario":"Submitting Form"
-            },
-            {  
                "erro-preenchimento":"Observe se não há erros de preenchimento"
-            },
-            {  
-               "erro-preenchimento":"The server encountered an error"
             },
             {  
                "estilo-de-vida":"ESTILO DE VIDA"
             },
             {  
                "foco":"foco"
-            },
-            {  
-               "formulario-recebido":"Form received"
             },
             {  
                "formulario-recebido":"Formulário recebido"
